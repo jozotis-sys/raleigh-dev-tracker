@@ -7,7 +7,7 @@ Used by 00_discover_meetings.py, 01_geocode_new.py, and 02_build_map.py.
 import re
 import time
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse, parse_qs
 
 import requests
 import pdfplumber
@@ -81,17 +81,28 @@ def render_page(playwright, url, wait_seconds=3):
 # ---------------------------------------------------------------------------
 
 def extract_meeting_links(html):
+    """Find individual meetings on a rendered committee listing page.
+
+    eSCRIBE listing pages contain multiple link variants per meeting --
+    some with "&Agenda=Agenda" (the actual agenda view, with case PDFs)
+    and some without (a bare "meeting details" page with no documents).
+    Rather than trust whichever variant happens to appear, we pull out
+    just the meeting's Id and build the canonical agenda URL ourselves,
+    deduping by Id so each real meeting is only processed once."""
     soup = BeautifulSoup(html, "html.parser")
-    seen = set()
+    seen_ids = set()
     meetings = []
     for a in soup.find_all("a", href=True):
         href = urljoin(BASE_URL, a["href"])
-        if "Meeting.aspx" not in href or "Id=" not in href:
+        if "Meeting.aspx" not in href:
             continue
-        if href in seen:
+        qs = parse_qs(urlparse(href).query)
+        meeting_id = qs.get("Id", [None])[0]
+        if not meeting_id or meeting_id in seen_ids:
             continue
-        seen.add(href)
-        meetings.append({"href": href, "text": a.get_text(strip=True)})
+        seen_ids.add(meeting_id)
+        canonical_url = f"{BASE_URL}Meeting.aspx?Id={meeting_id}&Agenda=Agenda&lang=English"
+        meetings.append({"href": canonical_url, "text": a.get_text(strip=True)})
     return meetings
 
 
