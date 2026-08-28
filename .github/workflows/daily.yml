@@ -41,6 +41,7 @@ jobs:
         run: python3 02_build_map.py
 
       - name: Send email digest for new cases
+        continue-on-error: true  # don't let an email hiccup block the map from deploying
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           DIGEST_TO_EMAIL: ${{ secrets.DIGEST_TO_EMAIL }}
