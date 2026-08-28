@@ -1,0 +1,62 @@
+{
+  "4020 Carya Drive": {
+    "lat": 35.76999498583577,
+    "lng": -78.56864329879951,
+    "formatted": "4020 Carya Drive, Raleigh, NC 27610, United States of America"
+  },
+  "6309 Litchford Road": {
+    "lat": 35.86514639284573,
+    "lng": -78.59826873670411,
+    "formatted": "6309 Litchford Road, Raleigh, NC 27615, United States of America"
+  },
+  "2321 Capital Boulevard": {
+    "lat": 35.810603628381614,
+    "lng": -78.61281283748811,
+    "formatted": "2321 Capital Boulevard, Raleigh, NC 27604, United States of America"
+  },
+  "3911 Western Boulevard": {
+    "lat": 35.78446838809601,
+    "lng": -78.69074365441824,
+    "formatted": "3911 Western Boulevard, Raleigh, NC 27606, United States of America"
+  },
+  "5605 Rock Quarry Road": {
+    "lat": 35.7307560251381,
+    "lng": -78.55720032619993,
+    "formatted": "5605 Rock Quarry Road, Raleigh, NC 27610, United States of America"
+  },
+  "4808 Spring Forest Road": {
+    "lat": 35.855943647093554,
+    "lng": -78.5599061879666,
+    "formatted": "4808 Spring Forest Road, Raleigh, NC 27616, United States of America"
+  },
+  "4424 Mitchell Mill Road": {
+    "lat": 35.8854571,
+    "lng": -78.5251861,
+    "formatted": "4424 Mitchell Mill Road, Raleigh, NC 20405, United States of America"
+  },
+  "314 Haywood Street": {
+    "lat": 35.77626202638374,
+    "lng": -78.62816457208169,
+    "formatted": "314 South Haywood Street, Raleigh, NC 27601, United States of America"
+  },
+  "416 Dorothea Drive": {
+    "lat": 35.7711683522474,
+    "lng": -78.64653666911204,
+    "formatted": "416 Dorothea Drive, Raleigh Housing Authority: Heritage Park, Raleigh, NC 27601, United States of America"
+  },
+  "5925 Glenwood Avenue": {
+    "lat": 35.8531709,
+    "lng": -78.6994652,
+    "formatted": "5925 Glenwood Avenue, Raleigh, NC 27612, United States of America"
+  },
+  "1132 Gorman Street": {
+    "lat": 35.78296962429942,
+    "lng": -78.6871919630474,
+    "formatted": "1132 Gorman Street, Raleigh, NC 27606, United States of America"
+  },
+  "6918 Poole Road": {
+    "lat": 35.754378664587364,
+    "lng": -78.5261068752417,
+    "formatted": "6918 Poole Road, Raleigh, NC 27610, United States of America"
+  }
+}

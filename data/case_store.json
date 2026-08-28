@@ -1,0 +1,322 @@
+{
+  "AX-17-26": {
+    "case_number": "AX-17-26",
+    "case_type": "Annexation",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16599",
+        "text": "PLANDEV - AX-17-26 - 2026-780.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&lang=English",
+    "first_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "address_guess": null,
+    "lat": null,
+    "lng": null,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16599",
+      "text": "PLANDEV - AX-17-26 - 2026-780.pdf"
+    }
+  },
+  "Z-56-25": {
+    "case_number": "Z-56-25",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16586",
+        "text": "PLANDEV - Z-56-25 - 2026-875.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&lang=English",
+    "first_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "address_guess": "4020 Carya Drive",
+    "lat": 35.76999498583577,
+    "lng": -78.56864329879951,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16586",
+      "text": "PLANDEV - Z-56-25 - 2026-875.pdf"
+    },
+    "formatted_address": "4020 Carya Drive, Raleigh, NC 27610, United States of America"
+  },
+  "Z-43-25": {
+    "case_number": "Z-43-25",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16588",
+        "text": "PLANDEV \u2013 Z-43-25 - 2026-877.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&lang=English",
+    "first_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "address_guess": "6309 Litchford Road",
+    "lat": 35.86514639284573,
+    "lng": -78.59826873670411,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16588",
+      "text": "PLANDEV \u2013 Z-43-25 - 2026-877.pdf"
+    },
+    "formatted_address": "6309 Litchford Road, Raleigh, NC 27615, United States of America"
+  },
+  "Z-50-25": {
+    "case_number": "Z-50-25",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16590",
+        "text": "PLANDEV \u2013 Z-50-25 - 2026-878.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&lang=English",
+    "first_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "address_guess": "2321 Capital Boulevard",
+    "lat": 35.810603628381614,
+    "lng": -78.61281283748811,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16590",
+      "text": "PLANDEV \u2013 Z-50-25 - 2026-878.pdf"
+    },
+    "formatted_address": "2321 Capital Boulevard, Raleigh, NC 27604, United States of America"
+  },
+  "Z-07-26": {
+    "case_number": "Z-07-26",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16601",
+        "text": "PLANDEV - Z-07-26 - 2026-884.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&lang=English",
+    "first_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "address_guess": "3911 Western Boulevard",
+    "lat": 35.78446838809601,
+    "lng": -78.69074365441824,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16601",
+      "text": "PLANDEV - Z-07-26 - 2026-884.pdf"
+    },
+    "formatted_address": "3911 Western Boulevard, Raleigh, NC 27606, United States of America"
+  },
+  "TC-4-26": {
+    "case_number": "TC-4-26",
+    "case_type": "Text Change",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16636",
+        "text": "PLANDEV - TC-4-26 - 2026-917.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&lang=English",
+    "first_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "address_guess": null,
+    "lat": null,
+    "lng": null,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16636",
+      "text": "PLANDEV - TC-4-26 - 2026-917.pdf"
+    }
+  },
+  "Z-08-26": {
+    "case_number": "Z-08-26",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16627",
+        "text": "PLANDEV - Z-08-26 - 2026-900.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&lang=English",
+    "first_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "address_guess": "5605 Rock Quarry Road",
+    "lat": 35.7307560251381,
+    "lng": -78.55720032619993,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16627",
+      "text": "PLANDEV - Z-08-26 - 2026-900.pdf"
+    },
+    "formatted_address": "5605 Rock Quarry Road, Raleigh, NC 27610, United States of America"
+  },
+  "Z-51-25": {
+    "case_number": "Z-51-25",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16631",
+        "text": "PLANDEV - Z-51-25 - 2026-904.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&lang=English",
+    "first_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "address_guess": "4808 Spring Forest Road",
+    "lat": 35.855943647093554,
+    "lng": -78.5599061879666,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16631",
+      "text": "PLANDEV - Z-51-25 - 2026-904.pdf"
+    },
+    "formatted_address": "4808 Spring Forest Road, Raleigh, NC 27616, United States of America"
+  },
+  "AX-06-26": {
+    "case_number": "AX-06-26",
+    "case_type": "Annexation",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16625",
+        "text": "PLANDEV - AX-06-26 - 2026-900.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&lang=English",
+    "first_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "address_guess": "4424 Mitchell Mill Road",
+    "lat": 35.8854571,
+    "lng": -78.5251861,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16625",
+      "text": "PLANDEV - AX-06-26 - 2026-900.pdf"
+    },
+    "formatted_address": "4424 Mitchell Mill Road, Raleigh, NC 20405, United States of America"
+  },
+  "HLD-0001-2026": {
+    "case_number": "HLD-0001-2026",
+    "case_type": "Historic Landmark Designation",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16603",
+        "text": "PLANDEV-HLD-0001-2026 - 2026-885.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&lang=English",
+    "first_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "address_guess": "314 Haywood Street",
+    "lat": 35.77626202638374,
+    "lng": -78.62816457208169,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16603",
+      "text": "PLANDEV-HLD-0001-2026 - 2026-885.pdf"
+    },
+    "formatted_address": "314 South Haywood Street, Raleigh, NC 27601, United States of America"
+  },
+  "Z-19-25": {
+    "case_number": "Z-19-25",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16614",
+        "text": "PLANDEV - Z-19-25 - 2026-895.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&lang=English",
+    "first_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "address_guess": "416 Dorothea Drive",
+    "lat": 35.7711683522474,
+    "lng": -78.64653666911204,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16614",
+      "text": "PLANDEV - Z-19-25 - 2026-895.pdf"
+    },
+    "formatted_address": "416 Dorothea Drive, Raleigh Housing Authority: Heritage Park, Raleigh, NC 27601, United States of America"
+  },
+  "Z-9-26": {
+    "case_number": "Z-9-26",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16574",
+        "text": "PLANDEV \u2013 Z-9-26 - 2026-777.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&lang=English",
+    "first_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "address_guess": "5925 Glenwood Avenue",
+    "lat": 35.8531709,
+    "lng": -78.6994652,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16574",
+      "text": "PLANDEV \u2013 Z-9-26 - 2026-777.pdf"
+    },
+    "formatted_address": "5925 Glenwood Avenue, Raleigh, NC 27612, United States of America"
+  },
+  "Z-14-26": {
+    "case_number": "Z-14-26",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16618",
+        "text": "PLANDEV - Z-14-26 - 2026-896.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&lang=English",
+    "first_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "address_guess": "1132 Gorman Street",
+    "lat": 35.78296962429942,
+    "lng": -78.6871919630474,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16618",
+      "text": "PLANDEV - Z-14-26 - 2026-896.pdf"
+    },
+    "formatted_address": "1132 Gorman Street, Raleigh, NC 27606, United States of America"
+  },
+  "Z-18-26": {
+    "case_number": "Z-18-26",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16578",
+        "text": "PLANDEV \u2013 Z-18-26 - 2026-778.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&lang=English",
+    "first_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "address_guess": "6918 Poole Road",
+    "lat": 35.754378664587364,
+    "lng": -78.5261068752417,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-28T19:15:48.361133+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16578",
+      "text": "PLANDEV \u2013 Z-18-26 - 2026-778.pdf"
+    },
+    "formatted_address": "6918 Poole Road, Raleigh, NC 27610, United States of America"
+  }
+}
