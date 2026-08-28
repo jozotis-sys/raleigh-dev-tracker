@@ -1,0 +1,55 @@
+name: Daily Raleigh scrape
+
+on:
+  schedule:
+    # 11:00 UTC ≈ 6-7am Eastern depending on daylight saving. Cron doesn't
+    # follow DST, so this will drift by an hour twice a year -- not worth
+    # worrying about for a daily background job.
+    - cron: '0 11 * * *'
+  workflow_dispatch: {}  # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write  # needed so the workflow can commit updated data back to the repo
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install Chromium for Playwright
+        run: playwright install --with-deps chromium
+
+      - name: Discover meetings and parse cases
+        run: python3 00_discover_meetings.py
+
+      - name: Geocode new cases
+        env:
+          GEOAPIFY_API_KEY: ${{ secrets.GEOAPIFY_API_KEY }}
+        run: python3 01_geocode_new.py
+
+      - name: Build map
+        run: python3 02_build_map.py
+
+      - name: Send email digest for new cases
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          DIGEST_TO_EMAIL: ${{ secrets.DIGEST_TO_EMAIL }}
+        run: python3 03_send_digest.py
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "raleigh-scraper-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/*.json docs/
+          git diff --quiet --cached || git commit -m "Automated update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
