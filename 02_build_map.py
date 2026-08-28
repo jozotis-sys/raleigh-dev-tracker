@@ -1,9 +1,5 @@
 """
-Stage 2: Build docs/index.html from the accumulated case store.
-
-Writes to docs/ specifically because that's the folder GitHub Pages will
-be configured to serve from -- so every automated run publishes straight
-to the live map URL.
+Stage 2: Build raleigh-map.html from the accumulated case store.
 
 Usage:
     python3 02_build_map.py
@@ -15,9 +11,7 @@ from pathlib import Path
 
 DATA_DIR = Path(__file__).parent / "data"
 CASE_STORE_PATH = DATA_DIR / "case_store.json"
-DOCS_DIR = Path(__file__).parent / "docs"
-DOCS_DIR.mkdir(exist_ok=True)
-OUT_PATH = DOCS_DIR / "index.html"
+OUT_PATH = Path(__file__).parent / "raleigh-map.html"
 
 TEMPLATE = """<!DOCTYPE html>
 <html lang="en">
