@@ -21,13 +21,13 @@ DOCS_DIR.mkdir(exist_ok=True)
 OUT_PATH = DOCS_DIR / "index.html"
 
 COMMITTEE_COLORS = {
-    "City Council": "#e2a545",
-    "Planning Commission": "#e8d34f",
-    "Design Review Commission": "#5ec96b",
-    "Board of Adjustment": "#e0575a",
-    "Raleigh Transit Authority": "#a374e0",
+    "City Council": "#d9720a",              # vivid orange-amber
+    "Planning Commission": "#f2c200",       # saturated gold (was too pale to see before)
+    "Design Review Commission": "#1f9e4e",  # richer green
+    "Board of Adjustment": "#d62839",       # vivid red
+    "Raleigh Transit Authority": "#8639e0", # vivid purple
 }
-DEFAULT_COLOR = "#8a9ba8"
+DEFAULT_COLOR = "#5b6472"
 
 OPENFREEMAP_STYLE_URL = "https://tiles.openfreemap.org/styles/liberty"
 
@@ -37,7 +37,7 @@ TEMPLATE = """<!DOCTYPE html>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Raleigh — Development Tracker</title>
-<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@latest/dist/maplibre-gl.css" />
+<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.10.0/dist/maplibre-gl.css" />
 <style>
   :root{
     --ink: #f4f5f7; --panel: #ffffff; --panel-border: #d7dbe0;
@@ -84,7 +84,7 @@ TEMPLATE = """<!DOCTYPE html>
   .popup-meta .dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
   .popup-docs a { color: var(--teal); font-size: 11px; display: block; text-decoration: none; margin: 2px 0; }
   .popup-docs a:hover { text-decoration: underline; }
-  .pin-marker { width: 14px; height: 14px; border-radius: 50%; border: 2px solid #ffffff; cursor: pointer; box-shadow: 0 1px 3px rgba(0,0,0,0.3); }
+  .pin-marker { width: 17px; height: 17px; border-radius: 50%; border: 2.5px solid #1a1f26; cursor: pointer; box-shadow: 0 2px 5px rgba(0,0,0,0.4); }
 
   .map-meta { position: absolute; top: 16px; right: 20px; z-index: 1000; text-align: right; font-size: 10px; color: var(--text-muted); letter-spacing: 0.08em; line-height: 1.6; background: rgba(255,255,255,0.9); padding: 8px 12px; border-radius: 3px; border: 1px solid var(--panel-border); }
   .map-meta span { color: var(--teal); }
@@ -249,7 +249,7 @@ TEMPLATE = """<!DOCTYPE html>
   </div>
 </div>
 
-<script src="https://unpkg.com/maplibre-gl@latest/dist/maplibre-gl.js"></script>
+<script src="https://unpkg.com/maplibre-gl@5.10.0/dist/maplibre-gl.js"></script>
 <script>
   var CASES = __CASES_JSON__;
   var COMMITTEE_COLORS = __COMMITTEE_COLORS_JSON__;
