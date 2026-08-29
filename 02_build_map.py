@@ -37,7 +37,7 @@ TEMPLATE = """<!DOCTYPE html>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Raleigh — Development Tracker</title>
-<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@latest/dist/maplibre-gl.css" />
+<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.10.0/dist/maplibre-gl.css" />
 <style>
   :root{
     --ink: #f4f5f7; --panel: #ffffff; --panel-border: #d7dbe0;
@@ -249,7 +249,7 @@ TEMPLATE = """<!DOCTYPE html>
   </div>
 </div>
 
-<script src="https://unpkg.com/maplibre-gl@latest/dist/maplibre-gl.js"></script>
+<script src="https://unpkg.com/maplibre-gl@5.10.0/dist/maplibre-gl.js"></script>
 <script>
   var CASES = __CASES_JSON__;
   var COMMITTEE_COLORS = __COMMITTEE_COLORS_JSON__;
