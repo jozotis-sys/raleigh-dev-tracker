@@ -267,6 +267,64 @@
   }
 
   // =========================================================================
+  // Related cases: group cases whose geocoded coordinates fall within
+  // RELATED_DISTANCE_METERS of each other. Coordinates (not raw address
+  // strings) are used as the join key -- geocoding already normalizes
+  // formatting differences between sources, which a plain string match
+  // would not. Computed once at the top level so both the Map view and
+  // the Table view can use it regardless of which loads first.
+  // =========================================================================
+  var RELATED_DISTANCE_METERS = 75;
+
+  function haversineMeters(lat1, lng1, lat2, lng2) {
+    var R = 6371000;
+    var toRad = function (d) { return d * Math.PI / 180; };
+    var dLat = toRad(lat2 - lat1);
+    var dLng = toRad(lng2 - lng1);
+    var a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+            Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) *
+            Math.sin(dLng / 2) * Math.sin(dLng / 2);
+    return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+  }
+
+  var caseByNumber = {};
+  CASES.forEach(function (c) { caseByNumber[c.case_number] = c; });
+
+  var geocodedCases = CASES.filter(function (c) { return c.lat != null && c.lng != null; });
+  var relatedFor = {}; // case_number -> [{case_number, case_type, committee, official_status}, ...]
+  geocodedCases.forEach(function (c) { relatedFor[c.case_number] = []; });
+
+  for (var i = 0; i < geocodedCases.length; i++) {
+    for (var j = i + 1; j < geocodedCases.length; j++) {
+      var a = geocodedCases[i], b = geocodedCases[j];
+      if (a.case_number === b.case_number) continue;
+      var dist = haversineMeters(a.lat, a.lng, b.lat, b.lng);
+      if (dist <= RELATED_DISTANCE_METERS) {
+        relatedFor[a.case_number].push({ case_number: b.case_number, case_type: b.case_type, committee: b.committee, official_status: b.official_status });
+        relatedFor[b.case_number].push({ case_number: a.case_number, case_type: a.case_type, committee: a.committee, official_status: a.official_status });
+      }
+    }
+  }
+
+  function relatedCasesHtml(c) {
+    var related = relatedFor[c.case_number];
+    if (!related || !related.length) return '';
+    // case_number is always alphanumeric+hyphens (from our own regex),
+    // so it's safe to embed directly in the onclick attribute with no
+    // quote-escaping needed.
+    var rows = related.map(function (r) {
+      var color = colorFor(r.committee);
+      return '<div style="margin-top:3px;">' +
+        '<a href="#" onclick="window.jumpToCase(&quot;' + r.case_number + '&quot;); return false;" style="color:' + color + ';text-decoration:none;font-weight:bold;">' +
+        escapeHtml(r.case_number) + '</a> <span style="color:var(--text-muted);">(' + escapeHtml(r.case_type) + ')</span>' +
+        '</div>';
+    }).join('');
+    return '<div style="margin-top:8px;padding-top:8px;border-top:1px solid var(--panel-border);">' +
+      '<div style="font-size:9px;letter-spacing:0.08em;text-transform:uppercase;color:var(--text-muted);">Related cases at this site</div>' +
+      rows + '</div>';
+  }
+
+  // =========================================================================
   // Nav / view switching
   // =========================================================================
   var mapInitialized = false;
@@ -319,6 +377,7 @@
       // decide visibility from two independent toggles: the per-committee
       // legend, and the global "show resolved" switch.
       var markerEntries = [];
+      var markerByCaseNumber = {};
 
       pinned.forEach(function (c) {
         var color = colorFor(c.committee);
@@ -332,7 +391,8 @@
           '<div class="popup-address">' + escapeHtml(c.formatted_address || c.address_guess || '') + '</div>' +
           '<div style="margin:4px 0;">' + statusBadgeHtml(c) + '</div>' +
           '<div class="popup-meta"><span class="dot" style="background:' + color + ';"></span>' + escapeHtml(c.committee) + ' — first seen ' + (c.first_seen_at || '').slice(0, 10) + '</div>' +
-          '<div class="popup-docs">' + docsHtml + '</div>';
+          '<div class="popup-docs">' + docsHtml + '</div>' +
+          relatedCasesHtml(c);
 
         var el = document.createElement('div');
         el.className = 'pin-marker' + (c.official_status === 'NOT_LISTED' ? ' not-listed' : '');
@@ -342,7 +402,30 @@
         var popup = new maplibregl.Popup({ offset: 12 }).setHTML(popupHtml);
         var marker = new maplibregl.Marker({ element: el }).setLngLat([c.lng, c.lat]).setPopup(popup);
         markerEntries.push({ marker: marker, committee: c.committee, resolved: resolved });
+        markerByCaseNumber[c.case_number] = { marker: marker, committee: c.committee };
       });
+
+      // Lets a related-case link (from any popup) jump straight to another
+      // case's marker: makes sure it's visible (bypassing the resolved-hide
+      // filter if needed) then opens its popup.
+      window.jumpToCase = function (caseNumber) {
+        var target = markerByCaseNumber[caseNumber];
+        if (!target) return;
+        if (isResolved(caseByNumber[caseNumber]) && !showResolved) {
+          showResolved = true;
+          document.getElementById('resolvedToggle').classList.add('on');
+          refreshMarkerVisibility();
+        }
+        if (!committeeVisible[target.committee]) {
+          committeeVisible[target.committee] = true;
+          refreshMarkerVisibility();
+          document.querySelectorAll('.legend-row').forEach(function (row) {
+            if (row.textContent.indexOf(target.committee) !== -1) row.classList.remove('disabled');
+          });
+        }
+        map.flyTo({ center: target.marker.getLngLat(), zoom: Math.max(map.getZoom(), 16), duration: 600 });
+        setTimeout(function () { target.marker.togglePopup(); }, 650);
+      };
 
       function refreshMarkerVisibility() {
         var visibleCount = 0;
@@ -466,11 +549,15 @@
         : '<span class="table-unmapped">not found</span>';
       var statusHtml = '<span class="status-badge" style="color:' + meta.color + ';border-color:' + meta.color + ';">' +
         '<span class="dot" style="background:' + meta.color + ';"></span>' + escapeHtml(meta.label) + '</span>';
+      var related = relatedFor[r.case_number] || [];
+      var relatedHtml = related.length
+        ? ' <span title="' + related.map(function (x) { return x.case_number; }).join(', ') + '" style="color:var(--teal);font-size:10px;">(+' + related.length + ' related)</span>'
+        : '';
       return '<tr>' +
         '<td class="table-committee"><span class="table-dot" style="background:' + color + ';"></span>' + escapeHtml(r.committee) + '</td>' +
         '<td>' + escapeHtml(r.case_number) + '</td>' +
         '<td>' + escapeHtml(r.case_type) + '</td>' +
-        '<td>' + addressHtml + '</td>' +
+        '<td>' + addressHtml + relatedHtml + '</td>' +
         '<td class="table-status">' + statusHtml + '</td>' +
         '<td>' + escapeHtml(r.first_seen_at.slice(0, 10)) + '</td>' +
         '<td class="table-docs">' + docsHtml + '</td>' +
