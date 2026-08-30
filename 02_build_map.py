@@ -29,6 +29,14 @@ COMMITTEE_COLORS = {
 }
 DEFAULT_COLOR = "#5b6472"
 
+STATUS_META = {
+    "APPROVED":   {"label": "Approved",   "color": "#1a9850"},
+    "DENIED":     {"label": "Denied",     "color": "#d62839"},
+    "WITHDRAWN":  {"label": "Withdrawn",  "color": "#8a9ba8"},
+    "ACTIVE":     {"label": "Active",     "color": "#5b6472"},
+    "NOT_LISTED": {"label": "Not Listed", "color": "#e0850a"},
+}
+
 OPENFREEMAP_STYLE_URL = "https://tiles.openfreemap.org/styles/liberty"
 
 TEMPLATE = """<!DOCTYPE html>
@@ -85,6 +93,25 @@ TEMPLATE = """<!DOCTYPE html>
   .popup-docs a { color: var(--teal); font-size: 11px; display: block; text-decoration: none; margin: 2px 0; }
   .popup-docs a:hover { text-decoration: underline; }
   .pin-marker { width: 17px; height: 17px; border-radius: 50%; border: 2.5px solid #1a1f26; cursor: pointer; box-shadow: 0 2px 5px rgba(0,0,0,0.4); }
+  .pin-marker.not-listed { animation: pulse-ring 1.8s infinite; }
+  @keyframes pulse-ring {
+    0%   { box-shadow: 0 2px 5px rgba(0,0,0,0.4), 0 0 0 0 rgba(224,133,10,0.6); }
+    70%  { box-shadow: 0 2px 5px rgba(0,0,0,0.4), 0 0 0 9px rgba(224,133,10,0); }
+    100% { box-shadow: 0 2px 5px rgba(0,0,0,0.4), 0 0 0 0 rgba(224,133,10,0); }
+  }
+
+  .status-badge { display: inline-flex; align-items: center; gap: 5px; font-size: 10px; letter-spacing: 0.06em; text-transform: uppercase; padding: 2px 8px; border-radius: 10px; border: 1px solid; }
+  .status-badge .dot { width: 6px; height: 6px; border-radius: 50%; }
+
+  .resolved-toggle {
+    position: absolute; top: 16px; left: 20px; z-index: 1000;
+    background: rgba(255,255,255,0.92); border: 1px solid var(--panel-border); border-radius: 3px;
+    padding: 6px 12px; font-size: 10px; letter-spacing: 0.06em; text-transform: uppercase;
+    color: var(--text-muted); cursor: pointer; user-select: none;
+  }
+  .resolved-toggle.on { color: var(--amber); border-color: var(--amber-dim); }
+
+  .table-status { white-space: nowrap; }
 
   .map-meta { position: absolute; top: 16px; right: 20px; z-index: 1000; text-align: right; font-size: 10px; color: var(--text-muted); letter-spacing: 0.08em; line-height: 1.6; background: rgba(255,255,255,0.9); padding: 8px 12px; border-radius: 3px; border: 1px solid var(--panel-border); }
   .map-meta span { color: var(--teal); }
@@ -195,6 +222,7 @@ TEMPLATE = """<!DOCTYPE html>
     <div class="sidebar-body" id="sidebarBody"></div>
   </div>
   <div class="legend" id="legend"></div>
+<div class="resolved-toggle" id="resolvedToggle">Show resolved cases (<span id="resolvedCount">0</span>)</div>
   <div class="locate-pill" id="locateBtn">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="8"/><line x1="12" y1="2" x2="12" y2="5"/><line x1="12" y1="19" x2="12" y2="22"/><line x1="2" y1="12" x2="5" y2="12"/><line x1="19" y1="12" x2="22" y2="12"/></svg>
     <span>Recenter</span>
@@ -215,6 +243,7 @@ TEMPLATE = """<!DOCTYPE html>
           <th data-key="case_number">Case #</th>
           <th data-key="case_type">Type</th>
           <th data-key="address">Address</th>
+          <th data-key="official_status">Status</th>
           <th data-key="first_seen_at">First Seen</th>
           <th>Docs</th>
         </tr>
@@ -226,6 +255,8 @@ TEMPLATE = """<!DOCTYPE html>
 
 <div id="view-stats" class="view">
   <div class="stats-wrap">
+    <h2>Cases by status</h2>
+    <div id="statsByStatus"></div>
     <h2>Cases by committee</h2>
     <div id="statsByCommittee"></div>
     <h2>Cases discovered by month</h2>
@@ -256,8 +287,25 @@ TEMPLATE = """<!DOCTYPE html>
   var DEFAULT_COLOR = __DEFAULT_COLOR_JSON__;
   var STYLE_URL = __STYLE_URL_JSON__;
 
+  var STATUS_META = __STATUS_META_JSON__;
+  var RESOLVED_STATUSES = ['APPROVED', 'DENIED', 'WITHDRAWN'];
+
   function colorFor(committee) { return COMMITTEE_COLORS[committee] || DEFAULT_COLOR; }
   function escapeHtml(s) { return (s || '').replace(/[&<>"']/g, function (c) { return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]; }); }
+
+  function statusMeta(c) {
+    return STATUS_META[c.official_status] || STATUS_META['ACTIVE'];
+  }
+  function isResolved(c) {
+    return RESOLVED_STATUSES.indexOf(c.official_status) !== -1;
+  }
+  function statusBadgeHtml(c) {
+    var meta = statusMeta(c);
+    var dateStr = c.official_status_date ? ' \u2014 ' + escapeHtml(c.official_status_date) : '';
+    return '<span class="status-badge" style="color:' + meta.color + ';border-color:' + meta.color + ';">' +
+      '<span class="dot" style="background:' + meta.color + ';"></span>' + escapeHtml(meta.label) + dateStr +
+      '</span>';
+  }
 
   // =========================================================================
   // Nav / view switching
@@ -300,16 +348,22 @@ TEMPLATE = """<!DOCTYPE html>
       var pinned = CASES.filter(function (c) { return c.lat != null && c.lng != null; });
       var unpinned = CASES.filter(function (c) { return c.lat == null || c.lng == null; });
 
-      document.getElementById('pinnedCount').textContent = pinned.length;
       document.getElementById('unpinnedBadge').textContent = unpinned.length;
       document.getElementById('sidebarCount').textContent = '(' + unpinned.length + ')';
 
       var committeesPresent = Array.from(new Set(pinned.map(function (c) { return c.committee; }))).sort();
-      var markersByCommittee = {};
-      committeesPresent.forEach(function (committee) { markersByCommittee[committee] = []; });
+      var committeeVisible = {};
+      committeesPresent.forEach(function (committee) { committeeVisible[committee] = true; });
+      var showResolved = false;
+
+      // markerEntries tracks every marker plus the metadata needed to
+      // decide visibility from two independent toggles: the per-committee
+      // legend, and the global "show resolved" switch.
+      var markerEntries = [];
 
       pinned.forEach(function (c) {
         var color = colorFor(c.committee);
+        var resolved = isResolved(c);
         var docsHtml = (c.documents || []).slice(0, 4).map(function (d) {
           return '<a href="' + d.href + '" target="_blank" rel="noopener">' + escapeHtml(d.text) + '</a>';
         }).join('');
@@ -317,17 +371,40 @@ TEMPLATE = """<!DOCTYPE html>
           '<div class="popup-case-type" style="color:' + color + ';">' + escapeHtml(c.case_type) + '</div>' +
           '<div class="popup-case-number">' + escapeHtml(c.case_number) + '</div>' +
           '<div class="popup-address">' + escapeHtml(c.formatted_address || c.address_guess || '') + '</div>' +
+          '<div style="margin:4px 0;">' + statusBadgeHtml(c) + '</div>' +
           '<div class="popup-meta"><span class="dot" style="background:' + color + ';"></span>' + escapeHtml(c.committee) + ' — first seen ' + (c.first_seen_at || '').slice(0, 10) + '</div>' +
           '<div class="popup-docs">' + docsHtml + '</div>';
 
         var el = document.createElement('div');
-        el.className = 'pin-marker';
+        el.className = 'pin-marker' + (c.official_status === 'NOT_LISTED' ? ' not-listed' : '');
         el.style.background = color;
         el.style.boxShadow = '0 0 6px ' + color + 'cc';
 
         var popup = new maplibregl.Popup({ offset: 12 }).setHTML(popupHtml);
-        var marker = new maplibregl.Marker({ element: el }).setLngLat([c.lng, c.lat]).setPopup(popup).addTo(map);
-        markersByCommittee[c.committee].push(marker);
+        var marker = new maplibregl.Marker({ element: el }).setLngLat([c.lng, c.lat]).setPopup(popup);
+        markerEntries.push({ marker: marker, committee: c.committee, resolved: resolved });
+      });
+
+      function refreshMarkerVisibility() {
+        var visibleCount = 0;
+        markerEntries.forEach(function (entry) {
+          var shouldShow = committeeVisible[entry.committee] && (!entry.resolved || showResolved);
+          if (shouldShow) {
+            entry.marker.addTo(map);
+            visibleCount++;
+          } else {
+            entry.marker.remove();
+          }
+        });
+        document.getElementById('pinnedCount').textContent = visibleCount;
+      }
+
+      var resolvedTotal = markerEntries.filter(function (e) { return e.resolved; }).length;
+      document.getElementById('resolvedCount').textContent = resolvedTotal;
+      document.getElementById('resolvedToggle').addEventListener('click', function () {
+        showResolved = !showResolved;
+        this.classList.toggle('on', showResolved);
+        refreshMarkerVisibility();
       });
 
       var legendEl = document.getElementById('legend');
@@ -337,14 +414,15 @@ TEMPLATE = """<!DOCTYPE html>
         var row = document.createElement('div');
         row.className = 'legend-row';
         row.innerHTML = '<span class="legend-dot" style="background:' + color + ';"></span>' + escapeHtml(committee) + ' (' + count + ')';
-        var visible = true;
         row.addEventListener('click', function () {
-          visible = !visible;
-          markersByCommittee[committee].forEach(function (marker) { visible ? marker.addTo(map) : marker.remove(); });
-          row.classList.toggle('disabled', !visible);
+          committeeVisible[committee] = !committeeVisible[committee];
+          row.classList.toggle('disabled', !committeeVisible[committee]);
+          refreshMarkerVisibility();
         });
         legendEl.appendChild(row);
       });
+
+      refreshMarkerVisibility(); // establishes correct initial state (resolved cases hidden by default)
 
       var sidebarBody = document.getElementById('sidebarBody');
       unpinned.forEach(function (c) {
@@ -358,6 +436,7 @@ TEMPLATE = """<!DOCTYPE html>
         item.innerHTML =
           '<div class="sidebar-case-type"><span class="dot" style="background:' + color + ';"></span>' + escapeHtml(c.case_type) + '</div>' +
           '<div class="sidebar-case-number">' + escapeHtml(c.case_number) + '</div>' +
+          '<div style="margin:4px 0;">' + statusBadgeHtml(c) + '</div>' +
           '<div class="sidebar-reason">' + reason + '</div>' +
           '<div class="sidebar-docs">' + docsHtml + '</div>';
         sidebarBody.appendChild(item);
@@ -392,6 +471,8 @@ TEMPLATE = """<!DOCTYPE html>
       case_type: c.case_type || '',
       address: c.formatted_address || c.address_guess || '',
       mapped: c.lat != null,
+      official_status: c.official_status || 'ACTIVE',
+      official_status_display: c.official_status_display || '',
       first_seen_at: c.first_seen_at || '',
       documents: c.documents || []
     };
@@ -404,7 +485,7 @@ TEMPLATE = """<!DOCTYPE html>
     var query = document.getElementById('tableSearch').value.toLowerCase();
     var rows = tableRows.filter(function (r) {
       if (!query) return true;
-      return (r.committee + ' ' + r.case_number + ' ' + r.case_type + ' ' + r.address).toLowerCase().indexOf(query) !== -1;
+      return (r.committee + ' ' + r.case_number + ' ' + r.case_type + ' ' + r.address + ' ' + r.official_status_display).toLowerCase().indexOf(query) !== -1;
     });
 
     rows.sort(function (a, b) {
@@ -417,17 +498,21 @@ TEMPLATE = """<!DOCTYPE html>
     var tbody = document.getElementById('casesTableBody');
     tbody.innerHTML = rows.map(function (r) {
       var color = colorFor(r.committee);
+      var meta = STATUS_META[r.official_status] || STATUS_META['ACTIVE'];
       var docsHtml = r.documents.slice(0, 2).map(function (d) {
         return '<a href="' + d.href + '" target="_blank" rel="noopener">' + escapeHtml(d.text.slice(0, 24)) + (d.text.length > 24 ? '…' : '') + '</a>';
       }).join('');
       var addressHtml = r.address
         ? escapeHtml(r.address)
         : '<span class="table-unmapped">not found</span>';
+      var statusHtml = '<span class="status-badge" style="color:' + meta.color + ';border-color:' + meta.color + ';">' +
+        '<span class="dot" style="background:' + meta.color + ';"></span>' + escapeHtml(meta.label) + '</span>';
       return '<tr>' +
         '<td class="table-committee"><span class="table-dot" style="background:' + color + ';"></span>' + escapeHtml(r.committee) + '</td>' +
         '<td>' + escapeHtml(r.case_number) + '</td>' +
         '<td>' + escapeHtml(r.case_type) + '</td>' +
         '<td>' + addressHtml + '</td>' +
+        '<td class="table-status">' + statusHtml + '</td>' +
         '<td>' + escapeHtml(r.first_seen_at.slice(0, 10)) + '</td>' +
         '<td class="table-docs">' + docsHtml + '</td>' +
         '</tr>';
@@ -453,6 +538,23 @@ TEMPLATE = """<!DOCTYPE html>
   // Stats view
   // =========================================================================
   (function renderStats() {
+    var byStatus = {};
+    CASES.forEach(function (c) { var s = c.official_status || 'ACTIVE'; byStatus[s] = (byStatus[s] || 0) + 1; });
+    var statusOrder = ['ACTIVE', 'NOT_LISTED', 'APPROVED', 'DENIED', 'WITHDRAWN'];
+    var maxStatusCount = Math.max.apply(null, Object.keys(byStatus).map(function (k) { return byStatus[k]; }).concat([1]));
+
+    var statusHtml = statusOrder.filter(function (s) { return byStatus[s]; }).map(function (s) {
+      var count = byStatus[s];
+      var meta = STATUS_META[s] || STATUS_META['ACTIVE'];
+      var pct = Math.round((count / maxStatusCount) * 100);
+      return '<div class="stat-row">' +
+        '<div class="stat-label">' + escapeHtml(meta.label) + '</div>' +
+        '<div class="stat-bar-track"><div class="stat-bar-fill" style="width:' + pct + '%;background:' + meta.color + ';"></div></div>' +
+        '<div class="stat-count">' + count + '</div>' +
+        '</div>';
+    }).join('');
+    document.getElementById('statsByStatus').innerHTML = statusHtml || '<p style="color:var(--text-muted)">No data yet.</p>';
+
     var byCommittee = {};
     CASES.forEach(function (c) { byCommittee[c.committee] = (byCommittee[c.committee] || 0) + 1; });
     var committeeEntries = Object.keys(byCommittee).map(function (k) { return [k, byCommittee[k]]; }).sort(function (a, b) { return b[1] - a[1]; });
@@ -520,6 +622,7 @@ def main():
         .replace("__COMMITTEE_COLORS_JSON__", json.dumps(COMMITTEE_COLORS))
         .replace("__DEFAULT_COLOR_JSON__", json.dumps(DEFAULT_COLOR))
         .replace("__STYLE_URL_JSON__", json.dumps(OPENFREEMAP_STYLE_URL))
+        .replace("__STATUS_META_JSON__", json.dumps(STATUS_META))
     )
     OUT_PATH.write_text(html, encoding="utf-8")
 
