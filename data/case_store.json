@@ -19,7 +19,11 @@
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16599",
       "text": "PLANDEV - AX-17-26 - 2026-780.pdf"
-    }
+    },
+    "official_status": "ACTIVE",
+    "official_status_display": "City Council Public Hearing 09/15/26",
+    "official_status_date": "09/15/26",
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-56-25": {
     "case_number": "Z-56-25",
@@ -46,7 +50,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16586",
       "text": "PLANDEV - Z-56-25 - 2026-875.pdf"
     },
-    "formatted_address": "4020 Carya Drive, Raleigh, NC 27610, United States of America"
+    "formatted_address": "4020 Carya Drive, Raleigh, NC 27610, United States of America",
+    "official_status": "ACTIVE",
+    "official_status_display": "City Council Report of PC 09/01/26",
+    "official_status_date": "09/01/26",
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-43-25": {
     "case_number": "Z-43-25",
@@ -85,7 +93,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16588",
       "text": "PLANDEV \u2013 Z-43-25 - 2026-877.pdf"
     },
-    "formatted_address": "6309 Litchford Road, Raleigh, NC 27615, United States of America"
+    "formatted_address": "6309 Litchford Road, Raleigh, NC 27615, United States of America",
+    "official_status": "ACTIVE",
+    "official_status_display": "City Council Report of PC 09/01/26",
+    "official_status_date": "09/01/26",
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-50-25": {
     "case_number": "Z-50-25",
@@ -112,7 +124,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16590",
       "text": "PLANDEV \u2013 Z-50-25 - 2026-878.pdf"
     },
-    "formatted_address": "2321 Capital Boulevard, Raleigh, NC 27604, United States of America"
+    "formatted_address": "2321 Capital Boulevard, Raleigh, NC 27604, United States of America",
+    "official_status": "ACTIVE",
+    "official_status_display": "City Council Report of PC 09/01/26",
+    "official_status_date": "09/01/26",
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-07-26": {
     "case_number": "Z-07-26",
@@ -139,10 +155,14 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16601",
       "text": "PLANDEV - Z-07-26 - 2026-884.pdf"
     },
-    "formatted_address": "3911 Western Boulevard, Raleigh, NC 27606, United States of America"
+    "formatted_address": "3911 Western Boulevard, Raleigh, NC 27606, United States of America",
+    "official_status": "ACTIVE",
+    "official_status_display": "City Council Report of PC 09/01/26",
+    "official_status_date": "09/01/26",
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
-  "TC-4-26": {
-    "case_number": "TC-4-26",
+  "TC-04-26": {
+    "case_number": "TC-04-26",
     "case_type": "Text Change",
     "documents": [
       {
@@ -165,7 +185,11 @@
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16636",
       "text": "PLANDEV - TC-4-26 - 2026-917.pdf"
-    }
+    },
+    "official_status": "ACTIVE",
+    "official_status_display": "Public Comment until August 19, 2026 Text Change Committee August 19, 2026",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-08-26": {
     "case_number": "Z-08-26",
@@ -200,7 +224,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16627",
       "text": "PLANDEV - Z-08-26 - 2026-900.pdf"
     },
-    "formatted_address": "5605 Rock Quarry Road, Raleigh, NC 27610, United States of America"
+    "formatted_address": "5605 Rock Quarry Road, Raleigh, NC 27610, United States of America",
+    "official_status": "ACTIVE",
+    "official_status_display": "City Council Public Hearing 09/01/26",
+    "official_status_date": "09/01/26",
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-51-25": {
     "case_number": "Z-51-25",
@@ -231,7 +259,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16631",
       "text": "PLANDEV - Z-51-25 - 2026-904.pdf"
     },
-    "formatted_address": "4808 Spring Forest Road, Raleigh, NC 27616, United States of America"
+    "formatted_address": "4808 Spring Forest Road, Raleigh, NC 27616, United States of America",
+    "official_status": "ACTIVE",
+    "official_status_display": "City Council Public Hearing 09/01/26",
+    "official_status_date": "09/01/26",
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "AX-06-26": {
     "case_number": "AX-06-26",
@@ -254,7 +286,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16625",
       "text": "PLANDEV - AX-06-26 - 2026-900.pdf"
     },
-    "formatted_address": "4424 Mitchell Mill Road, Raleigh, NC 20405, United States of America"
+    "formatted_address": "4424 Mitchell Mill Road, Raleigh, NC 20405, United States of America",
+    "official_status": "ACTIVE",
+    "official_status_display": "Public Hearing 09/01/26",
+    "official_status_date": "09/01/26",
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "HLD-0001-2026": {
     "case_number": "HLD-0001-2026",
@@ -277,7 +313,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16603",
       "text": "PLANDEV-HLD-0001-2026 - 2026-885.pdf"
     },
-    "formatted_address": "314 South Haywood Street, Raleigh, NC 27601, United States of America"
+    "formatted_address": "314 South Haywood Street, Raleigh, NC 27601, United States of America",
+    "official_status": "ACTIVE",
+    "official_status_display": "RHDC review 05/13/26",
+    "official_status_date": "05/13/26",
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-19-25": {
     "case_number": "Z-19-25",
@@ -304,10 +344,14 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16614",
       "text": "PLANDEV - Z-19-25 - 2026-895.pdf"
     },
-    "formatted_address": "416 Dorothea Drive, Raleigh Housing Authority: Heritage Park, Raleigh, NC 27601, United States of America"
+    "formatted_address": "416 Dorothea Drive, Raleigh Housing Authority: Heritage Park, Raleigh, NC 27601, United States of America",
+    "official_status": "ACTIVE",
+    "official_status_display": "Public Hearing 09/01/26",
+    "official_status_date": "09/01/26",
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
-  "Z-9-26": {
-    "case_number": "Z-9-26",
+  "Z-09-26": {
+    "case_number": "Z-09-26",
     "case_type": "Rezoning",
     "documents": [
       {
@@ -335,7 +379,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16574",
       "text": "PLANDEV \u2013 Z-9-26 - 2026-777.pdf"
     },
-    "formatted_address": "5925 Glenwood Avenue, Raleigh, NC 27612, United States of America"
+    "formatted_address": "5925 Glenwood Avenue, Raleigh, NC 27612, United States of America",
+    "official_status": "ACTIVE",
+    "official_status_display": "City Council Public Hearing 09/01/26",
+    "official_status_date": "09/01/26",
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-14-26": {
     "case_number": "Z-14-26",
@@ -362,7 +410,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16618",
       "text": "PLANDEV - Z-14-26 - 2026-896.pdf"
     },
-    "formatted_address": "1132 Gorman Street, Raleigh, NC 27606, United States of America"
+    "formatted_address": "1132 Gorman Street, Raleigh, NC 27606, United States of America",
+    "official_status": "ACTIVE",
+    "official_status_display": "City Council Public Hearing 09/01/26",
+    "official_status_date": "09/01/26",
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-18-26": {
     "case_number": "Z-18-26",
@@ -389,7 +441,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16578",
       "text": "PLANDEV \u2013 Z-18-26 - 2026-778.pdf"
     },
-    "formatted_address": "6918 Poole Road, Raleigh, NC 27610, United States of America"
+    "formatted_address": "6918 Poole Road, Raleigh, NC 27610, United States of America",
+    "official_status": "ACTIVE",
+    "official_status_display": "City Council Public Hearing 09/01/26",
+    "official_status_date": "09/01/26",
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-15-26": {
     "case_number": "Z-15-26",
@@ -412,7 +468,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16291",
       "text": "PLANDEV - Z-15-26 - 2026-892.pdf"
     },
-    "formatted_address": "7600 Falls of Neuse Road, Raleigh, NC 27615, United States of America"
+    "formatted_address": "7600 Falls of Neuse Road, Raleigh, NC 27615, United States of America",
+    "official_status": "ACTIVE",
+    "official_status_display": "City Council Report of PC 09/15/26",
+    "official_status_date": "09/15/26",
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-22-26": {
     "case_number": "Z-22-26",
@@ -435,7 +495,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16296",
       "text": "PLANDEV - Z-22-26 - 2026-894.pdf"
     },
-    "formatted_address": "417 Bragg Street, Raleigh, NC 27601, United States of America"
+    "formatted_address": "417 Bragg Street, Raleigh, NC 27601, United States of America",
+    "official_status": "ACTIVE",
+    "official_status_display": "City Council Report of PC 09/15/26",
+    "official_status_date": "09/15/26",
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-17-26": {
     "case_number": "Z-17-26",
@@ -458,7 +522,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15452",
       "text": "PLANDEV - Z-17-26 - 2026-826.pdf"
     },
-    "formatted_address": "5511 Hillsborough Street, Raleigh, NC 27606, United States of America"
+    "formatted_address": "5511 Hillsborough Street, Raleigh, NC 27606, United States of America",
+    "official_status": "ACTIVE",
+    "official_status_display": "City Council Public Hearing 09/15/26",
+    "official_status_date": "09/15/26",
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-19-26": {
     "case_number": "Z-19-26",
@@ -480,7 +548,11 @@
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15465",
       "text": "PLANDEV - Z-19-26 - 2026-833.pdf"
-    }
+    },
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-21-26": {
     "case_number": "Z-21-26",
@@ -503,7 +575,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15470",
       "text": "PLANDEV - Z-21-26 - 2026-839.pdf"
     },
-    "formatted_address": "2905 Hodge Road, Raleigh, NC 27545, United States of America"
+    "formatted_address": "2905 Hodge Road, Raleigh, NC 27545, United States of America",
+    "official_status": "ACTIVE",
+    "official_status_display": "Planning Commission 09/08/26",
+    "official_status_date": "09/08/26",
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-54-25": {
     "case_number": "Z-54-25",
@@ -530,10 +606,14 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=14420",
       "text": "PLANDEV - Z-54-25 - 2026-634.pdf"
     },
-    "formatted_address": "7652 Leesville Road, Raleigh, NC 27613, United States of America"
+    "formatted_address": "7652 Leesville Road, Raleigh, NC 27613, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 08/18/26",
+    "official_status_date": "08/18/26",
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
-  "CP-1-26": {
-    "case_number": "CP-1-26",
+  "CP-01-26": {
+    "case_number": "CP-01-26",
     "case_type": "Comprehensive Plan Amendment",
     "documents": [
       {
@@ -552,7 +632,11 @@
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=14439",
       "text": "PLANDEV \u2013 CP-1-26 - 2026-697.pdf"
-    }
+    },
+    "official_status": "ACTIVE",
+    "official_status_display": "Under review",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-16-26": {
     "case_number": "Z-16-26",
@@ -575,10 +659,14 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=14452",
       "text": "PLANDEV - Z-16-26 - 2026-710.pdf"
     },
-    "formatted_address": "309 North Boylan Avenue, Raleigh, NC 27603, United States of America"
+    "formatted_address": "309 North Boylan Avenue, Raleigh, NC 27603, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 08/18/26",
+    "official_status_date": "08/18/26",
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
-  "TC-1-26": {
-    "case_number": "TC-1-26",
+  "TC-01-26": {
+    "case_number": "TC-01-26",
     "case_type": "Text Change",
     "documents": [
       {
@@ -601,7 +689,11 @@
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13838",
       "text": "PLANDEV - TC-1-26 - 2026-616.pdf"
-    }
+    },
+    "official_status": "ACTIVE",
+    "official_status_display": "City Council Public Hearing August 18, 2026",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-12-26": {
     "case_number": "Z-12-26",
@@ -624,7 +716,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13843",
       "text": "PLANDEV \u2013 Z-12-26 - 2026-618.pdf"
     },
-    "formatted_address": "6710 Rock Quarry Road, Raleigh, NC 27610, United States of America"
+    "formatted_address": "6710 Rock Quarry Road, Raleigh, NC 27610, United States of America",
+    "official_status": "ACTIVE",
+    "official_status_display": "City Council Public Hearing 09/22/26",
+    "official_status_date": "09/22/26",
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-50-24": {
     "case_number": "Z-50-24",
@@ -646,7 +742,11 @@
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13320",
       "text": "PLANDEV - Z-50-24  - 2026-611.pdf"
-    }
+    },
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 07-07-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-48-25": {
     "case_number": "Z-48-25",
@@ -669,7 +769,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12645",
       "text": "PLANDEV - Z-48-25 - 2026-512.pdf"
     },
-    "formatted_address": "2810 Blue Ridge Road, Raleigh, NC 27607, United States of America"
+    "formatted_address": "2810 Blue Ridge Road, Raleigh, NC 27607, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 06-16-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-57-25": {
     "case_number": "Z-57-25",
@@ -696,7 +800,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12650",
       "text": "PLANDEV - Z-57-25 - 2026-536.pdf"
     },
-    "formatted_address": "8020 Litchford Road, Raleigh, NC 27615, United States of America"
+    "formatted_address": "8020 Litchford Road, Raleigh, NC 27615, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "(link is external) Approved 07/07/26",
+    "official_status_date": "07/07/26",
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-46-25": {
     "case_number": "Z-46-25",
@@ -719,7 +827,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12627",
       "text": "PLANDEV - Z-46-25 - 2026-430.pdf"
     },
-    "formatted_address": "523 South West Street, Raleigh, NC 27601, United States of America"
+    "formatted_address": "523 South West Street, Raleigh, NC 27601, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 07/07/26",
+    "official_status_date": "07/07/26",
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-11-26": {
     "case_number": "Z-11-26",
@@ -742,10 +854,14 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12633",
       "text": "PLANDEV - Z-11-26 - 2026-497.pdf"
     },
-    "formatted_address": "3901 Stratford Court, Raleigh, NC 27609, United States of America"
+    "formatted_address": "3901 Stratford Court, Raleigh, NC 27609, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 07/07/26",
+    "official_status_date": "07/07/26",
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
-  "Z-5-26": {
-    "case_number": "Z-5-26",
+  "Z-05-26": {
+    "case_number": "Z-05-26",
     "case_type": "Rezoning",
     "documents": [
       {
@@ -769,10 +885,14 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12139",
       "text": "PLANDEV \u2013 Z-5-26  - 2026-441.pdf"
     },
-    "formatted_address": "1401 New Bern Avenue, Southeast Raleigh, Raleigh, NC 27610, United States of America"
+    "formatted_address": "1401 New Bern Avenue, Southeast Raleigh, Raleigh, NC 27610, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 07-02-24",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
-  "Z-3-26": {
-    "case_number": "Z-3-26",
+  "Z-03-26": {
+    "case_number": "Z-03-26",
     "case_type": "Rezoning",
     "documents": [
       {
@@ -792,7 +912,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12134",
       "text": "PLANDEV \u2013 Z-3-26 - 2026-424.pdf"
     },
-    "formatted_address": "617 West Jones Street, Raleigh, NC 27603, United States of America"
+    "formatted_address": "617 West Jones Street, Raleigh, NC 27603, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 06-16-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-44-25": {
     "case_number": "Z-44-25",
@@ -815,7 +939,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11496",
       "text": "PLANDEV - Z-44-25 - 2026-344.pdf"
     },
-    "formatted_address": "3904 Jones Ridge Trail, Raleigh, NC 27587, United States of America"
+    "formatted_address": "3904 Jones Ridge Trail, Raleigh, NC 27587, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "(link is external) Approved 07/07/26",
+    "official_status_date": "07/07/26",
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-15-25": {
     "case_number": "Z-15-25",
@@ -842,7 +970,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10875",
       "text": "PLANDEV - Z-15-25 - 2026-315.pdf"
     },
-    "formatted_address": "7800 Battle Bridge Road, Raleigh, NC 27610, United States of America"
+    "formatted_address": "7800 Battle Bridge Road, Raleigh, NC 27610, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 05-19-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-39-25": {
     "case_number": "Z-39-25",
@@ -869,7 +1001,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10880",
       "text": "PLANDEV - Z-39-25 - 2026-321.pdf"
     },
-    "formatted_address": "319 Heck Street, Raleigh, NC 27601, United States of America"
+    "formatted_address": "319 Heck Street, Raleigh, NC 27601, United States of America",
+    "official_status": "DENIED",
+    "official_status_display": "(link is external) Denied 08/18/26",
+    "official_status_date": "08/18/26",
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-35-25": {
     "case_number": "Z-35-25",
@@ -892,7 +1028,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10861",
       "text": "PLANDEV - Z-35-25 - 2026-269.pdf"
     },
-    "formatted_address": "7929 Ligon Mill Road, Raleigh, NC 27587, United States of America"
+    "formatted_address": "7929 Ligon Mill Road, Raleigh, NC 27587, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 05-19-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-53-25": {
     "case_number": "Z-53-25",
@@ -915,7 +1055,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10868",
       "text": "PLANDEV - Z-53-25 - 2026-314.pdf"
     },
-    "formatted_address": "Women's and Children's Health, 5601 Six Forks Road, Raleigh, NC 27609, United States of America"
+    "formatted_address": "Women's and Children's Health, 5601 Six Forks Road, Raleigh, NC 27609, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 05-19-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-38-25": {
     "case_number": "Z-38-25",
@@ -942,7 +1086,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10217",
       "text": "PLANDEV - Z-38-25 - 2026-285.pdf"
     },
-    "formatted_address": "1100 Trailwood Drive, Raleigh, NC 27606, United States of America"
+    "formatted_address": "1100 Trailwood Drive, Raleigh, NC 27606, United States of America",
+    "official_status": "DENIED",
+    "official_status_display": "Denied 05-05-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-52-25": {
     "case_number": "Z-52-25",
@@ -965,7 +1113,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10205",
       "text": "PLANDEV - Z-52-25  - 2026-278.pdf"
     },
-    "formatted_address": "3470 Blue Ridge Road, Raleigh, NC 27612, United States of America"
+    "formatted_address": "3470 Blue Ridge Road, Raleigh, NC 27612, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 05-05-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-01-26": {
     "case_number": "Z-01-26",
@@ -988,7 +1140,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10211",
       "text": "PLANDEV - Z-01-26  - 2026-279.pdf"
     },
-    "formatted_address": "307 West Martin Street, Raleigh, NC 27601, United States of America"
+    "formatted_address": "307 West Martin Street, Raleigh, NC 27601, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 06-02-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "CP-01-25": {
     "case_number": "CP-01-25",
@@ -1015,7 +1171,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9167",
       "text": "PLANDEV - CP-01-25 - 2026-197.pdf"
     },
-    "formatted_address": "4111 Macon Pond Road, Raleigh, NC 27607, United States of America"
+    "formatted_address": "4111 Macon Pond Road, Raleigh, NC 27607, United States of America",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-49-25": {
     "case_number": "Z-49-25",
@@ -1042,7 +1202,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9161",
       "text": "PLANDEV - Z-49-25  - 2026-227.pdf"
     },
-    "formatted_address": "319 South King Charles Road, Southeast Raleigh, Raleigh, NC 27610, United States of America"
+    "formatted_address": "319 South King Charles Road, Southeast Raleigh, Raleigh, NC 27610, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 04-07-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-36-25": {
     "case_number": "Z-36-25",
@@ -1065,7 +1229,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9182",
       "text": "PLANDEV - Z-36-25 - 2026-229.pdf"
     },
-    "formatted_address": "3703 Page Road, Raleigh, NC 27560, United States of America"
+    "formatted_address": "3703 Page Road, Raleigh, NC 27560, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 04-21-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-45-25": {
     "case_number": "Z-45-25",
@@ -1088,7 +1256,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9176",
       "text": "PLANDEV - Z-45-25 - 2026-228.pdf"
     },
-    "formatted_address": "1507 Trailwood Drive, Raleigh, NC 27606, United States of America"
+    "formatted_address": "1507 Trailwood Drive, Raleigh, NC 27606, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 04-07-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-47-25": {
     "case_number": "Z-47-25",
@@ -1111,7 +1283,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9156",
       "text": "PLANDEV \u2013 Z-47-25 - 2026-153.pdf"
     },
-    "formatted_address": "1523 Crest Road, Raleigh, NC 27606, United States of America"
+    "formatted_address": "1523 Crest Road, Raleigh, NC 27606, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 04-21-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-14-25": {
     "case_number": "Z-14-25",
@@ -1141,7 +1317,11 @@
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8766",
       "text": "PLANDEV - Z-14-25 - 2026-175.pdf"
-    }
+    },
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 04-07-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-29-25": {
     "case_number": "Z-29-25",
@@ -1172,7 +1352,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8755",
       "text": "PLANDEV - Z-29-25 - 2026-166.pdf"
     },
-    "formatted_address": "1126 Trailwood Drive, Raleigh, NC 27606, United States of America"
+    "formatted_address": "1126 Trailwood Drive, Raleigh, NC 27606, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 04-07-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-31-25": {
     "case_number": "Z-31-25",
@@ -1203,7 +1387,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8727",
       "text": "PLANDEV - Z-31-25 - 2026-145.pdf"
     },
-    "formatted_address": "516 North Blount Street, Raleigh, NC 27604, United States of America"
+    "formatted_address": "516 North Blount Street, Raleigh, NC 27604, United States of America",
+    "official_status": "DENIED",
+    "official_status_display": "Denied 04-07-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-37-25": {
     "case_number": "Z-37-25",
@@ -1233,7 +1421,11 @@
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8743",
       "text": "PLANDEV - Z-37-25 - 2026-157.pdf"
-    }
+    },
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 05-05-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-40-25": {
     "case_number": "Z-40-25",
@@ -1260,7 +1452,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8735",
       "text": "PLANDEV \u2013 Z-40-25  - 2026-146.pdf"
     },
-    "formatted_address": "831 Wake Forest Road, Raleigh, NC 27604, United States of America"
+    "formatted_address": "831 Wake Forest Road, Raleigh, NC 27604, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 04-07-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-42-25": {
     "case_number": "Z-42-25",
@@ -1283,7 +1479,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8761",
       "text": "PLANDEV - Z-42-25 - 2026-154.pdf"
     },
-    "formatted_address": "2936 Hodge Road, Raleigh, NC 27545, United States of America"
+    "formatted_address": "2936 Hodge Road, Raleigh, NC 27545, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 03-17-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-26-25": {
     "case_number": "Z-26-25",
@@ -1310,10 +1510,14 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5645",
       "text": "PLANDEV - Z-26-25 - 2025-455.pdf"
     },
-    "formatted_address": "12009 Leesville Road, Raleigh, NC 27613, United States of America"
+    "formatted_address": "12009 Leesville Road, Raleigh, NC 27613, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 01-06-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
-  "TC-1-25": {
-    "case_number": "TC-1-25",
+  "TC-01-25": {
+    "case_number": "TC-01-25",
     "case_type": "Text Change",
     "documents": [
       {
@@ -1336,7 +1540,11 @@
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4876",
       "text": "PLANDEV - TC-1-25 - 2025-388.pdf"
-    }
+    },
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 1-6-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-33-25": {
     "case_number": "Z-33-25",
@@ -1359,7 +1567,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5666",
       "text": "PLANDEV - Z-33-25 - 2025-477.pdf"
     },
-    "formatted_address": "2806 Gresham Lake Road, Raleigh, NC 27615, United States of America"
+    "formatted_address": "2806 Gresham Lake Road, Raleigh, NC 27615, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 02-03-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-34-25": {
     "case_number": "Z-34-25",
@@ -1382,7 +1594,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5658",
       "text": "PLANDEV - Z-34-25 - 2025-454.pdf"
     },
-    "formatted_address": "4220 Lassiter Mill Road, Raleigh, NC 27609, United States of America"
+    "formatted_address": "4220 Lassiter Mill Road, Raleigh, NC 27609, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 01-20-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-20-25": {
     "case_number": "Z-20-25",
@@ -1404,10 +1620,14 @@
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4888",
       "text": "PLANDEV - Z-20-25 - 2025-397.pdf"
-    }
+    },
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 12-02-25",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
-  "TC-3-24": {
-    "case_number": "TC-3-24",
+  "TC-03-24": {
+    "case_number": "TC-03-24",
     "case_type": "Text Change",
     "documents": [
       {
@@ -1430,7 +1650,11 @@
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=3522",
       "text": "PLANDEV - TC-3-24 - 2025-256.pdf"
-    }
+    },
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 12-2-25",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-27-25": {
     "case_number": "Z-27-25",
@@ -1453,7 +1677,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4395",
       "text": "PLANDEV - Z-27-25 - 2025-338.pdf"
     },
-    "formatted_address": "725 Grove Avenue, Raleigh, NC 27606, United States of America"
+    "formatted_address": "725 Grove Avenue, Raleigh, NC 27606, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 01-06-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-30-25": {
     "case_number": "Z-30-25",
@@ -1476,10 +1704,14 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4379",
       "text": "PLANDEV - Z-30-25 - 2025-291.pdf"
     },
-    "formatted_address": "2816 Hodge Road, Raleigh, NC 27545, United States of America"
+    "formatted_address": "2816 Hodge Road, Raleigh, NC 27545, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 12-02-25",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
-  "Z-9-25": {
-    "case_number": "Z-9-25",
+  "Z-09-25": {
+    "case_number": "Z-09-25",
     "case_type": "Rezoning",
     "documents": [
       {
@@ -1499,7 +1731,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=3514",
       "text": "PLANDEV - Z-9-25 - 2025-250.pdf"
     },
-    "formatted_address": "4500 Western Boulevard, Raleigh, NC 27606, United States of America"
+    "formatted_address": "4500 Western Boulevard, Raleigh, NC 27606, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 01-06-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-23-25": {
     "case_number": "Z-23-25",
@@ -1522,7 +1758,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=3527",
       "text": "PLANDEV - Z-23-25 - 2025-225.pdf"
     },
-    "formatted_address": "1602 Gorman Street, Raleigh, NC 27606, United States of America"
+    "formatted_address": "1602 Gorman Street, Raleigh, NC 27606, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 12-02-25",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-25-25": {
     "case_number": "Z-25-25",
@@ -1545,10 +1785,14 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=3507",
       "text": "PLANDEV - Z-25-25 - 2025-240.pdf"
     },
-    "formatted_address": "101 North Bloodworth Street, Raleigh, NC 27601, United States of America"
+    "formatted_address": "101 North Bloodworth Street, Raleigh, NC 27601, United States of America",
+    "official_status": "DENIED",
+    "official_status_display": "Denied 11-18-25",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
-  "TC-3-25": {
-    "case_number": "TC-3-25",
+  "TC-03-25": {
+    "case_number": "TC-03-25",
     "case_type": "Text Change",
     "documents": [
       {
@@ -1567,7 +1811,11 @@
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2533",
       "text": "PLANDEV - TC-3-25 - 2025-184.pdf"
-    }
+    },
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 11-18-25",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-11-25": {
     "case_number": "Z-11-25",
@@ -1594,7 +1842,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2538",
       "text": "PLANDEV-Z-11-25 - 2025-179.pdf"
     },
-    "formatted_address": "2230 South New Hope Road, Raleigh, NC 27610, United States of America"
+    "formatted_address": "2230 South New Hope Road, Raleigh, NC 27610, United States of America",
+    "official_status": "WITHDRAWN",
+    "official_status_display": "WITHDRAWN 01-20-26",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-18-25": {
     "case_number": "Z-18-25",
@@ -1621,7 +1873,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2524",
       "text": "PLANDEV - Z-18-25 - 2025-185.pdf"
     },
-    "formatted_address": "5209 Kyle Drive, Raleigh, NC 27616, United States of America"
+    "formatted_address": "5209 Kyle Drive, Raleigh, NC 27616, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 11-04-25",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-17-25": {
     "case_number": "Z-17-25",
@@ -1644,7 +1900,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2549",
       "text": "PLANDEV - Z-17-25  - 2025-181.pdf"
     },
-    "formatted_address": "5401 Louisburg Road, Raleigh, NC 27616, United States of America"
+    "formatted_address": "5401 Louisburg Road, Raleigh, NC 27616, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 11-04-25",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-08-25": {
     "case_number": "Z-08-25",
@@ -1667,7 +1927,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2393",
       "text": "PLANDEV - Z-08-25 - 2025-148.pdf"
     },
-    "formatted_address": "1011 Cross Link Road, Raleigh, NC 27610, United States of America"
+    "formatted_address": "1011 Cross Link Road, Raleigh, NC 27610, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 10-21-25",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-16-25": {
     "case_number": "Z-16-25",
@@ -1690,7 +1954,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2399",
       "text": "PLANDEV - Z-16-25 - 2025-149.pdf"
     },
-    "formatted_address": "6100 Creedmoor Road, Raleigh, NC 27612, United States of America"
+    "formatted_address": "6100 Creedmoor Road, Raleigh, NC 27612, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 10-21-25",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-22-25": {
     "case_number": "Z-22-25",
@@ -1713,10 +1981,14 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2405",
       "text": "PLANDEV -Z-22-25  - 2025-150.pdf"
     },
-    "formatted_address": "3101 Watkins Town Road, Raleigh, NC 27616, United States of America"
+    "formatted_address": "3101 Watkins Town Road, Raleigh, NC 27616, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 10-21-25",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
-  "Z-5-25": {
-    "case_number": "Z-5-25",
+  "Z-05-25": {
+    "case_number": "Z-05-25",
     "case_type": "Rezoning",
     "documents": [
       {
@@ -1736,7 +2008,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2385",
       "text": "PLANDEV - Z-5-25 - 2025-140.pdf"
     },
-    "formatted_address": "3027 Rock Quarry Road, Raleigh, NC 27610, United States of America"
+    "formatted_address": "3027 Rock Quarry Road, Raleigh, NC 27610, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 10-21-25",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-13-25": {
     "case_number": "Z-13-25",
@@ -1759,7 +2035,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2417",
       "text": "PLANDEV-Z-13-25 - 2025-136.pdf"
     },
-    "formatted_address": "3219 Poole Road, Southeast Raleigh, Raleigh, NC 27610, United States of America"
+    "formatted_address": "3219 Poole Road, Southeast Raleigh, Raleigh, NC 27610, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 11-04-25",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-13-24": {
     "case_number": "Z-13-24",
@@ -1782,7 +2062,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=491",
       "text": "PLANDEV - Z-13-24 - 2025-073.pdf"
     },
-    "formatted_address": "1811 South New Hope Road, Raleigh, NC 27610, United States of America"
+    "formatted_address": "1811 South New Hope Road, Raleigh, NC 27610, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 10-21-25",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-51-24": {
     "case_number": "Z-51-24",
@@ -1805,7 +2089,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=497",
       "text": "PLANDEV - Z-51-24 - 2025-076.pdf"
     },
-    "formatted_address": "9308 Fairbanks Drive, Raleigh, NC 27613, United States of America"
+    "formatted_address": "9308 Fairbanks Drive, Raleigh, NC 27613, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 10-07-25",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-10-25": {
     "case_number": "Z-10-25",
@@ -1828,7 +2116,11 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=502",
       "text": "PLANDEV - Z-10-25  - 2025-074.pdf"
     },
-    "formatted_address": "8125 Leesville Road, Raleigh, NC 27613, United States of America"
+    "formatted_address": "8125 Leesville Road, Raleigh, NC 27613, United States of America",
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 10-07-25",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   },
   "Z-12-25": {
     "case_number": "Z-12-25",
@@ -1850,6 +2142,10 @@
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=485",
       "text": "PLANDEV - Z-12-25 - Peace and West - 2025-083.pdf"
-    }
+    },
+    "official_status": "APPROVED",
+    "official_status_display": "Approved 10-07-25",
+    "official_status_date": null,
+    "status_checked_at": "2026-08-30T23:26:22+00:00"
   }
 }

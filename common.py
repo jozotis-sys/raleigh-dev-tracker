@@ -1,7 +1,8 @@
 """
 Shared helpers for the Raleigh development-tracker pipeline.
 
-Used by 00_discover_meetings.py, 01_geocode_new.py, and 02_build_map.py.
+Used by 00_discover_meetings.py, 01_geocode_new.py, 02_build_map.py, and
+04_check_status.py.
 """
 
 import re
@@ -21,6 +22,21 @@ USER_AGENT = (
 )
 
 CASE_PATTERN = re.compile(r'\b(Z|AX|CP|TC|HLD)-\d+-\d+\b', re.IGNORECASE)
+
+
+def normalize_case_number(case_number):
+    """Normalize a case number for consistent matching across sources.
+    eSCRIBE sometimes renders a case as "Z-9-26" while Raleigh's own
+    status pages render the same case as "Z-09-26" -- zero-padding each
+    numeric segment to at least 2 digits makes both forms produce the
+    same key (harmless for segments already padded further, like HLD's
+    4-digit year)."""
+    parts = case_number.upper().split("-")
+    if len(parts) < 2:
+        return case_number.upper()
+    prefix = parts[0]
+    padded = [p.zfill(2) if p.isdigit() else p for p in parts[1:]]
+    return "-".join([prefix] + padded)
 
 CASE_TYPE_NAMES = {
     "Z": "Rezoning",
@@ -43,29 +59,11 @@ LINE_ADDR_RE = re.compile(
 )
 
 
-# ---------------------------------------------------------------------------
-# Browser fetching (used for both the meeting-list pages and individual
-# meeting agenda pages, both of which are JS-rendered by eSCRIBE)
-# ---------------------------------------------------------------------------
-
 def render_page(playwright, url, wait_seconds=3):
-    """Load a URL with a real browser and return the fully-rendered HTML.
-
-    Tries Playwright's own bundled Chromium first (this is what GitHub
-    Actions' fresh Ubuntu runners use, and it's the officially-supported
-    path). Falls back to the locally-installed Google Chrome via
-    channel="chrome" if the bundled browser reports the host OS is
-    unsupported -- this is the case on older macOS versions, where
-    Playwright's own Chromium build refuses to run but a real Chrome
-    install works fine.
-    """
     try:
         browser = playwright.chromium.launch(headless=True)
-    except Exception as e:
-        if "does not support chromium" in str(e).lower():
-            browser = playwright.chromium.launch(channel="chrome", headless=True)
-        else:
-            raise
+    except Exception:
+        browser = playwright.chromium.launch(channel="chrome", headless=True)
 
     context = browser.new_context(user_agent=USER_AGENT, viewport={"width": 1400, "height": 1000})
     page = context.new_page()
@@ -76,19 +74,7 @@ def render_page(playwright, url, wait_seconds=3):
     return html
 
 
-# ---------------------------------------------------------------------------
-# Parsing a rendered meeting-list page -> individual meeting URLs
-# ---------------------------------------------------------------------------
-
 def extract_meeting_links(html):
-    """Find individual meetings on a rendered committee listing page.
-
-    eSCRIBE listing pages contain multiple link variants per meeting --
-    some with "&Agenda=Agenda" (the actual agenda view, with case PDFs)
-    and some without (a bare "meeting details" page with no documents).
-    Rather than trust whichever variant happens to appear, we pull out
-    just the meeting's Id and build the canonical agenda URL ourselves,
-    deduping by Id so each real meeting is only processed once."""
     soup = BeautifulSoup(html, "html.parser")
     seen_ids = set()
     meetings = []
@@ -105,10 +91,6 @@ def extract_meeting_links(html):
         meetings.append({"href": canonical_url, "text": a.get_text(strip=True)})
     return meetings
 
-
-# ---------------------------------------------------------------------------
-# Parsing a rendered meeting agenda page -> case documents
-# ---------------------------------------------------------------------------
 
 def extract_pdf_links(html):
     soup = BeautifulSoup(html, "html.parser")
@@ -133,7 +115,7 @@ def group_by_case(links):
         match = CASE_PATTERN.search(link["text"])
         if not match:
             continue
-        case_number = match.group(0).upper()
+        case_number = normalize_case_number(match.group(0))
         prefix = case_number.split("-")[0]
         cases.setdefault(case_number, {
             "case_number": case_number,
