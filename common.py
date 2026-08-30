@@ -21,7 +21,7 @@ USER_AGENT = (
     "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 )
 
-CASE_PATTERN = re.compile(r'\b(Z|AX|CP|TC|HLD)-\d+-\d+\b', re.IGNORECASE)
+CASE_PATTERN = re.compile(r'\b(Z|AX|CP|TC|HLD|DA|BOA)-\d+-\d+\b', re.IGNORECASE)
 
 
 def normalize_case_number(case_number):
@@ -44,6 +44,8 @@ CASE_TYPE_NAMES = {
     "CP": "Comprehensive Plan Amendment",
     "TC": "Text Change",
     "HLD": "Historic Landmark Designation",
+    "DA": "Design Alternate",
+    "BOA": "Variance / Special Use Permit / Appeal",
 }
 
 PRIORITY_KEYWORDS = ["staffreport", "publichearing", "commissionreport", "specialitem"]
