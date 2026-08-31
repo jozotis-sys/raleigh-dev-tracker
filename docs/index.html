@@ -21,7 +21,8 @@
     background: rgba(255,255,255,0.96); border-bottom: 1px solid var(--panel-border);
     display: flex; align-items: center; justify-content: space-between; padding: 0 20px;
   }
-  .nav-title { font-weight: 700; font-size: 15px; letter-spacing: 0.12em; color: var(--text); display: flex; align-items: baseline; gap: 8px; }
+  .nav-title { font-weight: 700; font-size: 15px; letter-spacing: 0.12em; color: var(--text); display: flex; align-items: baseline; gap: 8px; cursor: pointer; }
+  .nav-title:hover { color: var(--amber); }
   .nav-title .unit { font-weight: 400; font-size: 9px; letter-spacing: 0.16em; color: var(--amber); border: 1px solid var(--amber-dim); padding: 1px 6px; border-radius: 2px; }
   .nav-tabs { display: flex; gap: 4px; }
   .nav-tab {
@@ -173,6 +174,12 @@
   .about-wrap li .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 8px; }
   .about-wrap a { color: var(--teal); }
 
+  .notify-wrap { padding: 24px; max-width: 640px; margin: 0 auto; }
+  .notify-wrap h2 { font-size: 14px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--text); margin: 0 0 10px; }
+  .notify-wrap p { color: var(--text-muted); font-size: 13px; margin: 0 0 16px; }
+  .notify-form-frame { width: 100%; height: 900px; border: 1px solid var(--panel-border); border-radius: 4px; background: #fff; }
+  @media (max-width: 640px) { .notify-form-frame { height: 1100px; } }
+
   @media (max-width: 640px) {
     .nav-title { font-size: 12px; }
     .nav-tab { padding: 7px 9px; font-size: 10px; }
@@ -185,12 +192,13 @@
 <body>
 
 <div id="navbar">
-  <div class="nav-title">RALEIGH <span class="unit">DEV TRACKER</span></div>
+  <div class="nav-title" id="navTitle">RALEIGH <span class="unit">DEV TRACKER</span></div>
   <div class="nav-tabs">
     <button class="nav-tab active" data-view="map">Map</button>
     <button class="nav-tab" data-view="table">Table</button>
     <button class="nav-tab" data-view="stats">Stats</button>
     <button class="nav-tab" data-view="about">About</button>
+    <button class="nav-tab" data-view="notify">Get Notified</button>
   </div>
 </div>
 
@@ -252,6 +260,14 @@
     <div id="statsByCommittee"></div>
     <h2>Cases by month presented</h2>
     <div id="statsByMonth"></div>
+  </div>
+</div>
+
+<div id="view-notify" class="view">
+  <div class="notify-wrap">
+    <h2>Get notified about cases near you</h2>
+    <p>Enter your email and address below to get an email whenever a new development case shows up within your chosen radius. You can also <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJwpWv1NKkoG3toVPOFo2YBBi_hd0JwwqCUsYzBIgZYEM2SA/viewform" target="_blank" rel="noopener" style="color:var(--teal);">open the form in a new tab</a> if it doesn't display below.</p>
+    <iframe class="notify-form-frame" src="https://docs.google.com/forms/d/e/1FAIpQLSeJwpWv1NKkoG3toVPOFo2YBBi_hd0JwwqCUsYzBIgZYEM2SA/viewform?embedded=true" loading="lazy">Loading form…</iframe>
   </div>
 </div>
 
@@ -363,21 +379,30 @@
   // Nav / view switching
   // =========================================================================
   var mapInitialized = false;
+  var VALID_VIEWS = ['map', 'table', 'stats', 'about', 'notify'];
+
+  function activateView(viewName, updateHash) {
+    if (VALID_VIEWS.indexOf(viewName) === -1) viewName = 'map';
+
+    document.querySelectorAll('.nav-tab').forEach(function (t) {
+      t.classList.toggle('active', t.getAttribute('data-view') === viewName);
+    });
+    document.querySelectorAll('.view').forEach(function (v) { v.classList.remove('active'); });
+    document.getElementById('view-' + viewName).classList.add('active');
+
+    if (viewName === 'map') {
+      if (!mapInitialized) { initMap(); mapInitialized = true; }
+      setTimeout(function () { if (window._map) window._map.resize(); }, 50);
+    }
+
+    if (updateHash) window.location.hash = viewName;
+  }
 
   document.querySelectorAll('.nav-tab').forEach(function (tab) {
-    tab.addEventListener('click', function () {
-      document.querySelectorAll('.nav-tab').forEach(function (t) { t.classList.remove('active'); });
-      document.querySelectorAll('.view').forEach(function (v) { v.classList.remove('active'); });
-      tab.classList.add('active');
-      var viewName = tab.getAttribute('data-view');
-      document.getElementById('view-' + viewName).classList.add('active');
-
-      if (viewName === 'map') {
-        if (!mapInitialized) { initMap(); mapInitialized = true; }
-        setTimeout(function () { if (window._map) window._map.resize(); }, 50);
-      }
-    });
+    tab.addEventListener('click', function () { activateView(tab.getAttribute('data-view'), true); });
   });
+
+  document.getElementById('navTitle').addEventListener('click', function () { activateView('map', true); });
 
   // =========================================================================
   // Map view
@@ -621,9 +646,13 @@
     }
   }
 
-  // Map is the default active tab, so initialize it right away.
-  initMap();
-  mapInitialized = true;
+  // Restore whichever tab was active before a refresh (via the URL hash),
+  // defaulting to Map if there's no hash or it doesn't match a real view.
+  // The map itself only initializes here if it's actually the resolved
+  // initial view -- no point loading MapLibre + fetching tiles if the
+  // visitor is landing directly on, say, the About page.
+  var initialView = window.location.hash ? window.location.hash.slice(1) : 'map';
+  activateView(initialView, false);
 
   // =========================================================================
   // Table view
