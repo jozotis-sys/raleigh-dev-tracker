@@ -613,5 +613,55 @@
     "lat": 35.7879233,
     "lng": -78.7263129,
     "formatted": "6011 Chapel Hill Road, Raleigh, NC 27607, United States of America"
+  },
+  "3717 Edwards Mill Road": {
+    "lat": 35.830042405758434,
+    "lng": -78.701302728925,
+    "formatted": "3717 Edwards Mill Road, Raleigh, NC 27612, United States of America"
+  },
+  "400 daily trips on Old Crews Road": {
+    "lat": 35.7803977,
+    "lng": -78.6390989,
+    "formatted": "Raleigh, NC, United States of America"
+  },
+  "2245 Garner Road": {
+    "lat": 35.7490045,
+    "lng": -78.630413,
+    "formatted": "2245 Garner Road, Caraleigh, Raleigh, NC 27610, United States of America"
+  },
+  "2211, 2221, and 2231 S New Hope Rd": {
+    "lat": 35.7460992,
+    "lng": -78.5650867,
+    "formatted": "2211 South New Hope Road, Raleigh, NC 27610, United States of America"
+  },
+  "Multiple addresses along Avent Ferry Road, Broadwell": {
+    "lat": 35.795543,
+    "lng": -78.64439,
+    "formatted": "Raleigh, NC, United States of America"
+  },
+  "309 N Boylan Avenue": {
+    "lat": 35.78438979384996,
+    "lng": -78.64911703201054,
+    "formatted": "309 North Boylan Avenue, Raleigh, NC 27603, United States of America"
+  },
+  "4601 Creedmoor Road": {
+    "lat": 35.8448981,
+    "lng": -78.6807707,
+    "formatted": "4601 Creedmoor Road, Raleigh, NC 27612, United States of America"
+  },
+  "2126 Sanderford Road": {
+    "lat": 35.74971581632653,
+    "lng": -78.6125603877551,
+    "formatted": "2126 Sanderford Road, Raleigh, NC 27610, United States of America"
+  },
+  "101 N. Bloodworth St": {
+    "lat": 35.7811649,
+    "lng": -78.6333864,
+    "formatted": "101 North Bloodworth Street, Raleigh, NC 27601, United States of America"
+  },
+  "215 Lord Berkley Road": {
+    "lat": 35.78199221651507,
+    "lng": -78.60575137374964,
+    "formatted": "215 Lord Berkley Road, Southeast Raleigh, Raleigh, NC 27610, United States of America"
   }
 }

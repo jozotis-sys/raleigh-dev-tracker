@@ -15,7 +15,7 @@
     "lat": null,
     "lng": null,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16599",
       "text": "PLANDEV - AX-17-26 - 2026-780.pdf"
@@ -36,6 +36,30 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15459",
         "text": "PLANDEV - Z-56-25 - 2026-827.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16587",
+        "text": "20260901PLANDEVCommissionReportZ-56-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15460",
+        "text": "20260811PLANDEVNewBusinessZ-56-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15461",
+        "text": "20260811PLANDEVConsistencyStatementApproveZ-56-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15462",
+        "text": "20260811PLANDEVConsistencyStatementDenyZ-56-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15463",
+        "text": "20260811PLANDEVEngagementReportZ-56-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15464",
+        "text": "20260811PLANDEVStaffPresentationZ-56-25.pdf"
       }
     ],
     "committee": "City Council",
@@ -45,7 +69,7 @@
     "lat": 35.76999498583577,
     "lng": -78.56864329879951,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=ba277b00-7138-4bd3-9091-7d2602a925c7&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16586",
       "text": "PLANDEV - Z-56-25 - 2026-875.pdf"
@@ -54,7 +78,8 @@
     "official_status": "ACTIVE",
     "official_status_display": "City Council Report of PC 09/01/26",
     "official_status_date": "09/01/26",
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-08-11"
   },
   "Z-43-25": {
     "case_number": "Z-43-25",
@@ -79,6 +104,58 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10187",
         "text": "PLANDEV \u2013 Z-43-25 - 2026-152.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16589",
+        "text": "202600901PLANDEVCommissionReportZ-43-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15434",
+        "text": "20260811PLANDEVOldBusinessZ-43-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15437",
+        "text": "20260811PLANDEVEngagementPortalZ-43-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15438",
+        "text": "20260811PLANDEVStaffPresentationZ-43-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=14430",
+        "text": "20260623PLANDEVEngagementPortalZ-43-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=14431",
+        "text": "20260623PLANDEVNewBusinessZ-43-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=14433",
+        "text": "20260623PLANDEVStaffPresentationZ-43-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11502",
+        "text": "20260414PLANDEVOldBusinessZ-43-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11505",
+        "text": "20260414PLANDEVEngagementPortalZ-43-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11506",
+        "text": "20260414PLANDEVStaffPresentationZ-43-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10188",
+        "text": "20260310PLANDEVNewBusinessZ-43-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10192",
+        "text": "20260310PLANDEVEngagementPortalZ-43-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10193",
+        "text": "20260310PLANDEVStaffPresentationZ-43-25.pdf"
       }
     ],
     "committee": "City Council",
@@ -88,7 +165,7 @@
     "lat": 35.86514639284573,
     "lng": -78.59826873670411,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=7daea1a5-361e-493f-bbe9-61bb5c956408&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16588",
       "text": "PLANDEV \u2013 Z-43-25 - 2026-877.pdf"
@@ -97,7 +174,8 @@
     "official_status": "ACTIVE",
     "official_status_display": "City Council Report of PC 09/01/26",
     "official_status_date": "09/01/26",
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-03-10"
   },
   "Z-50-25": {
     "case_number": "Z-50-25",
@@ -110,6 +188,18 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15444",
         "text": "PLANDEV - Z-50-25 - 2026-804.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16591",
+        "text": "20260901PLANDEVCommissionReportZ-50-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15446",
+        "text": "20260811PLANDEVNewBusinessZ-50-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15449",
+        "text": "20260811PLANDEVRezoningStaffPresentationZ-50-25.pdf"
       }
     ],
     "committee": "City Council",
@@ -119,7 +209,7 @@
     "lat": 35.810603628381614,
     "lng": -78.61281283748811,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=ba277b00-7138-4bd3-9091-7d2602a925c7&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16590",
       "text": "PLANDEV \u2013 Z-50-25 - 2026-878.pdf"
@@ -128,7 +218,8 @@
     "official_status": "ACTIVE",
     "official_status_display": "City Council Report of PC 09/01/26",
     "official_status_date": "09/01/26",
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-08-11"
   },
   "Z-07-26": {
     "case_number": "Z-07-26",
@@ -141,6 +232,18 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15439",
         "text": "PLANDEV - Z-07-26 - 2026-796.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16602",
+        "text": "20260901PLANDEVCommissionReportZ-07-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15440",
+        "text": "20260811PLANDEVNewBusinessZ-07-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15443",
+        "text": "20260811PLANDEVStaffPresentationZ-07-26.pdf"
       }
     ],
     "committee": "City Council",
@@ -150,7 +253,7 @@
     "lat": 35.78446838809601,
     "lng": -78.69074365441824,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=ba277b00-7138-4bd3-9091-7d2602a925c7&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16601",
       "text": "PLANDEV - Z-07-26 - 2026-884.pdf"
@@ -159,7 +262,8 @@
     "official_status": "ACTIVE",
     "official_status_display": "City Council Report of PC 09/01/26",
     "official_status_date": "09/01/26",
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-08-11"
   },
   "TC-04-26": {
     "case_number": "TC-04-26",
@@ -181,7 +285,7 @@
     "lat": null,
     "lng": null,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=b33bb996-f9c4-4591-8b24-024c4fe7439d&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16636",
       "text": "PLANDEV - TC-4-26 - 2026-917.pdf"
@@ -210,6 +314,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13317",
         "text": "PLANDEV - Z-08-26 - 2026-576.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16630",
+        "text": "20260901PLANDEVPublicHearingRezoningZ-08-26.pdf"
       }
     ],
     "committee": "City Council",
@@ -219,7 +327,7 @@
     "lat": 35.7307560251381,
     "lng": -78.55720032619993,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=a2dfe2ad-c224-4c0a-9687-cafdf5b17368&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16627",
       "text": "PLANDEV - Z-08-26 - 2026-900.pdf"
@@ -228,7 +336,8 @@
     "official_status": "ACTIVE",
     "official_status_display": "City Council Public Hearing 09/01/26",
     "official_status_date": "09/01/26",
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-09-01"
   },
   "Z-51-25": {
     "case_number": "Z-51-25",
@@ -245,6 +354,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13304",
         "text": "PLANDEV - Z-51-25 - 2026-571.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16632",
+        "text": "20260901PLANDEVPublicHearingRezoningZ-51-25.pdf"
       }
     ],
     "committee": "City Council",
@@ -254,7 +367,7 @@
     "lat": 35.855943647093554,
     "lng": -78.5599061879666,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=a2dfe2ad-c224-4c0a-9687-cafdf5b17368&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16631",
       "text": "PLANDEV - Z-51-25 - 2026-904.pdf"
@@ -263,7 +376,8 @@
     "official_status": "ACTIVE",
     "official_status_display": "City Council Public Hearing 09/01/26",
     "official_status_date": "09/01/26",
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-09-01"
   },
   "AX-06-26": {
     "case_number": "AX-06-26",
@@ -272,6 +386,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16625",
         "text": "PLANDEV - AX-06-26 - 2026-900.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16626",
+        "text": "20260901PLANDEVPublicHearingAnnexationAX-06-26.pdf"
       }
     ],
     "committee": "City Council",
@@ -281,7 +399,7 @@
     "lat": 35.8854571,
     "lng": -78.5251861,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16625",
       "text": "PLANDEV - AX-06-26 - 2026-900.pdf"
@@ -290,7 +408,8 @@
     "official_status": "ACTIVE",
     "official_status_display": "Public Hearing 09/01/26",
     "official_status_date": "09/01/26",
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-09-01"
   },
   "HLD-0001-2026": {
     "case_number": "HLD-0001-2026",
@@ -308,7 +427,7 @@
     "lat": 35.77626202638374,
     "lng": -78.62816457208169,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d8bfec82-12f8-4ea7-9ecd-a2d24bcc3aec&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16603",
       "text": "PLANDEV-HLD-0001-2026 - 2026-885.pdf"
@@ -330,6 +449,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13861",
         "text": "PLANDEV - Z-19-25 - 2026-639.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16615",
+        "text": "20260901PLANDEVPublicHearingRezoningZ-19-25.pdf"
       }
     ],
     "committee": "City Council",
@@ -339,7 +462,7 @@
     "lat": 35.7711683522474,
     "lng": -78.64653666911204,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=943dc3ee-8d74-417e-9c09-a0268b59f933&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16614",
       "text": "PLANDEV - Z-19-25 - 2026-895.pdf"
@@ -348,7 +471,8 @@
     "official_status": "ACTIVE",
     "official_status_display": "Public Hearing 09/01/26",
     "official_status_date": "09/01/26",
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-09-01"
   },
   "Z-09-26": {
     "case_number": "Z-09-26",
@@ -365,6 +489,34 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12639",
         "text": "PLANDEV \u2013 Z-9-26 - 2026-498.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16575",
+        "text": "20260901PLANDEVRezoningPublicHearingZ-9-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13856",
+        "text": "2020609PLANDEVOldBusinessZ-9-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13859",
+        "text": "20260609PLANDEVEngagementPortalZ-9-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13860",
+        "text": "20260609PLANDEVStaffPresentationZ-9-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12640",
+        "text": "20260512PLANDEVNewBusinessZ-9-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12643",
+        "text": "20260512PLANDEVEngagementPortalZ-9-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12644",
+        "text": "20260512PLANDEVStaffPresentationZ-9-26.pdf"
       }
     ],
     "committee": "City Council",
@@ -374,7 +526,7 @@
     "lat": 35.8531709,
     "lng": -78.6994652,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=aa08e6c9-1a85-478b-9fd8-5cf277a18a6d&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16574",
       "text": "PLANDEV \u2013 Z-9-26 - 2026-777.pdf"
@@ -383,7 +535,8 @@
     "official_status": "ACTIVE",
     "official_status_display": "City Council Public Hearing 09/01/26",
     "official_status_date": "09/01/26",
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-05-12"
   },
   "Z-14-26": {
     "case_number": "Z-14-26",
@@ -396,6 +549,14 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=14447",
         "text": "PLANDEV - Z-14-26 - 2026-709.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16619",
+        "text": "20260901PLANDEVPublicHearingZ-14-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=14448",
+        "text": "20260623PLANDEVNewBusinessZ-14-26.pdf"
       }
     ],
     "committee": "City Council",
@@ -405,7 +566,7 @@
     "lat": 35.78296962429942,
     "lng": -78.6871919630474,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=e3394c15-4ac7-4fff-8bdc-cc7c18282718&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16618",
       "text": "PLANDEV - Z-14-26 - 2026-896.pdf"
@@ -414,7 +575,8 @@
     "official_status": "ACTIVE",
     "official_status_display": "City Council Public Hearing 09/01/26",
     "official_status_date": "09/01/26",
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-06-23"
   },
   "Z-18-26": {
     "case_number": "Z-18-26",
@@ -427,6 +589,14 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=14442",
         "text": "PLANDEV \u2013 Z-18-26 - 2026-698.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16579",
+        "text": "20260901PLANDEVRezoningPublicHearingZ-18-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=14443",
+        "text": "20260623PLANDEVNewBusinessZ-18-26.pdf"
       }
     ],
     "committee": "City Council",
@@ -436,7 +606,7 @@
     "lat": 35.754378664587364,
     "lng": -78.5261068752417,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=e3394c15-4ac7-4fff-8bdc-cc7c18282718&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16578",
       "text": "PLANDEV \u2013 Z-18-26 - 2026-778.pdf"
@@ -445,7 +615,8 @@
     "official_status": "ACTIVE",
     "official_status_display": "City Council Public Hearing 09/01/26",
     "official_status_date": "09/01/26",
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-06-23"
   },
   "Z-15-26": {
     "case_number": "Z-15-26",
@@ -454,6 +625,14 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16291",
         "text": "PLANDEV - Z-15-26 - 2026-892.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16292",
+        "text": "20260825PLANDEVNewBusinessZ-15-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16295",
+        "text": "20260825PLANDEVStaffPresentationZ-15-26.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -463,7 +642,7 @@
     "lat": 35.887691157639004,
     "lng": -78.62744155492504,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=b33bb996-f9c4-4591-8b24-024c4fe7439d&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16291",
       "text": "PLANDEV - Z-15-26 - 2026-892.pdf"
@@ -472,7 +651,8 @@
     "official_status": "ACTIVE",
     "official_status_display": "City Council Report of PC 09/15/26",
     "official_status_date": "09/15/26",
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-08-25"
   },
   "Z-22-26": {
     "case_number": "Z-22-26",
@@ -481,6 +661,26 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16296",
         "text": "PLANDEV - Z-22-26 - 2026-894.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16298",
+        "text": "20260825PLANDEVNewBusinessZ-22-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16299",
+        "text": "20260825PLANDEVStaffPresentationZ-22-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16300",
+        "text": "20260825PLANDEVConsistencyStatementApproveZ-22-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16301",
+        "text": "20260825PLANDEVConsistencyStatementDenyZ-22-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16302",
+        "text": "20260825PLANDEVEngagementReportZ-22-26.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -490,7 +690,7 @@
     "lat": 35.765841723562474,
     "lng": -78.63371754643123,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=b33bb996-f9c4-4591-8b24-024c4fe7439d&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16296",
       "text": "PLANDEV - Z-22-26 - 2026-894.pdf"
@@ -499,7 +699,8 @@
     "official_status": "ACTIVE",
     "official_status_display": "City Council Report of PC 09/15/26",
     "official_status_date": "09/15/26",
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-08-25"
   },
   "Z-17-26": {
     "case_number": "Z-17-26",
@@ -508,6 +709,26 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15452",
         "text": "PLANDEV - Z-17-26 - 2026-826.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15453",
+        "text": "20260811PLANDEVNewBusinessZ-17-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15454",
+        "text": "20260811PLANDEVStaffPresentationZ-17-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15456",
+        "text": "20260811PLANDEVConsistencyStatementApproveZ-17-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15457",
+        "text": "20260811PLANDEVConsistencyStatementDenyZ-17-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15458",
+        "text": "20260811PLANDEVEngagementReportZ-17-26.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -517,7 +738,7 @@
     "lat": 35.78696666982903,
     "lng": -78.71812729860957,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=ba277b00-7138-4bd3-9091-7d2602a925c7&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15452",
       "text": "PLANDEV - Z-17-26 - 2026-826.pdf"
@@ -526,7 +747,8 @@
     "official_status": "ACTIVE",
     "official_status_display": "City Council Public Hearing 09/15/26",
     "official_status_date": "09/15/26",
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-08-11"
   },
   "Z-19-26": {
     "case_number": "Z-19-26",
@@ -535,24 +757,42 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15465",
         "text": "PLANDEV - Z-19-26 - 2026-833.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16607",
+        "text": "PLANDEV - TCZ-19-26 - 2026-886.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16608",
+        "text": "202600901PLANDEVCommissionReportTCZ-19-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15466",
+        "text": "20260811PLANDEVNewBusinessTCZ-19-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15467",
+        "text": "20260811PLANDEVStaffPresentationTCZ-19-26.pdf"
       }
     ],
     "committee": "Planning Commission",
     "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=ba277b00-7138-4bd3-9091-7d2602a925c7&Agenda=Agenda&lang=English",
     "first_seen_at": "2026-08-29T22:00:47.925615+00:00",
-    "address_guess": null,
-    "lat": null,
-    "lng": null,
+    "address_guess": "3717 Edwards Mill Road",
+    "lat": 35.830042405758434,
+    "lng": -78.701302728925,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=ba277b00-7138-4bd3-9091-7d2602a925c7&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
-      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15465",
-      "text": "PLANDEV - Z-19-26 - 2026-833.pdf"
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16608",
+      "text": "202600901PLANDEVCommissionReportTCZ-19-26.pdf"
     },
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-08-11",
+    "formatted_address": "3717 Edwards Mill Road, Raleigh, NC 27612, United States of America"
   },
   "Z-21-26": {
     "case_number": "Z-21-26",
@@ -561,6 +801,14 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15470",
         "text": "PLANDEV - Z-21-26 - 2026-839.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15471",
+        "text": "20260811PLANDEVNewBusinessZ-21-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15474",
+        "text": "20260811PLANDEVStaffPresentationZ-21-26.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -570,7 +818,7 @@
     "lat": 35.746202,
     "lng": -78.515593,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=ba277b00-7138-4bd3-9091-7d2602a925c7&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15470",
       "text": "PLANDEV - Z-21-26 - 2026-839.pdf"
@@ -579,7 +827,8 @@
     "official_status": "ACTIVE",
     "official_status_display": "Planning Commission 09/08/26",
     "official_status_date": "09/08/26",
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-08-11"
   },
   "Z-54-25": {
     "case_number": "Z-54-25",
@@ -601,7 +850,7 @@
     "lat": 35.880720147168304,
     "lng": -78.70772326647855,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=a2dfe2ad-c224-4c0a-9687-cafdf5b17368&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=14420",
       "text": "PLANDEV - Z-54-25 - 2026-634.pdf"
@@ -619,24 +868,34 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=14439",
         "text": "PLANDEV \u2013 CP-1-26 - 2026-697.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=14440",
+        "text": "20260623PLANDEVNewBusinessCP-1-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=14441",
+        "text": "20260623PLANDEVStaffPresentationCP-1-26.pdf"
       }
     ],
     "committee": "Planning Commission",
     "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=e3394c15-4ac7-4fff-8bdc-cc7c18282718&Agenda=Agenda&lang=English",
     "first_seen_at": "2026-08-29T22:00:47.925615+00:00",
-    "address_guess": null,
-    "lat": null,
-    "lng": null,
+    "address_guess": "400 daily trips on Old Crews Road",
+    "lat": 35.7803977,
+    "lng": -78.6390989,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=e3394c15-4ac7-4fff-8bdc-cc7c18282718&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
-      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=14439",
-      "text": "PLANDEV \u2013 CP-1-26 - 2026-697.pdf"
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=14440",
+      "text": "20260623PLANDEVNewBusinessCP-1-26.pdf"
     },
     "official_status": "ACTIVE",
     "official_status_display": "Under review",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-06-23",
+    "formatted_address": "Raleigh, NC, United States of America"
   },
   "Z-16-26": {
     "case_number": "Z-16-26",
@@ -645,6 +904,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=14452",
         "text": "PLANDEV - Z-16-26 - 2026-710.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=14453",
+        "text": "20260623PLANDEVNewBusinessZ-16-26.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -654,7 +917,7 @@
     "lat": 35.78438979384996,
     "lng": -78.64911703201054,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=e3394c15-4ac7-4fff-8bdc-cc7c18282718&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=14452",
       "text": "PLANDEV - Z-16-26 - 2026-710.pdf"
@@ -663,7 +926,8 @@
     "official_status": "APPROVED",
     "official_status_display": "Approved 08/18/26",
     "official_status_date": "08/18/26",
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-06-23"
   },
   "TC-01-26": {
     "case_number": "TC-01-26",
@@ -685,7 +949,7 @@
     "lat": null,
     "lng": null,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=54ae14d3-9f5f-43f3-9654-7dff23f4a5da&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13838",
       "text": "PLANDEV - TC-1-26 - 2026-616.pdf"
@@ -702,6 +966,14 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13843",
         "text": "PLANDEV \u2013 Z-12-26 - 2026-618.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13844",
+        "text": "20260609PLANDEVNewBusinessZ-12-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13847",
+        "text": "20260609PLANDEVStaffPresentationZ-12-26.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -711,7 +983,7 @@
     "lat": 35.7094559,
     "lng": -78.5397077,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=943dc3ee-8d74-417e-9c09-a0268b59f933&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13843",
       "text": "PLANDEV \u2013 Z-12-26 - 2026-618.pdf"
@@ -720,7 +992,8 @@
     "official_status": "ACTIVE",
     "official_status_display": "City Council Public Hearing 09/22/26",
     "official_status_date": "09/22/26",
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-06-09"
   },
   "Z-50-24": {
     "case_number": "Z-50-24",
@@ -729,24 +1002,38 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13320",
         "text": "PLANDEV - Z-50-24  - 2026-611.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13321",
+        "text": "20260526PLANDEVNewBusinessZ-50-24.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13324",
+        "text": "20260526PLANDEVStaffPresentationZ-50-24.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13325",
+        "text": "20250526PLANDEVEngagementReportZ-50-24.pdf"
       }
     ],
     "committee": "Planning Commission",
     "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=a2dfe2ad-c224-4c0a-9687-cafdf5b17368&Agenda=Agenda&lang=English",
     "first_seen_at": "2026-08-29T22:00:47.925615+00:00",
-    "address_guess": null,
-    "lat": null,
-    "lng": null,
+    "address_guess": "2245 Garner Road",
+    "lat": 35.7490045,
+    "lng": -78.630413,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=a2dfe2ad-c224-4c0a-9687-cafdf5b17368&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
-      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13320",
-      "text": "PLANDEV - Z-50-24  - 2026-611.pdf"
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13321",
+      "text": "20260526PLANDEVNewBusinessZ-50-24.pdf"
     },
     "official_status": "APPROVED",
     "official_status_display": "Approved 07-07-26",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2025-05-26",
+    "formatted_address": "2245 Garner Road, Caraleigh, Raleigh, NC 27610, United States of America"
   },
   "Z-48-25": {
     "case_number": "Z-48-25",
@@ -755,6 +1042,18 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12645",
         "text": "PLANDEV - Z-48-25 - 2026-512.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12646",
+        "text": "20260512PLANDEVCommitteeReportZ-48-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12649",
+        "text": "20260512PLANDEVStaffPresentationZ-48-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12158",
+        "text": "20260423PLANDEVNewBusinessZ-48-25.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -763,8 +1062,8 @@
     "address_guess": "2810 Blue Ridge Road",
     "lat": 35.81816982549073,
     "lng": -78.70486824137627,
-    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=aa08e6c9-1a85-478b-9fd8-5cf277a18a6d&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=54ae14d3-9f5f-43f3-9654-7dff23f4a5da&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12645",
       "text": "PLANDEV - Z-48-25 - 2026-512.pdf"
@@ -773,7 +1072,8 @@
     "official_status": "APPROVED",
     "official_status_display": "Approved 06-16-26",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-04-23"
   },
   "Z-57-25": {
     "case_number": "Z-57-25",
@@ -786,6 +1086,30 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12145",
         "text": "PLANDEV - Z-57-25 - 2026-460.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12651",
+        "text": "20260512PLANDEVOldBusinessZ-57-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12652",
+        "text": "20260512PLANDEVStaffPresentationZ-57-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12655",
+        "text": "20260512PLANDEVEngagementPortalZ-57-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12146",
+        "text": "20260428PLANDEVNewBusinessZ-57-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12148",
+        "text": "20260428PLANDEVStaffPresentationZ-57-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12149",
+        "text": "20260428PLANDEVEngagementPortalZ-57-25.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -795,7 +1119,7 @@
     "lat": 35.88780252221009,
     "lng": -78.60125291632566,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=54ae14d3-9f5f-43f3-9654-7dff23f4a5da&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12650",
       "text": "PLANDEV - Z-57-25 - 2026-536.pdf"
@@ -804,7 +1128,8 @@
     "official_status": "APPROVED",
     "official_status_display": "(link is external) Approved 07/07/26",
     "official_status_date": "07/07/26",
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-04-28"
   },
   "Z-46-25": {
     "case_number": "Z-46-25",
@@ -822,7 +1147,7 @@
     "lat": 35.774115670813515,
     "lng": -78.64617226413175,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=aa08e6c9-1a85-478b-9fd8-5cf277a18a6d&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12627",
       "text": "PLANDEV - Z-46-25 - 2026-430.pdf"
@@ -840,6 +1165,18 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12633",
         "text": "PLANDEV - Z-11-26 - 2026-497.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12634",
+        "text": "20260512PLANDEVNewBusinessZ-11-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12635",
+        "text": "20260512PLANDEVStaffPresentationZ-11-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12638",
+        "text": "20260512PLANDEVEngagementReportZ-11-26.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -849,7 +1186,7 @@
     "lat": 35.8326985,
     "lng": -78.6479535,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=aa08e6c9-1a85-478b-9fd8-5cf277a18a6d&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12633",
       "text": "PLANDEV - Z-11-26 - 2026-497.pdf"
@@ -858,7 +1195,8 @@
     "official_status": "APPROVED",
     "official_status_display": "Approved 07/07/26",
     "official_status_date": "07/07/26",
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-05-12"
   },
   "Z-05-26": {
     "case_number": "Z-05-26",
@@ -871,6 +1209,30 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11489",
         "text": "PLANDEV - Z-5-26 - 2026-336.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12140",
+        "text": "20260428PLANDEVOldBusinessZ-5-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12143",
+        "text": "20260428PLANDEVEngagementPortalZ-5-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12144",
+        "text": "20260428PLANDEVStaff PresentationZ-5-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11490",
+        "text": "20260414PLANDEVNewBusinessZ-5-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11494",
+        "text": "20260414PLANDEVEngagementPortalZ-5-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11495",
+        "text": "20260414PLANDEVStaff PresentationZ-5-26.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -880,7 +1242,7 @@
     "lat": 35.77977616666667,
     "lng": -78.61780644444445,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=e2bc234a-5ab4-4a3d-82a0-f8751ca4929d&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12139",
       "text": "PLANDEV \u2013 Z-5-26  - 2026-441.pdf"
@@ -889,7 +1251,8 @@
     "official_status": "APPROVED",
     "official_status_display": "Approved 07-02-24",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-04-14"
   },
   "Z-03-26": {
     "case_number": "Z-03-26",
@@ -898,6 +1261,14 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12134",
         "text": "PLANDEV \u2013 Z-3-26 - 2026-424.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12135",
+        "text": "20260428PLANDEVNewBusinessZ-3-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12138",
+        "text": "20260428PLANDEVStaffPresentationZ-3-26.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -907,7 +1278,7 @@
     "lat": 35.78253,
     "lng": -78.648077,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=54ae14d3-9f5f-43f3-9654-7dff23f4a5da&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12134",
       "text": "PLANDEV \u2013 Z-3-26 - 2026-424.pdf"
@@ -916,7 +1287,8 @@
     "official_status": "APPROVED",
     "official_status_display": "Approved 06-16-26",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-04-28"
   },
   "Z-44-25": {
     "case_number": "Z-44-25",
@@ -925,6 +1297,14 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11496",
         "text": "PLANDEV - Z-44-25 - 2026-344.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11497",
+        "text": "20260407PLANDEVNewBusinessZ-44-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11500",
+        "text": "20260407PLANDEVStaffPresentationZ-44-25.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -934,7 +1314,7 @@
     "lat": 35.900905,
     "lng": -78.50106,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=e2bc234a-5ab4-4a3d-82a0-f8751ca4929d&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11496",
       "text": "PLANDEV - Z-44-25 - 2026-344.pdf"
@@ -943,7 +1323,8 @@
     "official_status": "APPROVED",
     "official_status_display": "(link is external) Approved 07/07/26",
     "official_status_date": "07/07/26",
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-04-07"
   },
   "Z-15-25": {
     "case_number": "Z-15-25",
@@ -965,7 +1346,7 @@
     "lat": 35.71902,
     "lng": -78.519202,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=7daea1a5-361e-493f-bbe9-61bb5c956408&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10875",
       "text": "PLANDEV - Z-15-25 - 2026-315.pdf"
@@ -987,6 +1368,42 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10199",
         "text": "PLANDEV - Z-39-25  - 2026-277.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10882",
+        "text": "20260324PLANDEVStaffPresentationZ-39-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10883",
+        "text": "20260324PLANDEVConsistencyStatementApproveZ-39-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10884",
+        "text": "20260324PLANDEVConsistencyStatementDenyZ-39-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10885",
+        "text": "20260324PLANDEVEngagementPortalZ-39-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10200",
+        "text": "20260310PLANDEVNewBusinessZ-39-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10201",
+        "text": "20260310PLANDEVConsistencyStatementDenyZ-39-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10202",
+        "text": "20260310PLANDEVEngagementPortalZ-39-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10203",
+        "text": "20260310PLANDEVStaffPresentationZ-39-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10204",
+        "text": "20260310PLANDEVConsistencyStatementApproveZ-39-25.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -996,7 +1413,7 @@
     "lat": 35.78359764133549,
     "lng": -78.62472419812111,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=7daea1a5-361e-493f-bbe9-61bb5c956408&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10880",
       "text": "PLANDEV - Z-39-25 - 2026-321.pdf"
@@ -1005,7 +1422,8 @@
     "official_status": "DENIED",
     "official_status_display": "(link is external) Denied 08/18/26",
     "official_status_date": "08/18/26",
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-03-10"
   },
   "Z-35-25": {
     "case_number": "Z-35-25",
@@ -1014,6 +1432,18 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10861",
         "text": "PLANDEV - Z-35-25 - 2026-269.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10862",
+        "text": "20260324PLANDEVNewBusinessZ-35-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10866",
+        "text": "20260324PLANDEVEngagementPortalZ-35-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10867",
+        "text": "20260324PLANDEVStaffPresentationZ-35-25.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -1023,7 +1453,7 @@
     "lat": 35.898944,
     "lng": -78.529485,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=894c2311-821b-4ca9-aeab-b5bd7a9264b9&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10861",
       "text": "PLANDEV - Z-35-25 - 2026-269.pdf"
@@ -1032,7 +1462,8 @@
     "official_status": "APPROVED",
     "official_status_display": "Approved 05-19-26",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-03-24"
   },
   "Z-53-25": {
     "case_number": "Z-53-25",
@@ -1050,7 +1481,7 @@
     "lat": 35.8577377,
     "lng": -78.6413024,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=894c2311-821b-4ca9-aeab-b5bd7a9264b9&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10868",
       "text": "PLANDEV - Z-53-25 - 2026-314.pdf"
@@ -1072,6 +1503,30 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9170",
         "text": "PLANDEV - Z-38-25 - 2026-226.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10218",
+        "text": "20260310PLANDEVStaffPresentationZ-38-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10221",
+        "text": "20260224PLANDEVEngagementReportZ-38-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10222",
+        "text": "20260310PLANDEVOldBusinessZ-38-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9171",
+        "text": "20260224PLANDEVNewBusinessZ-38-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9174",
+        "text": "20260224PLANDEVEngagementReportZ-38-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9175",
+        "text": "20260224PLANDEVStaffPresentationZ-38-25.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -1081,7 +1536,7 @@
     "lat": 35.76624562989276,
     "lng": -78.69090626652732,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=6b3443c3-ee2a-48da-a1e0-9df7cbba753c&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10217",
       "text": "PLANDEV - Z-38-25 - 2026-285.pdf"
@@ -1090,7 +1545,8 @@
     "official_status": "DENIED",
     "official_status_display": "Denied 05-05-26",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-02-24"
   },
   "Z-52-25": {
     "case_number": "Z-52-25",
@@ -1099,6 +1555,26 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10205",
         "text": "PLANDEV - Z-52-25  - 2026-278.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10206",
+        "text": "20260310PLANDEVNewBusinessZ-52-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10207",
+        "text": "20260310PLANDEVConsistencyStatementApproveZ-52-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10208",
+        "text": "20260310PLANDEVConsistencyStatementDenyZ-52-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10209",
+        "text": "20260310PLANDEVStaffPresentationZ-52-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10210",
+        "text": "20260310PLANDEVEngagementPortalZ-52-25 (1).pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -1108,7 +1584,7 @@
     "lat": 35.8266367,
     "lng": -78.6922885,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=7daea1a5-361e-493f-bbe9-61bb5c956408&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10205",
       "text": "PLANDEV - Z-52-25  - 2026-278.pdf"
@@ -1117,7 +1593,8 @@
     "official_status": "APPROVED",
     "official_status_display": "Approved 05-05-26",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-03-10"
   },
   "Z-01-26": {
     "case_number": "Z-01-26",
@@ -1126,6 +1603,26 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10211",
         "text": "PLANDEV - Z-01-26  - 2026-279.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10212",
+        "text": "20260310PLANDEVNewBusinessZ-01-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10213",
+        "text": "20260310PLANDEVStaffPresentationZ-01-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10214",
+        "text": "20260310PLANDEVConsistencyStatementApproveZ-01-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10215",
+        "text": "20260310PLANDEVConsistencyStatementDenyZ-01-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10216",
+        "text": "20260310PLANDEVEngagementPortalZ-01-26.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -1135,7 +1632,7 @@
     "lat": 35.7768373,
     "lng": -78.6439733,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=7daea1a5-361e-493f-bbe9-61bb5c956408&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10211",
       "text": "PLANDEV - Z-01-26  - 2026-279.pdf"
@@ -1144,7 +1641,8 @@
     "official_status": "APPROVED",
     "official_status_display": "Approved 06-02-26",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-03-10"
   },
   "CP-01-25": {
     "case_number": "CP-01-25",
@@ -1166,7 +1664,7 @@
     "lat": 35.81995022113318,
     "lng": -78.70881806054463,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=da4c9981-aa82-4c2c-ab9c-d05671bf4965&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9167",
       "text": "PLANDEV - CP-01-25 - 2026-197.pdf"
@@ -1188,6 +1686,30 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8749",
         "text": "PLANDEV - Z-49-25 - 2026-158.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9162",
+        "text": "20260224PLANDEVOldBusinessZ-49-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9163",
+        "text": "20260224PLANDEVStaffPresentationZ-49-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9166",
+        "text": "20260224PLANDEVEngagementPortalZ-49-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8750",
+        "text": "20260210PLANDEVNewBusinessZ-49-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8751",
+        "text": "20260210PLANDEVEngagementPortalZ-49-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8754",
+        "text": "20260210PLANDEVStaffPresentationZ-49-25.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -1197,7 +1719,7 @@
     "lat": 35.775637,
     "lng": -78.604433,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=da4c9981-aa82-4c2c-ab9c-d05671bf4965&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9161",
       "text": "PLANDEV - Z-49-25  - 2026-227.pdf"
@@ -1206,7 +1728,8 @@
     "official_status": "APPROVED",
     "official_status_display": "Approved 04-07-26",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-02-10"
   },
   "Z-36-25": {
     "case_number": "Z-36-25",
@@ -1215,6 +1738,14 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9182",
         "text": "PLANDEV - Z-36-25 - 2026-229.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9183",
+        "text": "20260224PLANDEVNewBusinessZ-36-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9186",
+        "text": "20260224PLANDEVStaffPresentationZ-36-25.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -1224,7 +1755,7 @@
     "lat": 35.897291,
     "lng": -78.818558,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=6b3443c3-ee2a-48da-a1e0-9df7cbba753c&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9182",
       "text": "PLANDEV - Z-36-25 - 2026-229.pdf"
@@ -1233,7 +1764,8 @@
     "official_status": "APPROVED",
     "official_status_display": "Approved 04-21-26",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-02-24"
   },
   "Z-45-25": {
     "case_number": "Z-45-25",
@@ -1242,6 +1774,14 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9176",
         "text": "PLANDEV - Z-45-25 - 2026-228.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9177",
+        "text": "20260224PLANDEVRezoningNewBusinessZ-45-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9181",
+        "text": "20260224PLANDEVStaffPresentationZ-45-25.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -1251,7 +1791,7 @@
     "lat": 35.759686605171076,
     "lng": -78.6908824441254,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=6b3443c3-ee2a-48da-a1e0-9df7cbba753c&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9176",
       "text": "PLANDEV - Z-45-25 - 2026-228.pdf"
@@ -1260,7 +1800,8 @@
     "official_status": "APPROVED",
     "official_status_display": "Approved 04-07-26",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-02-24"
   },
   "Z-47-25": {
     "case_number": "Z-47-25",
@@ -1269,6 +1810,14 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9156",
         "text": "PLANDEV \u2013 Z-47-25 - 2026-153.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9157",
+        "text": "20260224PLANDEVNewBusinessZ-47-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9159",
+        "text": "20260224PLANDEVStaffPresentationZ-47-25.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -1278,7 +1827,7 @@
     "lat": 35.777162810607265,
     "lng": -78.68424373230611,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=6b3443c3-ee2a-48da-a1e0-9df7cbba753c&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9156",
       "text": "PLANDEV \u2013 Z-47-25 - 2026-153.pdf"
@@ -1287,7 +1836,8 @@
     "official_status": "APPROVED",
     "official_status_display": "Approved 04-21-26",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-02-24"
   },
   "Z-14-25": {
     "case_number": "Z-14-25",
@@ -1304,24 +1854,38 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=6878",
         "text": "PLANDEV-Z-14-25 (TCZ-14-25) - 2025-576.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8767",
+        "text": "20260210PLANDEVRezoningOldBusinessZ-14-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=7728",
+        "text": "01132026PLANDEVRezoningNewBusinessZ-14-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=6879",
+        "text": "12092025PLANDEVRezoningNewBusinessZ-14-25.pdf"
       }
     ],
     "committee": "Planning Commission",
     "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=da4c9981-aa82-4c2c-ab9c-d05671bf4965&Agenda=Agenda&lang=English",
     "first_seen_at": "2026-08-29T22:00:47.925615+00:00",
-    "address_guess": null,
-    "lat": null,
-    "lng": null,
+    "address_guess": "2211, 2221, and 2231 S New Hope Rd",
+    "lat": 35.7460992,
+    "lng": -78.5650867,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=244eab6e-445b-4e5d-8027-d804c11ccb79&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
-      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8766",
-      "text": "PLANDEV - Z-14-25 - 2026-175.pdf"
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8767",
+      "text": "20260210PLANDEVRezoningOldBusinessZ-14-25.pdf"
     },
     "official_status": "APPROVED",
     "official_status_display": "Approved 04-07-26",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-02-10",
+    "formatted_address": "2211 South New Hope Road, Raleigh, NC 27610, United States of America"
   },
   "Z-29-25": {
     "case_number": "Z-29-25",
@@ -1338,6 +1902,34 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5977",
         "text": "PLANDEV - Z-29-25 Trailwood Drive - 2025-552.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8757",
+        "text": "20260210PLANDEVEngagementReportZ-29-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8758",
+        "text": "20260210StaffPresentationZ-29-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8760",
+        "text": "20260210PLANDEVOldBusinessZ-29-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=7736",
+        "text": "20260113PLANDEVOldBusinessZ-29-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5978",
+        "text": "20251125PLANDEVStaffPresentationZ-29-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5981",
+        "text": "20251125PLANDEVEngagementReportZ-29-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5982",
+        "text": "20251125PLANDEVNewBusinessZ-29-25.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -1347,7 +1939,7 @@
     "lat": 35.764906,
     "lng": -78.691677,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1636f63e-f691-4991-99f4-4215b16cca8f&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8755",
       "text": "PLANDEV - Z-29-25 - 2026-166.pdf"
@@ -1356,7 +1948,8 @@
     "official_status": "APPROVED",
     "official_status_display": "Approved 04-07-26",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2025-11-25"
   },
   "Z-31-25": {
     "case_number": "Z-31-25",
@@ -1373,6 +1966,42 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4881",
         "text": "PLANDEV - Z-31-25  - 2025-394.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8728",
+        "text": "20260210PLANDEVOldBusinessZ-31-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8732",
+        "text": "20260210PLANDEVEngagementPortalZ-31-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8733",
+        "text": "20260210PLANDEVStaffPresentationZ-31-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=6861",
+        "text": "20251209PLANDEVOldBusinessZ-31-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=6863",
+        "text": "20251209PLANDEVEngagementPortalZ-31-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=6867",
+        "text": "20251209PLANDEVStaffPresentationZ-31-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4882",
+        "text": "20251028PLANDEVNewBusinessZ-31-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4884",
+        "text": "20251028PLANDEVEngagementPortalZ-31-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4887",
+        "text": "20251028PLANDEVStaffPresentationZ-31-25.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -1382,7 +2011,7 @@
     "lat": 35.78665147415218,
     "lng": -78.63599853453456,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=34cf3a07-a6c2-4e1d-85a4-07b21c23d8b2&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8727",
       "text": "PLANDEV - Z-31-25 - 2026-145.pdf"
@@ -1391,7 +2020,8 @@
     "official_status": "DENIED",
     "official_status_display": "Denied 04-07-26",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2025-10-28"
   },
   "Z-37-25": {
     "case_number": "Z-37-25",
@@ -1408,24 +2038,46 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=6871",
         "text": "PLANDEV - Z-37-25 - 2025-573.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8744",
+        "text": "20260210PLANDEVOldBusinessZ-37-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8747",
+        "text": "20260210PLANDEVEngagementPortalZ-37-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=7722",
+        "text": "20260113PLANDEVEngagementPortalZ-37-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=7723",
+        "text": "20260113PLANDEVNewBusinessZ-37-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=6874",
+        "text": "20251209PLANDEVNewBusinessZ-37-25.pdf"
       }
     ],
     "committee": "Planning Commission",
     "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=da4c9981-aa82-4c2c-ab9c-d05671bf4965&Agenda=Agenda&lang=English",
     "first_seen_at": "2026-08-29T22:00:47.925615+00:00",
-    "address_guess": null,
-    "lat": null,
-    "lng": null,
+    "address_guess": "Multiple addresses along Avent Ferry Road, Broadwell",
+    "lat": 35.795543,
+    "lng": -78.64439,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=244eab6e-445b-4e5d-8027-d804c11ccb79&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
-      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8743",
-      "text": "PLANDEV - Z-37-25 - 2026-157.pdf"
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8744",
+      "text": "20260210PLANDEVOldBusinessZ-37-25.pdf"
     },
     "official_status": "APPROVED",
     "official_status_display": "Approved 05-05-26",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2025-12-09",
+    "formatted_address": "Raleigh, NC, United States of America"
   },
   "Z-40-25": {
     "case_number": "Z-40-25",
@@ -1438,6 +2090,30 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=7713",
         "text": "PLANDEV - Z-40-25 - 2026-042.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8736",
+        "text": "20260210PLANDEVOldBusinessZ-40-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8741",
+        "text": "20260210PLANDEVEngagementPortalZ-40-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8742",
+        "text": "20260210PLANDEVStaffPresentationZ-40-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=7714",
+        "text": "20260106PLANDEVNewBusinessZ-40-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=7718",
+        "text": "20260106PLANDEVEngagementPortalZ-40-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=7719",
+        "text": "20260106PLANDEVStaffPresentationZ-40-25.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -1447,7 +2123,7 @@
     "lat": 35.79145999166706,
     "lng": -78.63339473217002,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=9952c46f-a432-4169-8b3b-b04754bdf069&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8735",
       "text": "PLANDEV \u2013 Z-40-25  - 2026-146.pdf"
@@ -1456,7 +2132,8 @@
     "official_status": "APPROVED",
     "official_status_display": "Approved 04-07-26",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-01-06"
   },
   "Z-42-25": {
     "case_number": "Z-42-25",
@@ -1465,6 +2142,14 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8761",
         "text": "PLANDEV - Z-42-25 - 2026-154.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8762",
+        "text": "20260210PLANDEVStaffPresentationZ-42-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8765",
+        "text": "20260210PLANDEVNewBusinessZ-42-25.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -1474,7 +2159,7 @@
     "lat": 35.744346,
     "lng": -78.515638,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=da4c9981-aa82-4c2c-ab9c-d05671bf4965&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8761",
       "text": "PLANDEV - Z-42-25 - 2026-154.pdf"
@@ -1483,7 +2168,8 @@
     "official_status": "APPROVED",
     "official_status_display": "Approved 03-17-26",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2026-02-10"
   },
   "Z-26-25": {
     "case_number": "Z-26-25",
@@ -1505,7 +2191,7 @@
     "lat": 35.91896155102041,
     "lng": -78.75044610204081,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=550dd1cd-9b14-455c-a89d-3fca19a3da60&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5645",
       "text": "PLANDEV - Z-26-25 - 2025-455.pdf"
@@ -1527,6 +2213,22 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4876",
         "text": "PLANDEV - TC-1-25 - 2025-388.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5653",
+        "text": "20251212PLANDEVTC-1-25 Draft Ordinance.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5654",
+        "text": "20251212PLANDEVTC-1-25 StaffReportandCR.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4877",
+        "text": "20251028PLANDEVTC-1-25 Draft Ordinance.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4878",
+        "text": "20251028PLANDEVTC-1-25 StaffReportandCR.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -1536,15 +2238,16 @@
     "lat": null,
     "lng": null,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=34cf3a07-a6c2-4e1d-85a4-07b21c23d8b2&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
-      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4876",
-      "text": "PLANDEV - TC-1-25 - 2025-388.pdf"
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5653",
+      "text": "20251212PLANDEVTC-1-25 Draft Ordinance.pdf"
     },
     "official_status": "APPROVED",
     "official_status_display": "Approved 1-6-26",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2025-10-28"
   },
   "Z-33-25": {
     "case_number": "Z-33-25",
@@ -1553,6 +2256,14 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5666",
         "text": "PLANDEV - Z-33-25 - 2025-477.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5667",
+        "text": "2025112PLANDEVNewBusinessZ-33-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5668",
+        "text": "20251112PLANDEVStaffPresentationZ-33-25.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -1562,7 +2273,7 @@
     "lat": 35.88402297132103,
     "lng": -78.58853293784296,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=36c2b5af-5327-412b-8dc1-809e5db969b8&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5666",
       "text": "PLANDEV - Z-33-25 - 2025-477.pdf"
@@ -1571,7 +2282,8 @@
     "official_status": "APPROVED",
     "official_status_display": "Approved 02-03-26",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2025-11-12"
   },
   "Z-34-25": {
     "case_number": "Z-34-25",
@@ -1589,7 +2301,7 @@
     "lat": 35.8386066346069,
     "lng": -78.64401787617551,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=36c2b5af-5327-412b-8dc1-809e5db969b8&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5658",
       "text": "PLANDEV - Z-34-25 - 2025-454.pdf"
@@ -1616,7 +2328,7 @@
     "lat": null,
     "lng": null,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=34cf3a07-a6c2-4e1d-85a4-07b21c23d8b2&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4888",
       "text": "PLANDEV - Z-20-25 - 2025-397.pdf"
@@ -1637,6 +2349,14 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=3522",
         "text": "PLANDEV - TC-3-24 - 2025-256.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4872",
+        "text": "20251028PLANDEVRHDCMemoTC-3-24.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=3523",
+        "text": "20250923PLANDEVRHDCMemoTC-3-24.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -1646,7 +2366,7 @@
     "lat": null,
     "lng": null,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=9731c98a-050e-4b83-874d-40544800b030&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=3522",
       "text": "PLANDEV - TC-3-24 - 2025-256.pdf"
@@ -1654,7 +2374,8 @@
     "official_status": "APPROVED",
     "official_status_display": "Approved 12-2-25",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2025-09-23"
   },
   "Z-27-25": {
     "case_number": "Z-27-25",
@@ -1663,6 +2384,14 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4395",
         "text": "PLANDEV - Z-27-25 - 2025-338.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=6875",
+        "text": "20251209PLANDEVStaffPresentationZ-27-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4398",
+        "text": "20251014PLANDEVStaffPresentationZ-27-25.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -1672,7 +2401,7 @@
     "lat": 35.78146655287743,
     "lng": -78.7154565097138,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=550dd1cd-9b14-455c-a89d-3fca19a3da60&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4395",
       "text": "PLANDEV - Z-27-25 - 2025-338.pdf"
@@ -1681,7 +2410,8 @@
     "official_status": "APPROVED",
     "official_status_display": "Approved 01-06-26",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2025-10-14"
   },
   "Z-30-25": {
     "case_number": "Z-30-25",
@@ -1699,7 +2429,7 @@
     "lat": 35.748169,
     "lng": -78.516812,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=550dd1cd-9b14-455c-a89d-3fca19a3da60&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4379",
       "text": "PLANDEV - Z-30-25 - 2025-291.pdf"
@@ -1717,6 +2447,26 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=3514",
         "text": "PLANDEV - Z-9-25 - 2025-250.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=3515",
+        "text": "20250923PLANDEVNewBusinessZ-9-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=3516",
+        "text": "20250923PLANDEVConsistencyStatementApproveZ-9-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=3517",
+        "text": "20250923PLANDEVConsistencyStatementDenyZ-9-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=3518",
+        "text": "20250923PLANDEVEngagementReportZ-9-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=3519",
+        "text": "20250923PLANDEVStaffPresentationZ-9-25.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -1726,7 +2476,7 @@
     "lat": 35.78488064072733,
     "lng": -78.70270206709439,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=9731c98a-050e-4b83-874d-40544800b030&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=3514",
       "text": "PLANDEV - Z-9-25 - 2025-250.pdf"
@@ -1735,7 +2485,8 @@
     "official_status": "APPROVED",
     "official_status_display": "Approved 01-06-26",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2025-09-23"
   },
   "Z-23-25": {
     "case_number": "Z-23-25",
@@ -1744,6 +2495,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=3527",
         "text": "PLANDEV - Z-23-25 - 2025-225.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=3528",
+        "text": "20250923PLANDEVNewBusinessZ-23-25.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -1753,7 +2508,7 @@
     "lat": 35.7767488631697,
     "lng": -78.68814120998167,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=9731c98a-050e-4b83-874d-40544800b030&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=3527",
       "text": "PLANDEV - Z-23-25 - 2025-225.pdf"
@@ -1762,7 +2517,8 @@
     "official_status": "APPROVED",
     "official_status_display": "Approved 12-02-25",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2025-09-23"
   },
   "Z-25-25": {
     "case_number": "Z-25-25",
@@ -1771,6 +2527,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=3507",
         "text": "PLANDEV - Z-25-25 - 2025-240.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=3510",
+        "text": "20250923PlanDevRHDCMemoZ-25-25.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -1780,7 +2540,7 @@
     "lat": 35.7811649,
     "lng": -78.6333864,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=9731c98a-050e-4b83-874d-40544800b030&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=3507",
       "text": "PLANDEV - Z-25-25 - 2025-240.pdf"
@@ -1789,7 +2549,8 @@
     "official_status": "DENIED",
     "official_status_display": "Denied 11-18-25",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2025-09-23"
   },
   "TC-03-25": {
     "case_number": "TC-03-25",
@@ -1807,7 +2568,7 @@
     "lat": null,
     "lng": null,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=b438e04b-e91a-4092-ac26-d491f83f59e0&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2533",
       "text": "PLANDEV - TC-3-25 - 2025-184.pdf"
@@ -1828,6 +2589,26 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2411",
         "text": "PLANDEV-Z-11-25 - 2025-135.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2540",
+        "text": "20250909PLANDEVEngagementPortalZ-11-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2543",
+        "text": "20250909PLANDEVOldBusinessZ-11-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2414",
+        "text": "20250826PLANDEVEngagementPortalZ-11-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2415",
+        "text": "20250826PLANDEVNewBusinessZ-11-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2416",
+        "text": "20250826PLANDEVStaffPresentationZ-11-25.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -1837,7 +2618,7 @@
     "lat": 35.744545357018595,
     "lng": -78.56538764567934,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=c88c5123-57c0-49fe-99e1-d5b949fa29f2&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2538",
       "text": "PLANDEV-Z-11-25 - 2025-179.pdf"
@@ -1846,7 +2627,8 @@
     "official_status": "WITHDRAWN",
     "official_status_display": "WITHDRAWN 01-20-26",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2025-08-26"
   },
   "Z-18-25": {
     "case_number": "Z-18-25",
@@ -1868,7 +2650,7 @@
     "lat": 35.84761661463594,
     "lng": -78.55786136033238,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=b438e04b-e91a-4092-ac26-d491f83f59e0&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2524",
       "text": "PLANDEV - Z-18-25 - 2025-185.pdf"
@@ -1886,6 +2668,14 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2549",
         "text": "PLANDEV - Z-17-25  - 2025-181.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2552",
+        "text": "20250909PLANDEVNewBusinessZ-17-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2553",
+        "text": "20250909PLANDEVStaffPresentationZ-17-25.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -1895,7 +2685,7 @@
     "lat": 35.85146912366197,
     "lng": -78.55978008384177,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=b438e04b-e91a-4092-ac26-d491f83f59e0&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2549",
       "text": "PLANDEV - Z-17-25  - 2025-181.pdf"
@@ -1904,7 +2694,8 @@
     "official_status": "APPROVED",
     "official_status_display": "Approved 11-04-25",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2025-09-09"
   },
   "Z-08-25": {
     "case_number": "Z-08-25",
@@ -1922,7 +2713,7 @@
     "lat": 35.744531816211655,
     "lng": -78.62358582218022,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=c88c5123-57c0-49fe-99e1-d5b949fa29f2&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2393",
       "text": "PLANDEV - Z-08-25 - 2025-148.pdf"
@@ -1949,7 +2740,7 @@
     "lat": 35.8675237,
     "lng": -78.6798923,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=c88c5123-57c0-49fe-99e1-d5b949fa29f2&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2399",
       "text": "PLANDEV - Z-16-25 - 2025-149.pdf"
@@ -1967,6 +2758,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2405",
         "text": "PLANDEV -Z-22-25  - 2025-150.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2408",
+        "text": "20250826PLANDEVStaffPresentationZ-22-25.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -1976,7 +2771,7 @@
     "lat": 35.8674327,
     "lng": -78.4973717,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=c88c5123-57c0-49fe-99e1-d5b949fa29f2&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2405",
       "text": "PLANDEV -Z-22-25  - 2025-150.pdf"
@@ -1985,7 +2780,8 @@
     "official_status": "APPROVED",
     "official_status_display": "Approved 10-21-25",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2025-08-26"
   },
   "Z-05-25": {
     "case_number": "Z-05-25",
@@ -2003,7 +2799,7 @@
     "lat": 35.74749062,
     "lng": -78.59682557000001,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=c88c5123-57c0-49fe-99e1-d5b949fa29f2&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2385",
       "text": "PLANDEV - Z-5-25 - 2025-140.pdf"
@@ -2021,6 +2817,22 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2417",
         "text": "PLANDEV-Z-13-25 - 2025-136.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2544",
+        "text": "PLANDEV - TCZ-13-25  - 2025-180.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2547",
+        "text": "20250909PLANDEVNewBusinessTCZ-13-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2420",
+        "text": "20250826PLANDEVStaffPresentationZ-13-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2421",
+        "text": "20250826PLANDEVNewBusinessZ-13-25.pdf"
       }
     ],
     "committee": "Planning Commission",
@@ -2030,7 +2842,7 @@
     "lat": 35.77212507584461,
     "lng": -78.5844978143631,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=c88c5123-57c0-49fe-99e1-d5b949fa29f2&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2417",
       "text": "PLANDEV-Z-13-25 - 2025-136.pdf"
@@ -2039,7 +2851,8 @@
     "official_status": "APPROVED",
     "official_status_display": "Approved 11-04-25",
     "official_status_date": null,
-    "status_checked_at": "2026-08-30T23:26:22+00:00"
+    "status_checked_at": "2026-08-30T23:26:22+00:00",
+    "presented_date": "2025-08-26"
   },
   "Z-13-24": {
     "case_number": "Z-13-24",
@@ -2057,7 +2870,7 @@
     "lat": 35.749672,
     "lng": -78.563289,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2d1be3b2-1e5d-454a-b086-b2f4d00209d3&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=491",
       "text": "PLANDEV - Z-13-24 - 2025-073.pdf"
@@ -2084,7 +2897,7 @@
     "lat": 35.89895084953019,
     "lng": -78.72720467740045,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2d1be3b2-1e5d-454a-b086-b2f4d00209d3&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=497",
       "text": "PLANDEV - Z-51-24 - 2025-076.pdf"
@@ -2111,7 +2924,7 @@
     "lat": 35.88732488322467,
     "lng": -78.71119010639023,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2d1be3b2-1e5d-454a-b086-b2f4d00209d3&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=502",
       "text": "PLANDEV - Z-10-25  - 2025-074.pdf"
@@ -2138,7 +2951,7 @@
     "lat": null,
     "lng": null,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2d1be3b2-1e5d-454a-b086-b2f4d00209d3&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=485",
       "text": "PLANDEV - Z-12-25 - Peace and West - 2025-083.pdf"
@@ -2175,6 +2988,22 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10234",
         "text": "PLANDEV - BOA-0002-2026 - 2026-251.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13904",
+        "text": "20260608PLANDEVBOA-0002-2026.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12685",
+        "text": "20260511PLANDEVBOA-0002-2026.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11557",
+        "text": "20260413PLANDEVBOA-0002-2026.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10235",
+        "text": "20260309PLANDEVBOA-0002-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2184,12 +3013,13 @@
     "lat": 35.83021438097886,
     "lng": -78.68393007476563,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2132769c-2b68-45b9-80fd-4f7a9a91b872&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15486",
       "text": "PLANDEV - BOA-0002-2026 - 2026-819.pdf"
     },
-    "formatted_address": "2716 Townedge Court, Raleigh, NC 27612, United States of America"
+    "formatted_address": "2716 Townedge Court, Raleigh, NC 27612, United States of America",
+    "presented_date": "2026-03-09"
   },
   "BOA-0042-2026": {
     "case_number": "BOA-0042-2026",
@@ -2207,7 +3037,7 @@
     "lat": 35.8065172,
     "lng": -78.6238362,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=982568d5-bd50-4623-8afa-683faf33bf95&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15485",
       "text": "PLANDEV - BOA-0042-2026 -  - 2026-818.pdf"
@@ -2230,7 +3060,7 @@
     "lat": 35.8273408,
     "lng": -78.6066328,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=982568d5-bd50-4623-8afa-683faf33bf95&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15487",
       "text": "PLANDEV - BOA-0050-2026 - 2026-840.pdf"
@@ -2244,6 +3074,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15478",
         "text": "PLANDEV - BOA-0036-2026 - 2026-812.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15480",
+        "text": "20260810PLANDEVBOA-0036-2026.docx.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2253,12 +3087,13 @@
     "lat": 35.71902,
     "lng": -78.519202,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=982568d5-bd50-4623-8afa-683faf33bf95&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15478",
       "text": "PLANDEV - BOA-0036-2026 - 2026-812.pdf"
     },
-    "formatted_address": "7800 Battle Bridge Road, Raleigh, NC 27610, United States of America"
+    "formatted_address": "7800 Battle Bridge Road, Raleigh, NC 27610, United States of America",
+    "presented_date": "2026-08-10"
   },
   "BOA-0037-2026": {
     "case_number": "BOA-0037-2026",
@@ -2267,6 +3102,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15481",
         "text": "PLANDEV - BOA-0037-2026 - 2026-813.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15482",
+        "text": "20260810PLANDEVBOA-0037-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2276,12 +3115,13 @@
     "lat": 35.81314906064029,
     "lng": -78.6424499866248,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=982568d5-bd50-4623-8afa-683faf33bf95&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15481",
       "text": "PLANDEV - BOA-0037-2026 - 2026-813.pdf"
     },
-    "formatted_address": "2504 Kenmore Drive, Raleigh, NC 27608, United States of America"
+    "formatted_address": "2504 Kenmore Drive, Raleigh, NC 27608, United States of America",
+    "presented_date": "2026-08-10"
   },
   "BOA-0038-2026": {
     "case_number": "BOA-0038-2026",
@@ -2290,6 +3130,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15483",
         "text": "PLANDEV - BOA-0038-2026 - 2026-817.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15484",
+        "text": "20260810PLANDEVBOA-0038-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2299,12 +3143,13 @@
     "lat": 35.772474275829,
     "lng": -78.68481090881104,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=982568d5-bd50-4623-8afa-683faf33bf95&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15483",
       "text": "PLANDEV - BOA-0038-2026 - 2026-817.pdf"
     },
-    "formatted_address": "2617 Avent Ferry Road, Raleigh, NC 27606, United States of America"
+    "formatted_address": "2617 Avent Ferry Road, Raleigh, NC 27606, United States of America",
+    "presented_date": "2026-08-10"
   },
   "BOA-0034-2026": {
     "case_number": "BOA-0034-2026",
@@ -2313,6 +3158,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15083",
         "text": "PLANDEV - BOA-0034-2026 - 2026-775.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15084",
+        "text": "20260713PLANDEVBOA-0034-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2322,12 +3171,13 @@
     "lat": 35.8375607,
     "lng": -78.6318437,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d531cc22-a92d-4e08-bde1-db8564bc2c92&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15083",
       "text": "PLANDEV - BOA-0034-2026 - 2026-775.pdf"
     },
-    "formatted_address": "4125 Windsor Place, Raleigh, NC 27609, United States of America"
+    "formatted_address": "4125 Windsor Place, Raleigh, NC 27609, United States of America",
+    "presented_date": "2026-07-13"
   },
   "BOA-0023-2026": {
     "case_number": "BOA-0023-2026",
@@ -2340,6 +3190,14 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13891",
         "text": "PLANDEV-BOA-0023-2026  - 2026-573.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15071",
+        "text": "20260713PLANDEVBOA-0023-2026.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13892",
+        "text": "20260608PLANDEVBOA-0023-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2349,12 +3207,13 @@
     "lat": 35.77623270963707,
     "lng": -78.63149268719243,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=db283bb2-a195-4352-9442-9880e0abedab&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15070",
       "text": "PLANDEV - BOA-0023-2026 - 2026-769.pdf"
     },
-    "formatted_address": "328 Chavis Way, Raleigh, NC 27601, United States of America"
+    "formatted_address": "328 Chavis Way, Raleigh, NC 27601, United States of America",
+    "presented_date": "2026-06-08"
   },
   "BOA-0026-2026": {
     "case_number": "BOA-0026-2026",
@@ -2363,6 +3222,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15073",
         "text": "PLANDEV - BOA-0026-2026 -  - 2026-770.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15074",
+        "text": "20260713PLANDEVBOA-0026-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2372,12 +3235,13 @@
     "lat": 35.80846381263867,
     "lng": -78.65275392361075,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d531cc22-a92d-4e08-bde1-db8564bc2c92&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15073",
       "text": "PLANDEV - BOA-0026-2026 -  - 2026-770.pdf"
     },
-    "formatted_address": "2406 Fairview Road, Raleigh, NC 27608, United States of America"
+    "formatted_address": "2406 Fairview Road, Raleigh, NC 27608, United States of America",
+    "presented_date": "2026-07-13"
   },
   "BOA-0029-2026": {
     "case_number": "BOA-0029-2026",
@@ -2399,12 +3263,13 @@
     "lat": 35.776754,
     "lng": -78.585689,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d531cc22-a92d-4e08-bde1-db8564bc2c92&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15076",
       "text": "20260713PLANDEV-BOA-0029-2026.pdf"
     },
-    "formatted_address": "200 Diversity Way, Raleigh, NC 27610, United States of America"
+    "formatted_address": "200 Diversity Way, Raleigh, NC 27610, United States of America",
+    "presented_date": "2026-07-13"
   },
   "BOA-0030-2026": {
     "case_number": "BOA-0030-2026",
@@ -2413,6 +3278,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15077",
         "text": "PLANDEV - BOA-0030-2026 - 2026-772.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15078",
+        "text": "20260713PLANDEVBOA-0030-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2422,12 +3291,13 @@
     "lat": 35.808441,
     "lng": -78.672335,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d531cc22-a92d-4e08-bde1-db8564bc2c92&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15077",
       "text": "PLANDEV - BOA-0030-2026 - 2026-772.pdf"
     },
-    "formatted_address": "1501 Duplin Road, West Raleigh, Raleigh, NC 27607, United States of America"
+    "formatted_address": "1501 Duplin Road, West Raleigh, Raleigh, NC 27607, United States of America",
+    "presented_date": "2026-07-13"
   },
   "BOA-0031-2026": {
     "case_number": "BOA-0031-2026",
@@ -2436,6 +3306,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15079",
         "text": "PLANDEV - BOA-0031-2026 - 2026-773.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15080",
+        "text": "20260713PLANDEVBOA-0031-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2445,12 +3319,13 @@
     "lat": 35.734917,
     "lng": -78.626331,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d531cc22-a92d-4e08-bde1-db8564bc2c92&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15079",
       "text": "PLANDEV - BOA-0031-2026 - 2026-773.pdf"
     },
-    "formatted_address": "724 Wilson Street, Raleigh, NC 27610, United States of America"
+    "formatted_address": "724 Wilson Street, Raleigh, NC 27610, United States of America",
+    "presented_date": "2026-07-13"
   },
   "BOA-0033-2026": {
     "case_number": "BOA-0033-2026",
@@ -2459,6 +3334,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15081",
         "text": "PLANDEV - BOA-0033-2026 - 2026-774.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15082",
+        "text": "20260713PLANDEVBOA-0033-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2468,12 +3347,13 @@
     "lat": 35.809706,
     "lng": -78.5635412,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d531cc22-a92d-4e08-bde1-db8564bc2c92&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15081",
       "text": "PLANDEV - BOA-0033-2026 - 2026-774.pdf"
     },
-    "formatted_address": "4548 Dilford Drive, Raleigh, NC 27604, United States of America"
+    "formatted_address": "4548 Dilford Drive, Raleigh, NC 27604, United States of America",
+    "presented_date": "2026-07-13"
   },
   "BOA-0039-2025": {
     "case_number": "BOA-0039-2025",
@@ -2511,7 +3391,7 @@
     "lat": 35.8696604192235,
     "lng": -78.62961344231839,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2894656f-8aad-4be6-a898-35b0ea63a3bd&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13905",
       "text": "PLANDEV - BOA-0039-2025 - 2026-649.pdf"
@@ -2533,6 +3413,14 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11561",
         "text": "Motion to Dismiss - BOA-0021-2026.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13894",
+        "text": "20260608PLANDEVBOA-0021-2026.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11559",
+        "text": "20260413PLANDEVBOA-0021-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2542,12 +3430,13 @@
     "lat": 35.73087293679802,
     "lng": -78.62716674160878,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=8af61b1a-a6e0-4cf6-a073-933fdb4ada92&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13893",
       "text": "PLANDEV - BOA-0021-2026 - 2026-599.pdf"
     },
-    "formatted_address": "3513 Garner Road, Raleigh, NC 27610, United States of America"
+    "formatted_address": "3513 Garner Road, Raleigh, NC 27610, United States of America",
+    "presented_date": "2026-04-13"
   },
   "BOA-0024-2026": {
     "case_number": "BOA-0024-2026",
@@ -2556,6 +3445,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13897",
         "text": "PLANDEV - BOA-0024-2026 - 2026-600.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13898",
+        "text": "20260608PLANDEVBOA-0024-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2565,12 +3458,13 @@
     "lat": 35.79855360481231,
     "lng": -78.63150432275098,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=db283bb2-a195-4352-9442-9880e0abedab&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13897",
       "text": "PLANDEV - BOA-0024-2026 - 2026-600.pdf"
     },
-    "formatted_address": "1341 Courtland Drive, Raleigh, NC 27604, United States of America"
+    "formatted_address": "1341 Courtland Drive, Raleigh, NC 27604, United States of America",
+    "presented_date": "2026-06-08"
   },
   "BOA-0027-2026": {
     "case_number": "BOA-0027-2026",
@@ -2579,6 +3473,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13899",
         "text": "PLANDEV - BOA-0027-2026 - 2026-603.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13900",
+        "text": "20260608PLANDEVBOA-0027-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2588,12 +3486,13 @@
     "lat": 35.79845626916523,
     "lng": -78.63158316719334,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=db283bb2-a195-4352-9442-9880e0abedab&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13899",
       "text": "PLANDEV - BOA-0027-2026 - 2026-603.pdf"
     },
-    "formatted_address": "1337 Courtland Drive, Raleigh, NC 27604, United States of America"
+    "formatted_address": "1337 Courtland Drive, Raleigh, NC 27604, United States of America",
+    "presented_date": "2026-06-08"
   },
   "BOA-0028-2026": {
     "case_number": "BOA-0028-2026",
@@ -2602,6 +3501,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13901",
         "text": "PLANDEV - BOA-0028-2026 - 2026-605.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13902",
+        "text": "20260608PLANDEVBOA-0028-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2611,12 +3514,13 @@
     "lat": 35.79840760134169,
     "lng": -78.63162258941452,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=db283bb2-a195-4352-9442-9880e0abedab&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13901",
       "text": "PLANDEV - BOA-0028-2026 - 2026-605.pdf"
     },
-    "formatted_address": "1335 Courtland Drive, Raleigh, NC 27604, United States of America"
+    "formatted_address": "1335 Courtland Drive, Raleigh, NC 27604, United States of America",
+    "presented_date": "2026-06-08"
   },
   "BOA-0010-2026": {
     "case_number": "BOA-0010-2026",
@@ -2629,6 +3533,14 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11563",
         "text": "PLANDEV - BOA-0010-2026 - 2026-368.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12683",
+        "text": "20260511PLANDEVBOA-0010-2026.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11564",
+        "text": "20260413PLANDEVBOA-0010-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2638,12 +3550,13 @@
     "lat": 35.81040079183412,
     "lng": -78.58380262233095,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=8af61b1a-a6e0-4cf6-a073-933fdb4ada92&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12682",
       "text": "PLANDEV-BOA-0010-2026 - 2026-509.pdf"
     },
-    "formatted_address": "3313 Dogwood Drive, Raleigh, NC 27604, United States of America"
+    "formatted_address": "3313 Dogwood Drive, Raleigh, NC 27604, United States of America",
+    "presented_date": "2026-04-13"
   },
   "BOA-0015-2026": {
     "case_number": "BOA-0015-2026",
@@ -2652,6 +3565,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12669",
         "text": "PLANDEV - BOA-0015-2026 - 2026-496.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12670",
+        "text": "20260511PlANDEVBOA-0015-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2661,12 +3578,13 @@
     "lat": 35.766488057290594,
     "lng": -78.62840865603843,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=0609e990-a9b8-4ae0-a803-54a4334a7afc&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12669",
       "text": "PLANDEV - BOA-0015-2026 - 2026-496.pdf"
     },
-    "formatted_address": "1110 Holmes Street, Raleigh, NC 27601, United States of America"
+    "formatted_address": "1110 Holmes Street, Raleigh, NC 27601, United States of America",
+    "presented_date": "2026-05-11"
   },
   "BOA-0017-2026": {
     "case_number": "BOA-0017-2026",
@@ -2675,6 +3593,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12671",
         "text": "PLANDEV - BOA-0017-2026 - 2026-499.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12672",
+        "text": "20260511PLANDEVBOA-0017-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2684,12 +3606,13 @@
     "lat": 35.766488057290594,
     "lng": -78.62840865603843,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=0609e990-a9b8-4ae0-a803-54a4334a7afc&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12671",
       "text": "PLANDEV - BOA-0017-2026 - 2026-499.pdf"
     },
-    "formatted_address": "1110 Holmes Street, Raleigh, NC 27601, United States of America"
+    "formatted_address": "1110 Holmes Street, Raleigh, NC 27601, United States of America",
+    "presented_date": "2026-05-11"
   },
   "BOA-0018-2026": {
     "case_number": "BOA-0018-2026",
@@ -2698,6 +3621,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12675",
         "text": "PLANDEV-BOA-0018-2026 - 2026-504.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12676",
+        "text": "20260511PLANDEVBOA-0018-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2707,12 +3634,13 @@
     "lat": 35.80593109570995,
     "lng": -78.65620867823041,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=0609e990-a9b8-4ae0-a803-54a4334a7afc&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12675",
       "text": "PLANDEV-BOA-0018-2026 - 2026-504.pdf"
     },
-    "formatted_address": "1701 Oberlin Road, Raleigh, NC 27608, United States of America"
+    "formatted_address": "1701 Oberlin Road, Raleigh, NC 27608, United States of America",
+    "presented_date": "2026-05-11"
   },
   "BOA-0019-2026": {
     "case_number": "BOA-0019-2026",
@@ -2721,6 +3649,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12673",
         "text": "PLANDEV-BOA-0019-2026 - 2026-503.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12674",
+        "text": "20260511PLANDEVBOA-0019-2026.docx.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2730,11 +3662,12 @@
     "lat": null,
     "lng": null,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=0609e990-a9b8-4ae0-a803-54a4334a7afc&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
-      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12673",
-      "text": "PLANDEV-BOA-0019-2026 - 2026-503.pdf"
-    }
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12674",
+      "text": "20260511PLANDEVBOA-0019-2026.docx.pdf"
+    },
+    "presented_date": "2026-05-11"
   },
   "BOA-0022-2026": {
     "case_number": "BOA-0022-2026",
@@ -2743,6 +3676,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12679",
         "text": "PLANDEV - BOA-0022-2026 - 2026-507.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12680",
+        "text": "20260511PLANDEVBOA-0022-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2752,11 +3689,12 @@
     "lat": null,
     "lng": null,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=0609e990-a9b8-4ae0-a803-54a4334a7afc&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
-      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12679",
-      "text": "PLANDEV - BOA-0022-2026 - 2026-507.pdf"
-    }
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12680",
+      "text": "20260511PLANDEVBOA-0022-2026.pdf"
+    },
+    "presented_date": "2026-05-11"
   },
   "BOA-0020-2026": {
     "case_number": "BOA-0020-2026",
@@ -2774,7 +3712,7 @@
     "lat": 35.812257,
     "lng": -78.666311,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=8af61b1a-a6e0-4cf6-a073-933fdb4ada92&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11571",
       "text": "PLANDEV - BOA-0020-2026 - 2026-372.pdf"
@@ -2788,6 +3726,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11565",
         "text": "PLANDEV - BOA-0011-2026 - 2026-369.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11566",
+        "text": "20260413PLANDEVBOA-0011-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2797,12 +3739,13 @@
     "lat": 35.794014,
     "lng": -78.622782,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=8af61b1a-a6e0-4cf6-a073-933fdb4ada92&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11565",
       "text": "PLANDEV - BOA-0011-2026 - 2026-369.pdf"
     },
-    "formatted_address": "701 Edmund Street, Raleigh, NC 27604, United States of America"
+    "formatted_address": "701 Edmund Street, Raleigh, NC 27604, United States of America",
+    "presented_date": "2026-04-13"
   },
   "BOA-0013-2026": {
     "case_number": "BOA-0013-2026",
@@ -2811,6 +3754,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11567",
         "text": "PLANDEV - BOA-0013-2026  - 2026-370.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11568",
+        "text": "20260413PLANDEVBOA-0013-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2820,12 +3767,13 @@
     "lat": 35.881907,
     "lng": -78.615983,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=8af61b1a-a6e0-4cf6-a073-933fdb4ada92&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11567",
       "text": "PLANDEV - BOA-0013-2026  - 2026-370.pdf"
     },
-    "formatted_address": "7000 Lone Oak Place, Raleigh, NC 27615, United States of America"
+    "formatted_address": "7000 Lone Oak Place, Raleigh, NC 27615, United States of America",
+    "presented_date": "2026-04-13"
   },
   "BOA-0014-2026": {
     "case_number": "BOA-0014-2026",
@@ -2843,7 +3791,7 @@
     "lat": 35.803877608101104,
     "lng": -78.6479894765815,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=8af61b1a-a6e0-4cf6-a073-933fdb4ada92&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11569",
       "text": "PLANDEV - BOA-0014-2026 - 2026-371.pdf"
@@ -2861,6 +3809,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8782",
         "text": "PLANDEV - BOA-0057-2025 - 2026-138.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10230",
+        "text": "20260309PLANDEVBOA-0057-2025.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2870,12 +3822,13 @@
     "lat": 35.81314906064029,
     "lng": -78.6424499866248,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d40da519-7b3c-46c4-98a1-ff1e0a38646f&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10229",
       "text": "PLANDEV - BOA-0057-2025 - 2026-249.pdf"
     },
-    "formatted_address": "2504 Kenmore Drive, Raleigh, NC 27608, United States of America"
+    "formatted_address": "2504 Kenmore Drive, Raleigh, NC 27608, United States of America",
+    "presented_date": "2026-03-09"
   },
   "BOA-0001-2026": {
     "case_number": "BOA-0001-2026",
@@ -2884,6 +3837,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10231",
         "text": "PLANDEV - BOA-0001-2026 - 2026-250.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10232",
+        "text": "20260309PLANDEVBOA-0001-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2893,12 +3850,13 @@
     "lat": 35.80907247928061,
     "lng": -78.65540927880717,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2132769c-2b68-45b9-80fd-4f7a9a91b872&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10231",
       "text": "PLANDEV - BOA-0001-2026 - 2026-250.pdf"
     },
-    "formatted_address": "2500 Oberlin Road, Raleigh, NC 27608, United States of America"
+    "formatted_address": "2500 Oberlin Road, Raleigh, NC 27608, United States of America",
+    "presented_date": "2026-03-09"
   },
   "BOA-0003-2026": {
     "case_number": "BOA-0003-2026",
@@ -2907,6 +3865,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10236",
         "text": "PLANDEV - BOA-0003-2026 - 2026-252.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10237",
+        "text": "20260309PLANDEVBOA-0003-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2916,12 +3878,13 @@
     "lat": 35.79011468918919,
     "lng": -78.6385625945946,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2132769c-2b68-45b9-80fd-4f7a9a91b872&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10236",
       "text": "PLANDEV - BOA-0003-2026 - 2026-252.pdf"
     },
-    "formatted_address": "807 Halifax Street, Raleigh, NC 27604, United States of America"
+    "formatted_address": "807 Halifax Street, Raleigh, NC 27604, United States of America",
+    "presented_date": "2026-03-09"
   },
   "BOA-0004-2026": {
     "case_number": "BOA-0004-2026",
@@ -2930,6 +3893,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10238",
         "text": "PLANDEV - BOA-0004-2026 - 2026-253.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10239",
+        "text": "20260309PLANDEVBOA-0004-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2939,12 +3906,13 @@
     "lat": 35.8513241,
     "lng": -78.6614715,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2132769c-2b68-45b9-80fd-4f7a9a91b872&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10238",
       "text": "PLANDEV - BOA-0004-2026 - 2026-253.pdf"
     },
-    "formatted_address": "5410 Thayer Drive, Raleigh, NC 27612, United States of America"
+    "formatted_address": "5410 Thayer Drive, Raleigh, NC 27612, United States of America",
+    "presented_date": "2026-03-09"
   },
   "BOA-0005-2026": {
     "case_number": "BOA-0005-2026",
@@ -2953,6 +3921,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10240",
         "text": "PLANDEV - BOA-0005-2026 - 2026-254.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10241",
+        "text": "20260309PLANDEVBOA-0005-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2962,12 +3934,13 @@
     "lat": 35.8354302,
     "lng": -78.6515868,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2132769c-2b68-45b9-80fd-4f7a9a91b872&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10240",
       "text": "PLANDEV - BOA-0005-2026 - 2026-254.pdf"
     },
-    "formatted_address": "700 Lakestone Drive, Raleigh, NC 27609, United States of America"
+    "formatted_address": "700 Lakestone Drive, Raleigh, NC 27609, United States of America",
+    "presented_date": "2026-03-09"
   },
   "BOA-0006-2026": {
     "case_number": "BOA-0006-2026",
@@ -2976,6 +3949,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10242",
         "text": "PLANDEV - BOA-0006-2026 - 2026-255.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10243",
+        "text": "20260309PLANDEVBOA-0006-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -2985,12 +3962,13 @@
     "lat": 35.805225,
     "lng": -78.666578,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2132769c-2b68-45b9-80fd-4f7a9a91b872&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10242",
       "text": "PLANDEV - BOA-0006-2026 - 2026-255.pdf"
     },
-    "formatted_address": "2611 Churchill Road, Raleigh, NC 27608, United States of America"
+    "formatted_address": "2611 Churchill Road, Raleigh, NC 27608, United States of America",
+    "presented_date": "2026-03-09"
   },
   "BOA-0007-2026": {
     "case_number": "BOA-0007-2026",
@@ -2999,6 +3977,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10244",
         "text": "PLANDEV - BOA-0007-2026 - 2026-256.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10245",
+        "text": "20260309PLANDEVBOA-0007-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -3008,12 +3990,13 @@
     "lat": 35.771788,
     "lng": -78.63112365300461,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2132769c-2b68-45b9-80fd-4f7a9a91b872&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10244",
       "text": "PLANDEV - BOA-0007-2026 - 2026-256.pdf"
     },
-    "formatted_address": "602 East South Street, Raleigh, NC 27601, United States of America"
+    "formatted_address": "602 East South Street, Raleigh, NC 27601, United States of America",
+    "presented_date": "2026-03-09"
   },
   "BOA-0008-2026": {
     "case_number": "BOA-0008-2026",
@@ -3022,6 +4005,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10246",
         "text": "PLANDEV - BOA-0008-2026 - 2026-257.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10247",
+        "text": "20260309PLANDEVBOA-0008-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -3031,12 +4018,13 @@
     "lat": 35.76939749611194,
     "lng": -78.63441691763555,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2132769c-2b68-45b9-80fd-4f7a9a91b872&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10246",
       "text": "PLANDEV - BOA-0008-2026 - 2026-257.pdf"
     },
-    "formatted_address": "321 Martin Luther King Jr Boulevard, Raleigh, NC 27601, United States of America"
+    "formatted_address": "321 Martin Luther King Jr Boulevard, Raleigh, NC 27601, United States of America",
+    "presented_date": "2026-03-09"
   },
   "BOA-0009-2026": {
     "case_number": "BOA-0009-2026",
@@ -3045,6 +4033,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10248",
         "text": "PLANDEV - BOA-0009-2026 - 2026-258.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10249",
+        "text": "20260309PLANDEVBOA-0009-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -3054,12 +4046,13 @@
     "lat": 35.786939397654855,
     "lng": -78.68818206952635,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2132769c-2b68-45b9-80fd-4f7a9a91b872&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=10248",
       "text": "PLANDEV - BOA-0009-2026 - 2026-258.pdf"
     },
-    "formatted_address": "3839 Jackson Street, Raleigh, NC 27606, United States of America"
+    "formatted_address": "3839 Jackson Street, Raleigh, NC 27606, United States of America",
+    "presented_date": "2026-03-09"
   },
   "BOA-0055-2025": {
     "case_number": "BOA-0055-2025",
@@ -3068,6 +4061,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8790",
         "text": "PLANDEV- BOA-0055-2025 - 2026-142.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8791",
+        "text": "20260209PLANDEVBOA-0055-2025.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -3077,12 +4074,13 @@
     "lat": 35.8277932,
     "lng": -78.6295637,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d40da519-7b3c-46c4-98a1-ff1e0a38646f&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8790",
       "text": "PLANDEV- BOA-0055-2025 - 2026-142.pdf"
     },
-    "formatted_address": "3323 Cheswick Drive, Raleigh, NC 27609, United States of America"
+    "formatted_address": "3323 Cheswick Drive, Raleigh, NC 27609, United States of America",
+    "presented_date": "2026-02-09"
   },
   "BOA-0056-2025": {
     "case_number": "BOA-0056-2025",
@@ -3091,6 +4089,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8778",
         "text": "PLANDEV - BOA-0056-2025 - 2026-137.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8780",
+        "text": "20260209PLANDEVBOA-0056-2025.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -3100,12 +4102,13 @@
     "lat": 35.813299523105876,
     "lng": -78.64236799244338,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d40da519-7b3c-46c4-98a1-ff1e0a38646f&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8778",
       "text": "PLANDEV - BOA-0056-2025 - 2026-137.pdf"
     },
-    "formatted_address": "2505 Kenmore Drive, Raleigh, NC 27608, United States of America"
+    "formatted_address": "2505 Kenmore Drive, Raleigh, NC 27608, United States of America",
+    "presented_date": "2026-02-09"
   },
   "BOA-0058-2025": {
     "case_number": "BOA-0058-2025",
@@ -3114,6 +4117,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8785",
         "text": "PLANDEV - BOA-0058-2025 - 2026-139.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8786",
+        "text": "20260209PLANDEVBOA-0058-2025.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -3123,12 +4130,13 @@
     "lat": 35.8610583,
     "lng": -78.7105969,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d40da519-7b3c-46c4-98a1-ff1e0a38646f&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8785",
       "text": "PLANDEV - BOA-0058-2025 - 2026-139.pdf"
     },
-    "formatted_address": "6711 Glenwood Avenue, Raleigh, NC 27612, United States of America"
+    "formatted_address": "6711 Glenwood Avenue, Raleigh, NC 27612, United States of America",
+    "presented_date": "2026-02-09"
   },
   "BOA-0059-2025": {
     "case_number": "BOA-0059-2025",
@@ -3137,6 +4145,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8787",
         "text": "PLANDEV - BOA-0059-2025 - 2026-140.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8788",
+        "text": "20260209PLANDEVBOA-0059-2025.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -3146,12 +4158,13 @@
     "lat": 35.8660496,
     "lng": -78.5673829,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d40da519-7b3c-46c4-98a1-ff1e0a38646f&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8787",
       "text": "PLANDEV - BOA-0059-2025 - 2026-140.pdf"
     },
-    "formatted_address": "Target, 7900 Old Wake Forest Road, Raleigh, NC 27616, United States of America"
+    "formatted_address": "Target, 7900 Old Wake Forest Road, Raleigh, NC 27616, United States of America",
+    "presented_date": "2026-02-09"
   },
   "BOA-0049-2025": {
     "case_number": "BOA-0049-2025",
@@ -3164,6 +4177,14 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5700",
         "text": "PLANDEV-BOA-0049-2025 - 2025-440.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=7800",
+        "text": "20260112PLANDEVBOA-0049-2025.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5701",
+        "text": "20251110PLANDEVBOA-0049-2025.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -3173,12 +4194,13 @@
     "lat": 35.79064419636875,
     "lng": -78.66676460953897,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=de9d5e79-544e-40a9-9e8d-c7238b5efed6&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=7798",
       "text": "PLANDEV - BOA-0049-2025 - 2026-025.pdf"
     },
-    "formatted_address": "2510 Stafford Avenue, Raleigh, NC 27607, United States of America"
+    "formatted_address": "2510 Stafford Avenue, Raleigh, NC 27607, United States of America",
+    "presented_date": "2025-11-10"
   },
   "BOA-0045-2025": {
     "case_number": "BOA-0045-2025",
@@ -3187,6 +4209,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=7796",
         "text": "PLANDEV - BOA-0045-2025 - 2026-015.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=7797",
+        "text": "20260112PLANDEVBOA-0045-2025.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -3196,12 +4222,13 @@
     "lat": 35.785417,
     "lng": -78.693976,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=868f43b7-5801-4bc7-8678-733f6db420b2&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=7796",
       "text": "PLANDEV - BOA-0045-2025 - 2026-015.pdf"
     },
-    "formatted_address": "4101 Reavis Road, Raleigh, NC 27606, United States of America"
+    "formatted_address": "4101 Reavis Road, Raleigh, NC 27606, United States of America",
+    "presented_date": "2026-01-12"
   },
   "BOA-0053-2025": {
     "case_number": "BOA-0053-2025",
@@ -3210,6 +4237,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=7792",
         "text": "PLANDEV-BOA-0053-2025 - 2026-013.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=7793",
+        "text": "20260112PLANDEVBOA-0053-2025.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -3219,12 +4250,13 @@
     "lat": 35.804161,
     "lng": -78.641543,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=868f43b7-5801-4bc7-8678-733f6db420b2&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=7792",
       "text": "PLANDEV-BOA-0053-2025 - 2026-013.pdf"
     },
-    "formatted_address": "200 Duncan Street, Raleigh, NC 27608, United States of America"
+    "formatted_address": "200 Duncan Street, Raleigh, NC 27608, United States of America",
+    "presented_date": "2026-01-12"
   },
   "BOA-0054-2025": {
     "case_number": "BOA-0054-2025",
@@ -3233,6 +4265,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=7794",
         "text": "PLANDEV-BOA-0054-2025 - 2026-014.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=7795",
+        "text": "20260112PLANDEVBOA-0054-2025.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -3242,12 +4278,13 @@
     "lat": 35.7483764,
     "lng": -78.59038,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=868f43b7-5801-4bc7-8678-733f6db420b2&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=7794",
       "text": "PLANDEV-BOA-0054-2025 - 2026-014.pdf"
     },
-    "formatted_address": "Redeeming Love Missionary Baptist Church, 3425 Rock Quarry Road, Raleigh, NC 27610, United States of America"
+    "formatted_address": "Redeeming Love Missionary Baptist Church, 3425 Rock Quarry Road, Raleigh, NC 27610, United States of America",
+    "presented_date": "2026-01-12"
   },
   "BOA-0037-2025": {
     "case_number": "BOA-0037-2025",
@@ -3269,7 +4306,7 @@
     "lat": 35.74407005176765,
     "lng": -78.66533491653483,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2894656f-8aad-4be6-a898-35b0ea63a3bd&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5691",
       "text": "PLANDEV - BOA-0037-2025 - 2025-430.pdf"
@@ -3296,7 +4333,7 @@
     "lat": 35.802911,
     "lng": -78.660401,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2894656f-8aad-4be6-a898-35b0ea63a3bd&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5693",
       "text": "PLANDEV - BOA-0040-2025 - 2025-432.pdf"
@@ -3314,6 +4351,14 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4364",
         "text": "PLANDEV - BOA-0044-2025 - 2025-300.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5695",
+        "text": "20251110PLANDEVBOA-0044-2025.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4365",
+        "text": "20251013PLANDEVBOA-0044-2025.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -3323,12 +4368,13 @@
     "lat": 35.7798391432585,
     "lng": -78.61672883707514,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2894656f-8aad-4be6-a898-35b0ea63a3bd&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5694",
       "text": "PLANDEV - BOA-0044-2025 - 2025-433.pdf"
     },
-    "formatted_address": "1501 New Bern Avenue, Southeast Raleigh, Raleigh, NC 27610, United States of America"
+    "formatted_address": "1501 New Bern Avenue, Southeast Raleigh, Raleigh, NC 27610, United States of America",
+    "presented_date": "2025-10-13"
   },
   "BOA-0043-2025": {
     "case_number": "BOA-0043-2025",
@@ -3337,6 +4383,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5689",
         "text": "PLANDEV - BOA-0043-2025 - 2025-429.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5690",
+        "text": "20251110PLANDEVBOA-0043-2025.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -3346,12 +4396,13 @@
     "lat": 35.9019282282963,
     "lng": -78.59114322931657,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=de9d5e79-544e-40a9-9e8d-c7238b5efed6&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5689",
       "text": "PLANDEV - BOA-0043-2025 - 2025-429.pdf"
     },
-    "formatted_address": "2724 Dahlgreen Road, Raleigh, NC 27615, United States of America"
+    "formatted_address": "2724 Dahlgreen Road, Raleigh, NC 27615, United States of America",
+    "presented_date": "2025-11-10"
   },
   "BOA-0048-2025": {
     "case_number": "BOA-0048-2025",
@@ -3360,6 +4411,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5696",
         "text": "PLANDEV - BOA-0048-2025 - 2025-437.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5697",
+        "text": "20251110PLANDEVBOA-0048-2025.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -3369,12 +4424,13 @@
     "lat": 35.79170223217703,
     "lng": -78.56908847454348,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=de9d5e79-544e-40a9-9e8d-c7238b5efed6&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5696",
       "text": "PLANDEV - BOA-0048-2025 - 2025-437.pdf"
     },
-    "formatted_address": "1041 Corporation Parkway, Raleigh, NC 27610, United States of America"
+    "formatted_address": "1041 Corporation Parkway, Raleigh, NC 27610, United States of America",
+    "presented_date": "2025-11-10"
   },
   "BOA-0051-2025": {
     "case_number": "BOA-0051-2025",
@@ -3383,6 +4439,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5698",
         "text": "PLANDEV - BOA-0051-2025 - 2025-438.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5699",
+        "text": "20251110PLANDEVBOA-0051-2025.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -3392,12 +4452,13 @@
     "lat": 35.79170223217703,
     "lng": -78.56908847454348,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=de9d5e79-544e-40a9-9e8d-c7238b5efed6&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5698",
       "text": "PLANDEV - BOA-0051-2025 - 2025-438.pdf"
     },
-    "formatted_address": "1041 Corporation Parkway, Raleigh, NC 27610, United States of America"
+    "formatted_address": "1041 Corporation Parkway, Raleigh, NC 27610, United States of America",
+    "presented_date": "2025-11-10"
   },
   "BOA-0050-2025": {
     "case_number": "BOA-0050-2025",
@@ -3406,6 +4467,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4366",
         "text": "PLANDEV - BOA-0050-2025 - 2025-301.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4367",
+        "text": "20251013PLANDEVBOA-0050-2025.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -3415,12 +4480,13 @@
     "lat": 35.78665147415218,
     "lng": -78.63599853453456,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2894656f-8aad-4be6-a898-35b0ea63a3bd&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4366",
       "text": "PLANDEV - BOA-0050-2025 - 2025-301.pdf"
     },
-    "formatted_address": "516 North Blount Street, Raleigh, NC 27604, United States of America"
+    "formatted_address": "516 North Blount Street, Raleigh, NC 27604, United States of America",
+    "presented_date": "2025-10-13"
   },
   "DA-09-2026": {
     "case_number": "DA-09-2026",
@@ -3442,7 +4508,7 @@
     "lat": 35.8241474,
     "lng": -78.6502478,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=3e06c2c9-0b51-4436-8e5f-fc0208137f69&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15355",
       "text": "DA-09-2026 Staff Report_Redacted.pdf"
@@ -3481,7 +4547,7 @@
     "lat": 35.771167455479315,
     "lng": -78.64647062670056,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=a373b688-bdef-4469-a13c-36a933233f9d&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15046",
       "text": "DA-06-2026 Staff Report.pdf"
@@ -3512,7 +4578,7 @@
     "lat": 35.7803977,
     "lng": -78.6390989,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=82a56337-582a-4c8a-9132-e3bb45faa200&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15048",
       "text": "DA-07-2026 - Staff Report.pdf"
@@ -3539,7 +4605,7 @@
     "lat": 35.7675639861194,
     "lng": -78.57779836979478,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=82a56337-582a-4c8a-9132-e3bb45faa200&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15051",
       "text": "DA-08-2026 Staff Report.pdf"
@@ -3566,7 +4632,7 @@
     "lat": 35.7803977,
     "lng": -78.6390989,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=189e825f-2892-4ab4-a7aa-936ed08d8c3b&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13350",
       "text": "DA-02-2026 Staff Report.pdf"
@@ -3597,7 +4663,7 @@
     "lat": 35.795543,
     "lng": -78.64439,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=189e825f-2892-4ab4-a7aa-936ed08d8c3b&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13340",
       "text": "DA-03-2026 Staff Report.pdf"
@@ -3624,7 +4690,7 @@
     "lat": 35.7803977,
     "lng": -78.6390989,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=189e825f-2892-4ab4-a7aa-936ed08d8c3b&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13342",
       "text": "PLANDEV - DA-05-2026 - 15 Summit Avenue - 2026-454.pdf"
@@ -3651,7 +4717,7 @@
     "lat": 35.7803977,
     "lng": -78.6390989,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=5ba87fbc-2e59-4a58-8535-35659133ebec&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9579",
       "text": "DA-01-2026 Staff Report.pdf"
@@ -3678,7 +4744,7 @@
     "lat": 35.795543,
     "lng": -78.64439,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2c5e08d8-4662-4c96-b59e-a8cfb78c383b&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9529",
       "text": "DA-14-2025 Staff Report.pdf"
@@ -3705,7 +4771,7 @@
     "lat": 35.795543,
     "lng": -78.64439,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2c5e08d8-4662-4c96-b59e-a8cfb78c383b&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=9531",
       "text": "DA-15-2025 Staff Report.pdf"
@@ -3727,6 +4793,14 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5606",
         "text": "PLANDEV - DA-9-2025 - 0, 2310, and 2340 Compassionate Drive - 2025-236.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5630",
+        "text": "20251106PLANDEVDA-9-2025.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5607",
+        "text": "20251002PLANDEVDA-9-2025.pdf"
       }
     ],
     "committee": "Design Review Commission",
@@ -3736,12 +4810,13 @@
     "lat": 35.751487469387754,
     "lng": -78.60324251020408,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=b8cda209-88de-4a4b-8795-4583b62e0e06&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5629",
       "text": "PLANDEV - DA-9-2025 - 0, 2310, and 2340 Compassionate Drive - 2025-392.pdf"
     },
-    "formatted_address": "2340 Compassionate Drive, Southeast Raleigh, Raleigh, NC 27610, United States of America"
+    "formatted_address": "2340 Compassionate Drive, Southeast Raleigh, Raleigh, NC 27610, United States of America",
+    "presented_date": "2025-10-02"
   },
   "DA-11-2025": {
     "case_number": "DA-11-2025",
@@ -3750,6 +4825,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5635",
         "text": "PLANDEV - DA-11-2025 - 8415 Honeycutt Road - 2025-404.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5636",
+        "text": "20251106PLANDEVDA-11-2025.pdf"
       }
     ],
     "committee": "Design Review Commission",
@@ -3759,12 +4838,13 @@
     "lat": 35.89541891687209,
     "lng": -78.62272346131185,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=8a4af166-bb53-4957-bff5-0f62f3e09375&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5635",
       "text": "PLANDEV - DA-11-2025 - 8415 Honeycutt Road - 2025-404.pdf"
     },
-    "formatted_address": "8415 Honeycutt Road, Raleigh, NC 27615, United States of America"
+    "formatted_address": "8415 Honeycutt Road, Raleigh, NC 27615, United States of America",
+    "presented_date": "2025-11-06"
   },
   "DA-11-25": {
     "case_number": "DA-11-25",
@@ -3782,7 +4862,7 @@
     "lat": null,
     "lng": null,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=8a4af166-bb53-4957-bff5-0f62f3e09375&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5637",
       "text": "Transportation Staff Response DA-11-25.pdf"
@@ -3795,6 +4875,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5633",
         "text": "PLANDEV - DA-12-2025 - 10856 Globe Road - 2025-393.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5634",
+        "text": "20251106PLANDEVDA-12-2025.pdf"
       }
     ],
     "committee": "Design Review Commission",
@@ -3804,12 +4888,13 @@
     "lat": 35.90125585299084,
     "lng": -78.80774697948748,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=8a4af166-bb53-4957-bff5-0f62f3e09375&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5633",
       "text": "PLANDEV - DA-12-2025 - 10856 Globe Road - 2025-393.pdf"
     },
-    "formatted_address": "10856 Globe Road, Raleigh, NC 27617, United States of America"
+    "formatted_address": "10856 Globe Road, Raleigh, NC 27617, United States of America",
+    "presented_date": "2025-11-06"
   },
   "DA-13-2025": {
     "case_number": "DA-13-2025",
@@ -3818,6 +4903,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5626",
         "text": "PLANDEV - DA-13-2025 - 10100 Lumley Rd - 2025-375.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5628",
+        "text": "20251106PLANDEVDA-13-2025.pdf"
       }
     ],
     "committee": "Design Review Commission",
@@ -3827,12 +4916,13 @@
     "lat": 35.899347,
     "lng": -78.785151,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=8a4af166-bb53-4957-bff5-0f62f3e09375&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5626",
       "text": "PLANDEV - DA-13-2025 - 10100 Lumley Rd - 2025-375.pdf"
     },
-    "formatted_address": "10100 Lumley Road, Raleigh, NC 27617, United States of America"
+    "formatted_address": "10100 Lumley Road, Raleigh, NC 27617, United States of America",
+    "presented_date": "2025-11-06"
   },
   "DA-05-2025": {
     "case_number": "DA-05-2025",
@@ -3850,7 +4940,7 @@
     "lat": 35.7803977,
     "lng": -78.6390989,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=80eb26b9-5bd8-4891-a024-856840d5b907&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4412",
       "text": "DA-5-2025 FF&CL.pdf"
@@ -3864,6 +4954,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5609",
         "text": "PLANDEV - DA-8-2025 - 6011 Chapel Hill Road  - 2025-246.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5610",
+        "text": "20251002PLANDEVDA-8-2025.pdf"
       }
     ],
     "committee": "Design Review Commission",
@@ -3873,11 +4967,393 @@
     "lat": 35.7879233,
     "lng": -78.7263129,
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=b8cda209-88de-4a4b-8795-4583b62e0e06&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-30T23:54:56.352058+00:00",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=5609",
       "text": "PLANDEV - DA-8-2025 - 6011 Chapel Hill Road  - 2025-246.pdf"
     },
-    "formatted_address": "6011 Chapel Hill Road, Raleigh, NC 27607, United States of America"
+    "formatted_address": "6011 Chapel Hill Road, Raleigh, NC 27607, United States of America",
+    "presented_date": "2025-10-02"
+  },
+  "Z-14-16": {
+    "case_number": "Z-14-16",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=14451",
+        "text": "20260623StaffPresentationZ-14-16.pdf"
+      }
+    ],
+    "committee": "Planning Commission",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=e3394c15-4ac7-4fff-8bdc-cc7c18282718&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "address_guess": null,
+    "lat": null,
+    "lng": null,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=e3394c15-4ac7-4fff-8bdc-cc7c18282718&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=14451",
+      "text": "20260623StaffPresentationZ-14-16.pdf"
+    },
+    "presented_date": "2026-06-23"
+  },
+  "Z-16-16": {
+    "case_number": "Z-16-16",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=14456",
+        "text": "20260623StaffPresentationZ-16-16.pdf"
+      }
+    ],
+    "committee": "Planning Commission",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=e3394c15-4ac7-4fff-8bdc-cc7c18282718&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "address_guess": "309 N Boylan Avenue",
+    "lat": 35.78438979384996,
+    "lng": -78.64911703201054,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=e3394c15-4ac7-4fff-8bdc-cc7c18282718&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=14456",
+      "text": "20260623StaffPresentationZ-16-16.pdf"
+    },
+    "presented_date": "2026-06-23",
+    "formatted_address": "309 North Boylan Avenue, Raleigh, NC 27603, United States of America"
+  },
+  "Z-02-26": {
+    "case_number": "Z-02-26",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11507",
+        "text": "PLANDEV - TCZ-02-26 - 2026-395.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11508",
+        "text": "20260414PLANDEVNewBusinessTCZ-02-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11512",
+        "text": "20260414PLANDEVEngagementReportTCZ-02-26.pdf"
+      }
+    ],
+    "committee": "Planning Commission",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=e2bc234a-5ab4-4a3d-82a0-f8751ca4929d&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "address_guess": "4601 Creedmoor Road",
+    "lat": 35.8448981,
+    "lng": -78.6807707,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=e2bc234a-5ab4-4a3d-82a0-f8751ca4929d&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11508",
+      "text": "20260414PLANDEVNewBusinessTCZ-02-26.pdf"
+    },
+    "presented_date": "2026-04-14",
+    "formatted_address": "4601 Creedmoor Road, Raleigh, NC 27612, United States of America"
+  },
+  "Z-32-25": {
+    "case_number": "Z-32-25",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4865",
+        "text": "PLANDEV - TCZ-32-25 - 2025-288.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4866",
+        "text": "20251028PLANDEVNewBusinessTCZ-32-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4867",
+        "text": "20251028PLANDEVEngagementPortalTCZ-32-25.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4870",
+        "text": "20251028PLANDEVStaffPresentationTCZ-32-25.pdf"
+      }
+    ],
+    "committee": "Planning Commission",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=34cf3a07-a6c2-4e1d-85a4-07b21c23d8b2&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "address_guess": null,
+    "lat": null,
+    "lng": null,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=34cf3a07-a6c2-4e1d-85a4-07b21c23d8b2&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4867",
+      "text": "20251028PLANDEVEngagementPortalTCZ-32-25.pdf"
+    },
+    "presented_date": "2025-10-28"
+  },
+  "Z-28-25": {
+    "case_number": "Z-28-25",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4390",
+        "text": "PLANDEVZ-28-25 - 2025-338.pdf"
+      }
+    ],
+    "committee": "Planning Commission",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=550dd1cd-9b14-455c-a89d-3fca19a3da60&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "address_guess": "2126 Sanderford Road",
+    "lat": 35.74971581632653,
+    "lng": -78.6125603877551,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=550dd1cd-9b14-455c-a89d-3fca19a3da60&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=4390",
+      "text": "PLANDEVZ-28-25 - 2025-338.pdf"
+    },
+    "formatted_address": "2126 Sanderford Road, Raleigh, NC 27610, United States of America"
+  },
+  "Z-25-2025": {
+    "case_number": "Z-25-2025",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=3508",
+        "text": "20250923PLANDEVNewBusinessZ-25-2025.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=3509",
+        "text": "20250923PLANDEVStaffPresentationZ-25-2025.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=3513",
+        "text": "20250923PLANDEVEngagementPortaltZ-25-2025.pdf"
+      }
+    ],
+    "committee": "Planning Commission",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=9731c98a-050e-4b83-874d-40544800b030&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "address_guess": "101 N. Bloodworth St",
+    "lat": 35.7811649,
+    "lng": -78.6333864,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=9731c98a-050e-4b83-874d-40544800b030&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=3513",
+      "text": "20250923PLANDEVEngagementPortaltZ-25-2025.pdf"
+    },
+    "presented_date": "2025-09-23",
+    "formatted_address": "101 North Bloodworth Street, Raleigh, NC 27601, United States of America"
+  },
+  "Z-18-2025": {
+    "case_number": "Z-18-2025",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2527",
+        "text": "20250909PLANDEVEngagementPortalZ-18-2025.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2528",
+        "text": "20250909PLANDEVStaffPresentationZ-18-2025.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2529",
+        "text": "20250909PLANDEVNewBusinessZ-18-2025.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2557",
+        "text": "20250909PLANDEVEngagementPortalZ-18-2025.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2558",
+        "text": "20250909PLANDEVStaffPresentationZ-18-2025.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2559",
+        "text": "20250909PLANDEVNewBusinessZ-18-2025.pdf"
+      }
+    ],
+    "committee": "Planning Commission",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=b438e04b-e91a-4092-ac26-d491f83f59e0&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "address_guess": "5209 Kyle Drive",
+    "lat": 35.84761661463594,
+    "lng": -78.55786136033238,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=b438e04b-e91a-4092-ac26-d491f83f59e0&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2529",
+      "text": "20250909PLANDEVNewBusinessZ-18-2025.pdf"
+    },
+    "presented_date": "2025-09-09",
+    "formatted_address": "5209 Kyle Drive, Raleigh, NC 27616, United States of America"
+  },
+  "Z-08-2025": {
+    "case_number": "Z-08-2025",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2396",
+        "text": "20250826PLANDEVEngagementPortalZ-8-2025.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2397",
+        "text": "20250826PLANDEVOldBusinessZ-8-2025.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2398",
+        "text": "20250826PLANDEVStaffPresentationZ-8-2025.pdf"
+      }
+    ],
+    "committee": "Planning Commission",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=c88c5123-57c0-49fe-99e1-d5b949fa29f2&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "address_guess": "1011 Cross Link Road",
+    "lat": 35.744531816211655,
+    "lng": -78.62358582218022,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=c88c5123-57c0-49fe-99e1-d5b949fa29f2&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2397",
+      "text": "20250826PLANDEVOldBusinessZ-8-2025.pdf"
+    },
+    "presented_date": "2025-08-26",
+    "formatted_address": "1011 Cross Link Road, Raleigh, NC 27610, United States of America"
+  },
+  "Z-16-2025": {
+    "case_number": "Z-16-2025",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2400",
+        "text": "20250826PLANDEVEngagementPortalZ-16-2025.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2401",
+        "text": "20250826PLANDEVStaffPresentationZ-16-2025.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2404",
+        "text": "20250826PLANDEVNewBusinessZ-16-2025.pdf"
+      }
+    ],
+    "committee": "Planning Commission",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=c88c5123-57c0-49fe-99e1-d5b949fa29f2&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "address_guess": "6100 Creedmoor Road",
+    "lat": 35.8675237,
+    "lng": -78.6798923,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=c88c5123-57c0-49fe-99e1-d5b949fa29f2&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2404",
+      "text": "20250826PLANDEVNewBusinessZ-16-2025.pdf"
+    },
+    "presented_date": "2025-08-26",
+    "formatted_address": "6100 Creedmoor Road, Raleigh, NC 27612, United States of America"
+  },
+  "Z-22-2025": {
+    "case_number": "Z-22-2025",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2406",
+        "text": "20250826PLANDEVEngagementPortalZ-22-2025.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2407",
+        "text": "20250826PLANDEVNewBusinessZ-22-2025.pdf"
+      }
+    ],
+    "committee": "Planning Commission",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=c88c5123-57c0-49fe-99e1-d5b949fa29f2&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "address_guess": "3101 Watkins Town Road",
+    "lat": 35.8674327,
+    "lng": -78.4973717,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=c88c5123-57c0-49fe-99e1-d5b949fa29f2&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=2407",
+      "text": "20250826PLANDEVNewBusinessZ-22-2025.pdf"
+    },
+    "presented_date": "2025-08-26",
+    "formatted_address": "3101 Watkins Town Road, Raleigh, NC 27616, United States of America"
+  },
+  "BOA-0016-2026": {
+    "case_number": "BOA-0016-2026",
+    "case_type": "Variance / Special Use Permit / Appeal",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12677",
+        "text": "PLANDEVBOA-0016-2026 - 2026-505.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12678",
+        "text": "20260511PLANDEVBOA-0016-2026.pdf"
+      }
+    ],
+    "committee": "Board of Adjustment",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=0609e990-a9b8-4ae0-a803-54a4334a7afc&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "address_guess": "215 Lord Berkley Road",
+    "lat": 35.78199221651507,
+    "lng": -78.60575137374964,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=0609e990-a9b8-4ae0-a803-54a4334a7afc&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=12678",
+      "text": "20260511PLANDEVBOA-0016-2026.pdf"
+    },
+    "presented_date": "2026-05-11",
+    "formatted_address": "215 Lord Berkley Road, Southeast Raleigh, Raleigh, NC 27610, United States of America"
+  },
+  "BOA-14-2026": {
+    "case_number": "BOA-14-2026",
+    "case_type": "Variance / Special Use Permit / Appeal",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11570",
+        "text": "20260413PLANDEVBOA-14-2026.pdf"
+      }
+    ],
+    "committee": "Board of Adjustment",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=8af61b1a-a6e0-4cf6-a073-933fdb4ada92&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "address_guess": "935 Vance Street",
+    "lat": 35.803877608101104,
+    "lng": -78.6479894765815,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=8af61b1a-a6e0-4cf6-a073-933fdb4ada92&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11570",
+      "text": "20260413PLANDEVBOA-14-2026.pdf"
+    },
+    "presented_date": "2026-04-13",
+    "formatted_address": "935 Vance Street, Raleigh, NC 27608, United States of America"
+  },
+  "BOA-0057-2026": {
+    "case_number": "BOA-0057-2026",
+    "case_type": "Variance / Special Use Permit / Appeal",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8784",
+        "text": "20260209PLANDEVBOA-0057-2026.pdf"
+      }
+    ],
+    "committee": "Board of Adjustment",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d40da519-7b3c-46c4-98a1-ff1e0a38646f&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "address_guess": "2504 Kenmore Drive",
+    "lat": 35.81314906064029,
+    "lng": -78.6424499866248,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d40da519-7b3c-46c4-98a1-ff1e0a38646f&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=8784",
+      "text": "20260209PLANDEVBOA-0057-2026.pdf"
+    },
+    "presented_date": "2026-02-09",
+    "formatted_address": "2504 Kenmore Drive, Raleigh, NC 27608, United States of America"
   }
 }
