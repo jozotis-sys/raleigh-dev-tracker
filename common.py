@@ -22,7 +22,12 @@ USER_AGENT = (
     "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 )
 
-CASE_PATTERN = re.compile(r'\b(Z|AX|CP|TC|HLD|DA|BOA)-\d+-\d+\b', re.IGNORECASE)
+# No leading \b: Raleigh's dated document filenames often run a label
+# directly into the case number with no separator (e.g.
+# "...CommissionReportZ-17-26.pdf"), which a leading word-boundary would
+# reject since both the preceding letter and the case prefix are \w
+# characters. The trailing \b is kept to avoid grabbing a partial number.
+CASE_PATTERN = re.compile(r'(Z|AX|CP|TC|HLD|DA|BOA)-\d+-\d+\b', re.IGNORECASE)
 
 
 def normalize_case_number(case_number):
