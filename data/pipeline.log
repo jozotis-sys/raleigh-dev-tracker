@@ -999,3 +999,24 @@
 [2026-08-31 01:06:41 UTC]     DA-09-2025: address_guess = '2340 Compassionate Drive'
 [2026-08-31 01:06:43 UTC] === Run finished. 76 meeting(s) processed total, 156 case(s) in store, 13 new this run. ===
 
+[2026-08-31 17:54:04 UTC] === Run started. 76 meeting(s) already processed, 156 case(s) in store. ===
+[2026-08-31 17:54:04 UTC] Checking committee: City Council
+[2026-08-31 17:54:11 UTC]   Found 23 meeting link(s) total, 1 new.
+[2026-08-31 17:54:11 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=239d5172-7506-4a4c-bed4-66e385a2e30c&Agenda=Agenda&lang=English
+[2026-08-31 17:54:15 UTC]     No development cases found on this agenda.
+[2026-08-31 17:54:17 UTC] Checking committee: City Council
+[2026-08-31 17:54:23 UTC]   Found 23 meeting link(s) total, 0 new.
+[2026-08-31 17:54:23 UTC] Checking committee: Planning Commission
+[2026-08-31 17:54:29 UTC]   Found 37 meeting link(s) total, 0 new.
+[2026-08-31 17:54:29 UTC] Checking committee: Planning Commission
+[2026-08-31 17:54:35 UTC]   Found 32 meeting link(s) total, 0 new.
+[2026-08-31 17:54:35 UTC] Checking committee: Board of Adjustment
+[2026-08-31 17:54:41 UTC]   Found 32 meeting link(s) total, 0 new.
+[2026-08-31 17:54:41 UTC] Checking committee: Board of Adjustment
+[2026-08-31 17:54:47 UTC]   Found 26 meeting link(s) total, 0 new.
+[2026-08-31 17:54:47 UTC] Checking committee: Design Review Commission
+[2026-08-31 17:54:53 UTC]   Found 38 meeting link(s) total, 0 new.
+[2026-08-31 17:54:53 UTC] Checking committee: Design Review Commission
+[2026-08-31 17:54:59 UTC]   Found 27 meeting link(s) total, 0 new.
+[2026-08-31 17:54:59 UTC] === Run finished. 77 meeting(s) processed total, 156 case(s) in store, 0 new this run. ===
+
