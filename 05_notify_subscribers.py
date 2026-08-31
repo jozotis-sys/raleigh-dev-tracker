@@ -215,7 +215,36 @@ def build_email_html(email, nearby_cases):
     """
 
 
-def send_email(to_email, html, case_count):
+def build_email_text(nearby_cases):
+    """Plain-text fallback alongside the HTML version -- sending both
+    (a multipart email) is a well-established deliverability best
+    practice; HTML-only-with-no-alternative is a minor negative signal
+    most spam filters weigh."""
+    lines = [f"{len(nearby_cases)} new development case(s) near you", ""]
+    for c, dist_m in nearby_cases:
+        address = c.get("formatted_address") or c.get("address_guess") or "No address found"
+        lines.append(f"{c['case_number']} ({c['case_type']}) -- {dist_m}m away")
+        lines.append(f"  {address}")
+        for d in c.get("documents", [])[:3]:
+            lines.append(f"  - {d['text']}: {d['href']}")
+        lines.append("")
+    lines.append("You're receiving this because you signed up for alerts on the Raleigh Development Tracker.")
+    return "\n".join(lines)
+
+
+# Unsubscribe requests go to a plain mailto: link since there's no backend
+# server to handle an HTTP endpoint -- clicking Gmail/Yahoo's native
+# "Unsubscribe" button just opens a pre-filled email. Someone still has to
+# manually remove that row from the subscribers Sheet, but the header's
+# mere presence is itself a positive deliverability signal regardless.
+UNSUBSCRIBE_MAILTO = os.environ.get("UNSUBSCRIBE_MAILTO", DIGEST_TO_EMAIL if "DIGEST_TO_EMAIL" in os.environ else "")
+
+
+def send_email(to_email, html, text, case_count):
+    email_headers = {}
+    if UNSUBSCRIBE_MAILTO:
+        email_headers["List-Unsubscribe"] = f"<mailto:{UNSUBSCRIBE_MAILTO}?subject=unsubscribe>"
+
     resp = requests.post(
         RESEND_URL,
         headers={"Authorization": f"Bearer {RESEND_API_KEY}", "Content-Type": "application/json"},
@@ -224,6 +253,8 @@ def send_email(to_email, html, case_count):
             "to": [to_email],
             "subject": f"{case_count} new development case(s) near you",
             "html": html,
+            "text": text,
+            "headers": email_headers,
         },
         timeout=15,
     )
@@ -231,20 +262,23 @@ def send_email(to_email, html, case_count):
 
 
 def main():
-    new_case_numbers = json.loads(NEW_THIS_RUN_PATH.read_text(encoding="utf-8")) if NEW_THIS_RUN_PATH.exists() else []
-    if not new_case_numbers:
-        print("No new cases this run -- nothing to notify subscribers about.")
-        return
-
     if not RESEND_API_KEY or not GEOAPIFY_API_KEY:
         print("RESEND_API_KEY or GEOAPIFY_API_KEY not set -- skipping subscriber notifications.")
         return
 
+    # Sync subscribers regardless of whether there are new cases this run --
+    # keeps the local cache current (new signups geocoded) even on quiet
+    # days, rather than only updating on days something new happens to show up.
     print("Syncing subscribers from Google Form responses...")
     subscribers = sync_subscribers()
     print(f"{len(subscribers)} subscriber(s) loaded.\n")
 
     if not subscribers:
+        return
+
+    new_case_numbers = json.loads(NEW_THIS_RUN_PATH.read_text(encoding="utf-8")) if NEW_THIS_RUN_PATH.exists() else []
+    if not new_case_numbers:
+        print("No new cases this run -- subscribers synced, but nothing to notify about.")
         return
 
     store = json.loads(CASE_STORE_PATH.read_text(encoding="utf-8")) if CASE_STORE_PATH.exists() else {}
@@ -262,7 +296,8 @@ def main():
             continue
 
         html = build_email_html(email, nearby)
-        resp = send_email(email, html, len(nearby))
+        text = build_email_text(nearby)
+        resp = send_email(email, html, text, len(nearby))
         if resp.ok:
             print(f"Sent {len(nearby)} nearby case(s) to {email}")
             sent_count += 1
