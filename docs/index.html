@@ -70,6 +70,14 @@
   }
   .resolved-toggle.on { color: var(--amber); border-color: var(--amber-dim); }
 
+  .zoning-toggle {
+    position: absolute; top: 54px; left: 20px; z-index: 1000;
+    background: rgba(255,255,255,0.92); border: 1px solid var(--panel-border); border-radius: 3px;
+    padding: 6px 12px; font-size: 10px; letter-spacing: 0.06em; text-transform: uppercase;
+    color: var(--text-muted); cursor: pointer; user-select: none;
+  }
+  .zoning-toggle.on { color: #7b3fd4; border-color: #7b3fd4; }
+
   .table-status { white-space: nowrap; }
 
   .map-meta { position: absolute; top: 16px; right: 20px; z-index: 1000; text-align: right; font-size: 10px; color: var(--text-muted); letter-spacing: 0.08em; line-height: 1.6; background: rgba(255,255,255,0.9); padding: 8px 12px; border-radius: 3px; border: 1px solid var(--panel-border); }
@@ -182,6 +190,7 @@
   </div>
   <div class="legend" id="legend"></div>
 <div class="resolved-toggle" id="resolvedToggle">Show resolved cases (<span id="resolvedCount">0</span>)</div>
+<div class="zoning-toggle" id="zoningToggle">Show zoning districts</div>
   <div class="locate-pill" id="locateBtn">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="8"/><line x1="12" y1="2" x2="12" y2="5"/><line x1="12" y1="19" x2="12" y2="22"/><line x1="2" y1="12" x2="5" y2="12"/><line x1="19" y1="12" x2="22" y2="12"/></svg>
     <span>Recenter</span>
@@ -363,6 +372,38 @@
 
       map.on('load', function () { statusEl.style.display = 'none'; });
       map.on('error', function (e) { statusEl.textContent = 'MAP LOAD ERROR — CHECK NETWORK ACCESS'; console.error(e); });
+
+      // Zoning district overlay: Raleigh's own public zoning GIS layer,
+      // added lazily (only once the user actually asks to see it) as a
+      // dynamic raster export -- MapLibre substitutes {bbox-epsg-3857} per
+      // tile automatically, so we only ever fetch what's in view rather
+      // than pulling every zoning polygon in the city up front.
+      var ZONING_EXPORT_URL =
+        'https://maps.raleighnc.gov/arcgis/rest/services/Planning/Zoning/MapServer/export' +
+        '?bbox={bbox-epsg-3857}&size=256,256&imageSR=3857&bboxSR=3857&format=png32&transparent=true&f=image&layers=show:0';
+      var zoningLoaded = false;
+      var zoningOn = false;
+
+      function addZoningLayer() {
+        map.addSource('zoning', { type: 'raster', tiles: [ZONING_EXPORT_URL], tileSize: 256 });
+        map.addLayer({ id: 'zoning-layer', type: 'raster', source: 'zoning', paint: { 'raster-opacity': 0.45 } });
+        zoningLoaded = true;
+      }
+
+      document.getElementById('zoningToggle').addEventListener('click', function () {
+        zoningOn = !zoningOn;
+        this.classList.toggle('on', zoningOn);
+
+        if (!zoningLoaded) {
+          if (map.isStyleLoaded()) {
+            addZoningLayer();
+          } else {
+            map.once('load', addZoningLayer); // style wasn't ready yet -- wait for it
+          }
+        } else {
+          map.setLayoutProperty('zoning-layer', 'visibility', zoningOn ? 'visible' : 'none');
+        }
+      });
       setTimeout(function () { if (statusEl) statusEl.style.display = 'none'; }, 5000);
 
       var pinned = CASES.filter(function (c) { return c.lat != null && c.lng != null; });
