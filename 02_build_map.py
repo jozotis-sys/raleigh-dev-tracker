@@ -232,7 +232,7 @@ TEMPLATE = """<!DOCTYPE html>
 <body>
 
 <div id="navbar">
-  <div class="nav-title" id="navTitle">RALEIGH <span class="unit">DEV TRACKER</span></div>
+  <div class="nav-title" id="navTitle">Raleigh Development Tracker</div>
   <div class="nav-tabs">
     <button class="nav-tab active" data-view="map">Map</button>
     <button class="nav-tab" data-view="table">Table</button>
