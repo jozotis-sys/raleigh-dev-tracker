@@ -78,6 +78,24 @@
   }
   .zoning-toggle.on { color: #7b3fd4; border-color: #7b3fd4; }
 
+  .address-finder {
+    position: absolute; top: 92px; left: 20px; z-index: 1000;
+    background: rgba(255,255,255,0.92); border: 1px solid var(--panel-border); border-radius: 3px;
+    padding: 6px; display: flex; gap: 4px; align-items: center;
+  }
+  .address-finder input {
+    font-family: 'Courier New', monospace; font-size: 11px; color: var(--text);
+    border: 1px solid var(--panel-border); border-radius: 2px; padding: 5px 8px; width: 150px; background: #fff;
+  }
+  .address-finder input:focus { outline: none; border-color: var(--amber-dim); }
+  .address-finder button {
+    font-family: 'Courier New', monospace; font-size: 10px; letter-spacing: 0.06em; text-transform: uppercase;
+    background: var(--panel); color: var(--text); border: 1px solid var(--panel-border); border-radius: 2px;
+    padding: 6px 10px; cursor: pointer;
+  }
+  .address-finder button:hover { color: var(--amber); border-color: var(--amber-dim); }
+  .address-finder-status { position: absolute; top: 132px; left: 20px; z-index: 1000; font-size: 10px; color: var(--text-muted); background: rgba(255,255,255,0.92); border: 1px solid var(--panel-border); border-radius: 3px; padding: 4px 10px; display: none; }
+
   .table-status { white-space: nowrap; }
 
   .map-meta { position: absolute; top: 16px; right: 20px; z-index: 1000; text-align: right; font-size: 10px; color: var(--text-muted); letter-spacing: 0.08em; line-height: 1.6; background: rgba(255,255,255,0.9); padding: 8px 12px; border-radius: 3px; border: 1px solid var(--panel-border); }
@@ -191,6 +209,11 @@
   <div class="legend" id="legend"></div>
 <div class="resolved-toggle" id="resolvedToggle">Show resolved cases (<span id="resolvedCount">0</span>)</div>
 <div class="zoning-toggle" id="zoningToggle">Show zoning districts</div>
+<div class="address-finder">
+  <input type="text" id="addressInput" placeholder="Find your address..." />
+  <button id="addressFindBtn">Go</button>
+</div>
+<div class="address-finder-status" id="addressFinderStatus"></div>
   <div class="locate-pill" id="locateBtn">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="8"/><line x1="12" y1="2" x2="12" y2="5"/><line x1="12" y1="19" x2="12" y2="22"/><line x1="2" y1="12" x2="5" y2="12"/><line x1="19" y1="12" x2="22" y2="12"/></svg>
     <span>Recenter</span>
@@ -536,6 +559,61 @@
       document.getElementById('zoomIn').addEventListener('click', function () { map.zoomIn(); });
       document.getElementById('zoomOut').addEventListener('click', function () { map.zoomOut(); });
       document.getElementById('locateBtn').addEventListener('click', function () { map.flyTo({ center: RALEIGH, zoom: 12, duration: 1100 }); });
+
+      // "Find my address" -- uses OpenStreetMap's free Nominatim geocoder
+      // (not our Geoapify key) since this code runs in every visitor's own
+      // browser; a paid key embedded client-side would be visible in the
+      // page source and could be copied and abused by anyone.
+      var userAddressMarker = null;
+      var addressStatusEl = document.getElementById('addressFinderStatus');
+
+      function showAddressStatus(msg, isError) {
+        addressStatusEl.textContent = msg;
+        addressStatusEl.style.display = msg ? 'block' : 'none';
+        addressStatusEl.style.color = isError ? '#d62839' : 'var(--text-muted)';
+      }
+
+      function findMyAddress() {
+        var query = document.getElementById('addressInput').value.trim();
+        if (!query) return;
+
+        showAddressStatus('Searching…', false);
+
+        var url = 'https://nominatim.openstreetmap.org/search?format=json&limit=1&countrycodes=us' +
+          '&viewbox=-79.0,36.1,-78.3,35.5&bounded=1&q=' + encodeURIComponent(query + ', Raleigh, NC');
+
+        fetch(url)
+          .then(function (r) { return r.json(); })
+          .then(function (results) {
+            if (!results || !results.length) {
+              showAddressStatus('Address not found — try adding more detail.', true);
+              return;
+            }
+            var lat = parseFloat(results[0].lat), lng = parseFloat(results[0].lon);
+
+            if (userAddressMarker) userAddressMarker.remove();
+            var el = document.createElement('div');
+            el.style.width = '18px';
+            el.style.height = '18px';
+            el.style.borderRadius = '50%';
+            el.style.background = '#2563eb';
+            el.style.border = '3px solid #ffffff';
+            el.style.boxShadow = '0 2px 6px rgba(0,0,0,0.5)';
+            userAddressMarker = new maplibregl.Marker({ element: el }).setLngLat([lng, lat]).addTo(map);
+
+            map.flyTo({ center: [lng, lat], zoom: 15, duration: 800 });
+            showAddressStatus('', false);
+          })
+          .catch(function (err) {
+            console.error(err);
+            showAddressStatus('Lookup failed — try again in a moment.', true);
+          });
+      }
+
+      document.getElementById('addressFindBtn').addEventListener('click', findMyAddress);
+      document.getElementById('addressInput').addEventListener('keydown', function (e) {
+        if (e.key === 'Enter') findMyAddress();
+      });
 
     } catch (err) {
       statusEl.textContent = 'MAP FAILED TO INITIALIZE: ' + err.message;
