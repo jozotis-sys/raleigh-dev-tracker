@@ -33,6 +33,7 @@ from common import (
     group_by_case,
     guess_address,
     best_document_text,
+    extract_presented_date,
 )
 
 DATA_DIR = Path(__file__).parent / "data"
@@ -78,18 +79,9 @@ COMMITTEES = [
         "name": "Design Review Commission",
         "url": "https://pub-raleighnc.escribemeetings.com/?Year=2025&Expanded=Design%20Review%20Commission",
     },
-    {
-        # Note: transit agendas likely won't match our case-number patterns
-        # (Z-##-##, AX-##-##, etc. are development-specific), so this will
-        # probably consistently report zero cases found. Left in in case
-        # that assumption turns out wrong, or Raleigh's format changes.
-        "name": "Raleigh Transit Authority",
-        "url": "https://pub-raleighnc.escribemeetings.com/?Year=2026&Expanded=Raleigh%20Transit%20Authority",
-    },
-    {
-        "name": "Raleigh Transit Authority",
-        "url": "https://pub-raleighnc.escribemeetings.com/?Year=2025&Expanded=Raleigh%20Transit%20Authority",
-    },
+    # Raleigh Transit Authority was tracked briefly but removed -- its
+    # agendas cover transit operations/budget, not development cases, and
+    # consistently found zero matches across every run.
 ]
 
 
@@ -192,6 +184,14 @@ def main():
                 save_json(SEEN_MEETINGS_PATH, sorted(seen_meetings))
                 save_json(CASE_STORE_PATH, store)
                 time.sleep(2)
+
+    # Backfill/refresh the real "presented" date for every case using
+    # documents already on file -- cheap (no network calls), and catches
+    # both existing cases and anything new from this run in one pass.
+    for entry in store.values():
+        presented = extract_presented_date(entry.get("documents", []))
+        if presented:
+            entry["presented_date"] = presented
 
     save_json(SEEN_MEETINGS_PATH, sorted(seen_meetings))
     save_json(CASE_STORE_PATH, store)

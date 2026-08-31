@@ -7,6 +7,7 @@ Used by 00_discover_meetings.py, 01_geocode_new.py, 02_build_map.py, and
 
 import re
 import time
+from datetime import datetime
 from pathlib import Path
 from urllib.parse import urljoin, urlparse, parse_qs
 
@@ -59,6 +60,28 @@ LINE_ADDR_RE = re.compile(
     r"(?<!-)(?<!\d)(\d{3,6}\s+[A-Za-z0-9.#]+(?:\s+[A-Za-z0-9.#]+){0,5}\s+" + STREET_SUFFIX + r")\b",
     re.IGNORECASE,
 )
+
+
+DATE_PREFIX_RE = re.compile(r'(?<!\d)(20\d{2})(0[1-9]|1[0-2])(0[1-9]|[12]\d|3[01])(?!\d)')
+
+
+def extract_presented_date(documents):
+    """Raleigh's PDF filenames often start with an 8-digit YYYYMMDD date
+    (e.g. "20260818PLANDEVCommissionReportZ-17-26.pdf") -- that's the
+    actual date the document was presented at a meeting, which is a much
+    more meaningful date than when our scraper happened to run. Not every
+    document has this prefix (cover-sheet PDFs often don't), so we scan
+    all of a case's documents and take the earliest date found."""
+    dates = []
+    for doc in documents:
+        m = DATE_PREFIX_RE.search(doc.get("text", ""))
+        if not m:
+            continue
+        try:
+            dates.append(datetime(int(m.group(1)), int(m.group(2)), int(m.group(3))))
+        except ValueError:
+            continue
+    return min(dates).strftime("%Y-%m-%d") if dates else None
 
 
 def render_page(playwright, url, wait_seconds=3):

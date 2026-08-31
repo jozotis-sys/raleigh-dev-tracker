@@ -25,7 +25,6 @@ COMMITTEE_COLORS = {
     "Planning Commission": "#f2c200",       # saturated gold (was too pale to see before)
     "Design Review Commission": "#1f9e4e",  # richer green
     "Board of Adjustment": "#d62839",       # vivid red
-    "Raleigh Transit Authority": "#8639e0", # vivid purple
 }
 DEFAULT_COLOR = "#5b6472"
 
@@ -244,7 +243,7 @@ TEMPLATE = """<!DOCTYPE html>
           <th data-key="case_type">Type</th>
           <th data-key="address">Address</th>
           <th data-key="official_status">Status</th>
-          <th data-key="first_seen_at">First Seen</th>
+          <th data-key="presented_date">Presented</th>
           <th>Docs</th>
         </tr>
       </thead>
@@ -259,7 +258,7 @@ TEMPLATE = """<!DOCTYPE html>
     <div id="statsByStatus"></div>
     <h2>Cases by committee</h2>
     <div id="statsByCommittee"></div>
-    <h2>Cases discovered by month</h2>
+    <h2>Cases by month presented</h2>
     <div id="statsByMonth"></div>
   </div>
 </div>
@@ -276,7 +275,10 @@ TEMPLATE = """<!DOCTYPE html>
     <p>Meeting agendas are pulled from the City of Raleigh's public eSCRIBE meeting portal. Case documents are parsed to extract project addresses, which are geocoded via <a href="https://www.geoapify.com/" target="_blank" rel="noopener">Geoapify</a>. The map itself uses <a href="https://openfreemap.org/" target="_blank" rel="noopener">OpenFreeMap</a> tiles built on <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> data.</p>
 
     <h2>Accuracy note</h2>
-    <p>Addresses are extracted automatically from PDF documents and may occasionally be wrong or incomplete -- always confirm details against the linked source documents before relying on this for anything official. Cases are not currently removed or flagged when resolved (approved/denied/withdrawn), so the map reflects everything ever discovered, not just active cases.</p>
+    <p>Addresses are extracted automatically from PDF documents and may occasionally be wrong or incomplete -- always confirm details against the linked source documents before relying on this for anything official. Resolved cases (approved/denied/withdrawn) are hidden from the map by default but remain in the Table view.</p>
+
+    <h2>Contact</h2>
+    <p>Questions, corrections, or comments about a specific case: <a href="mailto:Jozotis@gmail.com">Jozotis@gmail.com</a></p>
   </div>
 </div>
 
@@ -431,7 +433,7 @@ TEMPLATE = """<!DOCTYPE html>
           '<div class="popup-case-number">' + escapeHtml(c.case_number) + '</div>' +
           '<div class="popup-address">' + escapeHtml(c.formatted_address || c.address_guess || '') + '</div>' +
           '<div style="margin:4px 0;">' + statusBadgeHtml(c) + '</div>' +
-          '<div class="popup-meta"><span class="dot" style="background:' + color + ';"></span>' + escapeHtml(c.committee) + ' — first seen ' + (c.first_seen_at || '').slice(0, 10) + '</div>' +
+          '<div class="popup-meta"><span class="dot" style="background:' + color + ';"></span>' + escapeHtml(c.committee) + (c.presented_date ? ' — presented ' + escapeHtml(c.presented_date) : '') + '</div>' +
           '<div class="popup-docs">' + docsHtml + '</div>' +
           relatedCasesHtml(c);
 
@@ -556,12 +558,12 @@ TEMPLATE = """<!DOCTYPE html>
       mapped: c.lat != null,
       official_status: c.official_status || 'ACTIVE',
       official_status_display: c.official_status_display || '',
-      first_seen_at: c.first_seen_at || '',
+      presented_date: c.presented_date || '',
       documents: c.documents || []
     };
   });
 
-  var sortKey = 'first_seen_at';
+  var sortKey = 'presented_date';
   var sortAsc = false;
 
   function renderTable() {
@@ -600,7 +602,7 @@ TEMPLATE = """<!DOCTYPE html>
         '<td>' + escapeHtml(r.case_type) + '</td>' +
         '<td>' + addressHtml + relatedHtml + '</td>' +
         '<td class="table-status">' + statusHtml + '</td>' +
-        '<td>' + escapeHtml(r.first_seen_at.slice(0, 10)) + '</td>' +
+        '<td>' + (r.presented_date ? escapeHtml(r.presented_date) : '<span class="table-unmapped">—</span>') + '</td>' +
         '<td class="table-docs">' + docsHtml + '</td>' +
         '</tr>';
     }).join('');
@@ -661,7 +663,7 @@ TEMPLATE = """<!DOCTYPE html>
 
     var byMonth = {};
     CASES.forEach(function (c) {
-      var month = (c.first_seen_at || '').slice(0, 7);
+      var month = (c.presented_date || c.first_seen_at || '').slice(0, 7);
       if (!month) return;
       byMonth[month] = (byMonth[month] || 0) + 1;
     });
