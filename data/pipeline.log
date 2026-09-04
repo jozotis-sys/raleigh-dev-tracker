@@ -1079,3 +1079,24 @@
 [2026-09-03 14:54:11 UTC]   Found 23 meeting link(s) total, 0 new.
 [2026-09-03 14:54:11 UTC] === Run finished. 78 meeting(s) processed total, 156 case(s) in store, 0 new this run. ===
 
+[2026-09-04 14:48:01 UTC] === Run started. 78 meeting(s) already processed, 156 case(s) in store. ===
+[2026-09-04 14:48:01 UTC] Checking committee: City Council
+[2026-09-04 14:48:10 UTC]   Found 18 meeting link(s) total, 1 new.
+[2026-09-04 14:48:10 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=3e185173-418d-4c7a-bb46-4256434e2284&Agenda=Agenda&lang=English
+[2026-09-04 14:48:14 UTC]     Z-21-26: address_guess = '2905 Hodge Road'
+[2026-09-04 14:48:16 UTC] Checking committee: City Council
+[2026-09-04 14:48:22 UTC]   Found 18 meeting link(s) total, 0 new.
+[2026-09-04 14:48:22 UTC] Checking committee: Planning Commission
+[2026-09-04 14:48:28 UTC]   Found 32 meeting link(s) total, 0 new.
+[2026-09-04 14:48:28 UTC] Checking committee: Planning Commission
+[2026-09-04 14:48:33 UTC]   Found 27 meeting link(s) total, 0 new.
+[2026-09-04 14:48:33 UTC] Checking committee: Board of Adjustment
+[2026-09-04 14:48:39 UTC]   Found 27 meeting link(s) total, 0 new.
+[2026-09-04 14:48:39 UTC] Checking committee: Board of Adjustment
+[2026-09-04 14:48:45 UTC]   Found 21 meeting link(s) total, 0 new.
+[2026-09-04 14:48:45 UTC] Checking committee: Design Review Commission
+[2026-09-04 14:48:51 UTC]   Found 33 meeting link(s) total, 0 new.
+[2026-09-04 14:48:51 UTC] Checking committee: Design Review Commission
+[2026-09-04 14:48:56 UTC]   Found 22 meeting link(s) total, 0 new.
+[2026-09-04 14:48:56 UTC] === Run finished. 79 meeting(s) processed total, 156 case(s) in store, 0 new this run. ===
+
