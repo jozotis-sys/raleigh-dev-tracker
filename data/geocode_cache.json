@@ -663,5 +663,35 @@
     "lat": 35.78199221651507,
     "lng": -78.60575137374964,
     "formatted": "215 Lord Berkley Road, Southeast Raleigh, Raleigh, NC 27610, United States of America"
+  },
+  "2010 Martin Luther King Jr. Boulevard": {
+    "lat": 35.770911754856456,
+    "lng": -78.60640085015149,
+    "formatted": "2010 Martin Luther King Jr Boulevard, Southeast Raleigh, Raleigh, NC 27610, United States of America"
+  },
+  "2010 Martin Luther King Jr Blvd": {
+    "lat": 35.770911754856456,
+    "lng": -78.60640085015149,
+    "formatted": "2010 Martin Luther King Jr Boulevard, Southeast Raleigh, Raleigh, NC 27610, United States of America"
+  },
+  "300 Polly Street": {
+    "lat": 35.7936815,
+    "lng": -78.5746771,
+    "formatted": "300 Polly Street, Raleigh, NC 27610, United States of America"
+  },
+  "7130 Blue Run Lane": {
+    "lat": 35.838228689273855,
+    "lng": -78.52063786878014,
+    "formatted": "7130 Blue Run Lane, Raleigh, NC 27604, United States of America"
+  },
+  "405 Ramblewood Drive": {
+    "lat": 35.833062,
+    "lng": -78.644866,
+    "formatted": "405 Ramblewood Drive, Raleigh, NC 27609, United States of America"
+  },
+  "8005 Capital Boulevard": {
+    "lat": 35.88986049049612,
+    "lng": -78.5622570386369,
+    "formatted": "8005 Capital Boulevard, Raleigh, NC 27616, United States of America"
   }
 }

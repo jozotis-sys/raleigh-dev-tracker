@@ -1100,3 +1100,34 @@
 [2026-09-04 14:48:56 UTC]   Found 22 meeting link(s) total, 0 new.
 [2026-09-04 14:48:56 UTC] === Run finished. 79 meeting(s) processed total, 156 case(s) in store, 0 new this run. ===
 
+[2026-09-05 13:40:53 UTC] === Run started. 79 meeting(s) already processed, 156 case(s) in store. ===
+[2026-09-05 13:40:53 UTC] Checking committee: City Council
+[2026-09-05 13:41:00 UTC]   Found 21 meeting link(s) total, 3 new.
+[2026-09-05 13:41:00 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=e3b6e014-2e4a-4014-94ad-e75cf0294907&Agenda=Agenda&lang=English
+[2026-09-05 13:41:05 UTC]     No development cases found on this agenda.
+[2026-09-05 13:41:07 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=912f7b10-6b7c-48d9-b0d5-1de9d92e90ce&Agenda=Agenda&lang=English
+[2026-09-05 13:41:11 UTC]     No development cases found on this agenda.
+[2026-09-05 13:41:13 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=86e13702-e783-4052-95c5-9292d6062c47&Agenda=Agenda&lang=English
+[2026-09-05 13:41:17 UTC]     BOA-0034-2026: address_guess = '4125 Windsor Place'
+[2026-09-05 13:41:22 UTC]     BOA-0041-2026: address_guess = '2010 Martin Luther King Jr. Boulevard'
+[2026-09-05 13:41:24 UTC]     BOA-0040-2026: address_guess = '2010 Martin Luther King Jr Blvd'
+[2026-09-05 13:41:27 UTC]     BOA-0046-2026: address_guess = '300 Polly Street'
+[2026-09-05 13:41:31 UTC]     BOA-0049-2026: address_guess = '7130 Blue Run Lane'
+[2026-09-05 13:41:34 UTC]     BOA-0047-2026: address_guess = '405 Ramblewood Drive'
+[2026-09-05 13:41:37 UTC]     BOA-0044-2026: address_guess = '8005 Capital Boulevard'
+[2026-09-05 13:41:39 UTC] Checking committee: City Council
+[2026-09-05 13:41:45 UTC]   Found 21 meeting link(s) total, 0 new.
+[2026-09-05 13:41:45 UTC] Checking committee: Planning Commission
+[2026-09-05 13:41:51 UTC]   Found 35 meeting link(s) total, 0 new.
+[2026-09-05 13:41:51 UTC] Checking committee: Planning Commission
+[2026-09-05 13:41:56 UTC]   Found 30 meeting link(s) total, 0 new.
+[2026-09-05 13:41:56 UTC] Checking committee: Board of Adjustment
+[2026-09-05 13:42:02 UTC]   Found 30 meeting link(s) total, 0 new.
+[2026-09-05 13:42:02 UTC] Checking committee: Board of Adjustment
+[2026-09-05 13:42:07 UTC]   Found 24 meeting link(s) total, 0 new.
+[2026-09-05 13:42:07 UTC] Checking committee: Design Review Commission
+[2026-09-05 13:42:13 UTC]   Found 36 meeting link(s) total, 0 new.
+[2026-09-05 13:42:13 UTC] Checking committee: Design Review Commission
+[2026-09-05 13:42:19 UTC]   Found 25 meeting link(s) total, 0 new.
+[2026-09-05 13:42:19 UTC] === Run finished. 82 meeting(s) processed total, 162 case(s) in store, 6 new this run. ===
+
