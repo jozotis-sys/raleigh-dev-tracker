@@ -1232,3 +1232,28 @@
 [2026-09-10 14:51:11 UTC]   Found 22 meeting link(s) total, 0 new.
 [2026-09-10 14:51:11 UTC] === Run finished. 85 meeting(s) processed total, 162 case(s) in store, 0 new this run. ===
 
+[2026-09-11 14:50:49 UTC] === Run started. 85 meeting(s) already processed, 162 case(s) in store. ===
+[2026-09-11 14:50:50 UTC] Checking committee: City Council
+[2026-09-11 14:50:57 UTC]   Found 19 meeting link(s) total, 3 new.
+[2026-09-11 14:50:57 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=393dc9e8-0135-4a73-a5df-13ff577b9502&Agenda=Agenda&lang=English
+[2026-09-11 14:51:01 UTC]     No development cases found on this agenda.
+[2026-09-11 14:51:03 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=6097833d-8535-4529-a970-7cb3fd75c197&Agenda=Agenda&lang=English
+[2026-09-11 14:51:07 UTC]     No development cases found on this agenda.
+[2026-09-11 14:51:09 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d78b4919-8f14-420b-a2d8-e3a50402b08d&Agenda=Agenda&lang=English
+[2026-09-11 14:51:13 UTC]     No development cases found on this agenda.
+[2026-09-11 14:51:15 UTC] Checking committee: City Council
+[2026-09-11 14:51:21 UTC]   Found 19 meeting link(s) total, 0 new.
+[2026-09-11 14:51:21 UTC] Checking committee: Planning Commission
+[2026-09-11 14:51:27 UTC]   Found 34 meeting link(s) total, 0 new.
+[2026-09-11 14:51:27 UTC] Checking committee: Planning Commission
+[2026-09-11 14:51:33 UTC]   Found 28 meeting link(s) total, 0 new.
+[2026-09-11 14:51:33 UTC] Checking committee: Board of Adjustment
+[2026-09-11 14:51:39 UTC]   Found 28 meeting link(s) total, 0 new.
+[2026-09-11 14:51:39 UTC] Checking committee: Board of Adjustment
+[2026-09-11 14:51:44 UTC]   Found 22 meeting link(s) total, 0 new.
+[2026-09-11 14:51:44 UTC] Checking committee: Design Review Commission
+[2026-09-11 14:51:50 UTC]   Found 34 meeting link(s) total, 0 new.
+[2026-09-11 14:51:50 UTC] Checking committee: Design Review Commission
+[2026-09-11 14:51:56 UTC]   Found 23 meeting link(s) total, 0 new.
+[2026-09-11 14:51:56 UTC] === Run finished. 88 meeting(s) processed total, 162 case(s) in store, 0 new this run. ===
+
