@@ -5538,5 +5538,27 @@
     },
     "presented_date": "2026-09-14",
     "formatted_address": "8005 Capital Boulevard, Raleigh, NC 27616, United States of America"
+  },
+  "TC-05-26": {
+    "case_number": "TC-05-26",
+    "case_type": "Text Change",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17271",
+        "text": "PLANDEV - TC-5-26 - 2026-980.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=c8fba452-fd50-440c-89a9-4776c08ebc23&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-09-12T13:53:23.187853+00:00",
+    "address_guess": null,
+    "lat": null,
+    "lng": null,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=c8fba452-fd50-440c-89a9-4776c08ebc23&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-09-12T13:53:23.187853+00:00",
+    "best_document": {
+      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17271",
+      "text": "PLANDEV - TC-5-26 - 2026-980.pdf"
+    }
   }
 }
