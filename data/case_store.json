@@ -5546,6 +5546,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17271",
         "text": "PLANDEV - TC-5-26 - 2026-980.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17561",
+        "text": "PLANDEV - TC-5-26 - 2026-1005.pdf"
       }
     ],
     "committee": "City Council",
@@ -5554,11 +5558,128 @@
     "address_guess": null,
     "lat": null,
     "lng": null,
-    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=c8fba452-fd50-440c-89a9-4776c08ebc23&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-09-12T13:53:23.187853+00:00",
-    "best_document": {
-      "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17271",
-      "text": "PLANDEV - TC-5-26 - 2026-980.pdf"
-    }
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=6b36dfab-92ce-4140-b646-5ed49a9167ac&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-09-18T14:47:46.400930+00:00",
+    "best_document": null
+  },
+  "Z-28-26": {
+    "case_number": "Z-28-26",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17539",
+        "text": "PLANDEV - Z-28-26 - 2026-982.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17540",
+        "text": "20260922PLANDEVNewBusinessZ-28-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17541",
+        "text": "20260922PLANDEVEngagementReportZ-28-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17544",
+        "text": "20260922PLANDEVStaffPresentationZ-28-26.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=6b36dfab-92ce-4140-b646-5ed49a9167ac&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-09-18T14:47:46.400930+00:00",
+    "address_guess": null,
+    "lat": null,
+    "lng": null,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=6b36dfab-92ce-4140-b646-5ed49a9167ac&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-09-18T14:47:46.400930+00:00",
+    "best_document": null,
+    "presented_date": "2026-09-22"
+  },
+  "Z-30-26": {
+    "case_number": "Z-30-26",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17545",
+        "text": "PLANDEV - Z-30-26 - 2026-994.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17546",
+        "text": "20260922PLANDEVNewBusinessZ-30-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17547",
+        "text": "20260922PLANDEVStaffPresentationZ-30-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17548",
+        "text": "20260922PLANDEVEngagementReportZ-30-26.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=6b36dfab-92ce-4140-b646-5ed49a9167ac&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-09-18T14:47:46.400930+00:00",
+    "address_guess": null,
+    "lat": null,
+    "lng": null,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=6b36dfab-92ce-4140-b646-5ed49a9167ac&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-09-18T14:47:46.400930+00:00",
+    "best_document": null,
+    "presented_date": "2026-09-22"
+  },
+  "Z-13-26": {
+    "case_number": "Z-13-26",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17556",
+        "text": "PLANDEV - Z-13-26 - 2026-1000.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17557",
+        "text": "20260922PLANDEVNewBusinessZ-13-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17560",
+        "text": "20260922PLANDEVStaffPresentationZ-13-26.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=6b36dfab-92ce-4140-b646-5ed49a9167ac&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-09-18T14:47:46.400930+00:00",
+    "address_guess": null,
+    "lat": null,
+    "lng": null,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=6b36dfab-92ce-4140-b646-5ed49a9167ac&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-09-18T14:47:46.400930+00:00",
+    "best_document": null,
+    "presented_date": "2026-09-22"
+  },
+  "Z-04-26": {
+    "case_number": "Z-04-26",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17551",
+        "text": "PLANDEV - Z-04-26 - 2026-999.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17552",
+        "text": "20260922PLANDEVNewBusinessZ-04-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17555",
+        "text": "2026PLANDEVStaffPresentationZ-04-26.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=6b36dfab-92ce-4140-b646-5ed49a9167ac&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-09-18T14:47:46.400930+00:00",
+    "address_guess": null,
+    "lat": null,
+    "lng": null,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=6b36dfab-92ce-4140-b646-5ed49a9167ac&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-09-18T14:47:46.400930+00:00",
+    "best_document": null,
+    "presented_date": "2026-09-22"
   }
 }
