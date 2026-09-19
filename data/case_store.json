@@ -4519,6 +4519,14 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15355",
         "text": "DA-09-2026 Staff Report_Redacted.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17613",
+        "text": "DA-09-2026 - 0 Lassiter Mill Rd.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17614",
+        "text": "DA-09-2026 Staff Report_Redacted.pdf"
       }
     ],
     "committee": "Design Review Commission",
@@ -4527,8 +4535,8 @@
     "address_guess": "0 Lassiter Mill Rd",
     "lat": 35.8241474,
     "lng": -78.6502478,
-    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=3e06c2c9-0b51-4436-8e5f-fc0208137f69&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=83f06108-b5d3-43d1-ab68-37f3754ba603&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-09-19T14:11:27.968522+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15355",
       "text": "DA-09-2026 Staff Report_Redacted.pdf"
@@ -5681,5 +5689,28 @@
     "last_seen_at": "2026-09-18T14:47:46.400930+00:00",
     "best_document": null,
     "presented_date": "2026-09-22"
+  },
+  "DA-11-2026": {
+    "case_number": "DA-11-2026",
+    "case_type": "Design Alternate",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17616",
+        "text": "DA-11-2026 - 8005 Capital Blvd, 4150 Capital Hills Dr, 8701 Durant Rd, 8901 Durant Rd (Leith Toyota) - 2026-987.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17617",
+        "text": "DA-11-2026 - Staff Report.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=83f06108-b5d3-43d1-ab68-37f3754ba603&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-09-19T14:11:27.968522+00:00",
+    "address_guess": null,
+    "lat": null,
+    "lng": null,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=83f06108-b5d3-43d1-ab68-37f3754ba603&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-09-19T14:11:27.968522+00:00",
+    "best_document": null
   }
 }

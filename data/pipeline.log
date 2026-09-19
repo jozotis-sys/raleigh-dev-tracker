@@ -1406,3 +1406,27 @@
 [2026-09-18 14:48:51 UTC]   Found 20 meeting link(s) total, 0 new.
 [2026-09-18 14:48:51 UTC] === Run finished. 94 meeting(s) processed total, 167 case(s) in store, 4 new this run. ===
 
+[2026-09-19 14:11:27 UTC] === Run started. 94 meeting(s) already processed, 167 case(s) in store. ===
+[2026-09-19 14:11:28 UTC] Checking committee: City Council
+[2026-09-19 14:11:34 UTC]   Found 18 meeting link(s) total, 2 new.
+[2026-09-19 14:11:34 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1b150431-fb26-4d6f-9fe9-ff1711334d9d&Agenda=Agenda&lang=English
+[2026-09-19 14:11:38 UTC]     No development cases found on this agenda.
+[2026-09-19 14:11:40 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=83f06108-b5d3-43d1-ab68-37f3754ba603&Agenda=Agenda&lang=English
+[2026-09-19 14:11:44 UTC]     DA-09-2026: address_guess = '0 Lassiter Mill Rd'
+[2026-09-19 14:11:44 UTC]     DA-11-2026: address_guess = None
+[2026-09-19 14:11:46 UTC] Checking committee: City Council
+[2026-09-19 14:11:52 UTC]   Found 18 meeting link(s) total, 0 new.
+[2026-09-19 14:11:52 UTC] Checking committee: Planning Commission
+[2026-09-19 14:11:58 UTC]   Found 33 meeting link(s) total, 0 new.
+[2026-09-19 14:11:58 UTC] Checking committee: Planning Commission
+[2026-09-19 14:12:04 UTC]   Found 27 meeting link(s) total, 0 new.
+[2026-09-19 14:12:04 UTC] Checking committee: Board of Adjustment
+[2026-09-19 14:12:10 UTC]   Found 28 meeting link(s) total, 0 new.
+[2026-09-19 14:12:10 UTC] Checking committee: Board of Adjustment
+[2026-09-19 14:12:15 UTC]   Found 21 meeting link(s) total, 0 new.
+[2026-09-19 14:12:15 UTC] Checking committee: Design Review Commission
+[2026-09-19 14:12:21 UTC]   Found 34 meeting link(s) total, 0 new.
+[2026-09-19 14:12:21 UTC] Checking committee: Design Review Commission
+[2026-09-19 14:12:27 UTC]   Found 22 meeting link(s) total, 0 new.
+[2026-09-19 14:12:27 UTC] === Run finished. 96 meeting(s) processed total, 168 case(s) in store, 1 new this run. ===
+
