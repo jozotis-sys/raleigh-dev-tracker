@@ -1680,3 +1680,33 @@
 [2026-10-01 17:25:37 UTC]   Found 22 meeting link(s) total, 0 new.
 [2026-10-01 17:25:37 UTC] === Run finished. 107 meeting(s) processed total, 168 case(s) in store, 0 new this run. ===
 
+[2026-10-02 16:29:48 UTC] === Run started. 107 meeting(s) already processed, 168 case(s) in store. ===
+[2026-10-02 16:29:48 UTC] Checking committee: City Council
+[2026-10-02 16:29:55 UTC]   Found 15 meeting link(s) total, 2 new.
+[2026-10-02 16:29:55 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=c984e7e3-4f23-47a8-bcaf-cd8671a71497&Agenda=Agenda&lang=English
+[2026-10-02 16:29:59 UTC]     No development cases found on this agenda.
+[2026-10-02 16:30:01 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1cc54405-f129-4e50-967a-637176971e25&Agenda=Agenda&lang=English
+[2026-10-02 16:30:05 UTC]     BOA-0021-2026: address_guess = '3513 Garner Road'
+[2026-10-02 16:30:05 UTC]     BOA-0050-2026: address_guess = '3211 Bramer Drive'
+[2026-10-02 16:30:05 UTC]     BOA-0026-2026: address_guess = '2406 Fairview Road'
+[2026-10-02 16:30:06 UTC]     BOA-0032-2026: address_guess = None
+[2026-10-02 16:30:06 UTC]     BOA-0051-2026: address_guess = None
+[2026-10-02 16:30:06 UTC]     BOA-0053-2026: address_guess = None
+[2026-10-02 16:30:06 UTC]     BOA-0054-2026: address_guess = None
+[2026-10-02 16:30:06 UTC]     BOA-0039-2026: address_guess = None
+[2026-10-02 16:30:08 UTC] Checking committee: City Council
+[2026-10-02 16:30:15 UTC]   Found 15 meeting link(s) total, 0 new.
+[2026-10-02 16:30:15 UTC] Checking committee: Planning Commission
+[2026-10-02 16:30:22 UTC]   Found 31 meeting link(s) total, 0 new.
+[2026-10-02 16:30:22 UTC] Checking committee: Planning Commission
+[2026-10-02 16:30:28 UTC]   Found 24 meeting link(s) total, 0 new.
+[2026-10-02 16:30:28 UTC] Checking committee: Board of Adjustment
+[2026-10-02 16:30:33 UTC]   Found 25 meeting link(s) total, 0 new.
+[2026-10-02 16:30:33 UTC] Checking committee: Board of Adjustment
+[2026-10-02 16:30:39 UTC]   Found 18 meeting link(s) total, 0 new.
+[2026-10-02 16:30:39 UTC] Checking committee: Design Review Commission
+[2026-10-02 16:30:45 UTC]   Found 32 meeting link(s) total, 0 new.
+[2026-10-02 16:30:45 UTC] Checking committee: Design Review Commission
+[2026-10-02 16:30:51 UTC]   Found 19 meeting link(s) total, 0 new.
+[2026-10-02 16:30:51 UTC] === Run finished. 109 meeting(s) processed total, 173 case(s) in store, 5 new this run. ===
+

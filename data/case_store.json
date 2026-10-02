@@ -3063,6 +3063,14 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15487",
         "text": "PLANDEV - BOA-0050-2026 - 2026-840.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17839",
+        "text": "PLANDEV - BOA-0050-2026 - 2026-1038.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17840",
+        "text": "20261012PLANDEVBOA-0050-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -3071,13 +3079,14 @@
     "address_guess": "3211 Bramer Drive",
     "lat": 35.8273408,
     "lng": -78.6066328,
-    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=982568d5-bd50-4623-8afa-683faf33bf95&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1cc54405-f129-4e50-967a-637176971e25&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-10-02T16:29:48.374810+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15487",
       "text": "PLANDEV - BOA-0050-2026 - 2026-840.pdf"
     },
-    "formatted_address": "3211 Bramer Drive, Raleigh, NC 27604, United States of America"
+    "formatted_address": "3211 Bramer Drive, Raleigh, NC 27604, United States of America",
+    "presented_date": "2026-10-12"
   },
   "BOA-0036-2026": {
     "case_number": "BOA-0036-2026",
@@ -3246,6 +3255,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15074",
         "text": "20260713PLANDEVBOA-0026-2026.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17836",
+        "text": "PLANDEV - BOA-0026-2026 - 2026-1036.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -3254,8 +3267,8 @@
     "address_guess": "2406 Fairview Road",
     "lat": 35.80846381263867,
     "lng": -78.65275392361075,
-    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d531cc22-a92d-4e08-bde1-db8564bc2c92&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1cc54405-f129-4e50-967a-637176971e25&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-10-02T16:29:48.374810+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=15073",
       "text": "PLANDEV - BOA-0026-2026 -  - 2026-770.pdf"
@@ -3441,6 +3454,14 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=11559",
         "text": "20260413PLANDEVBOA-0021-2026.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17837",
+        "text": "PLANDEV - BOA-0021-2026 - 2026-1037.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17838",
+        "text": "20261012PLANDEVBOA-0021-2026.pdf"
       }
     ],
     "committee": "Board of Adjustment",
@@ -3449,8 +3470,8 @@
     "address_guess": "3513 Garner Road",
     "lat": 35.73087293679802,
     "lng": -78.62716674160878,
-    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=8af61b1a-a6e0-4cf6-a073-933fdb4ada92&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-08-31T00:55:27.673294+00:00",
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1cc54405-f129-4e50-967a-637176971e25&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-10-02T16:29:48.374810+00:00",
     "best_document": {
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=13893",
       "text": "PLANDEV - BOA-0021-2026 - 2026-599.pdf"
@@ -5712,5 +5733,125 @@
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=83f06108-b5d3-43d1-ab68-37f3754ba603&Agenda=Agenda&lang=English",
     "last_seen_at": "2026-09-19T14:11:27.968522+00:00",
     "best_document": null
+  },
+  "BOA-0032-2026": {
+    "case_number": "BOA-0032-2026",
+    "case_type": "Variance / Special Use Permit / Appeal",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17826",
+        "text": "PLANDEV-BOA-0032-2026 - 2026-1016.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17827",
+        "text": "20261012PLANDEVBOA-0032-2026.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1cc54405-f129-4e50-967a-637176971e25&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-10-02T16:29:48.374810+00:00",
+    "address_guess": null,
+    "lat": null,
+    "lng": null,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1cc54405-f129-4e50-967a-637176971e25&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-10-02T16:29:48.374810+00:00",
+    "best_document": null,
+    "presented_date": "2026-10-12"
+  },
+  "BOA-0051-2026": {
+    "case_number": "BOA-0051-2026",
+    "case_type": "Variance / Special Use Permit / Appeal",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17828",
+        "text": "PLANDEV-BOA-0051-2026 - 2026-1018.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17829",
+        "text": "20261012PLANDEVBOA-0051-2026.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1cc54405-f129-4e50-967a-637176971e25&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-10-02T16:29:48.374810+00:00",
+    "address_guess": null,
+    "lat": null,
+    "lng": null,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1cc54405-f129-4e50-967a-637176971e25&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-10-02T16:29:48.374810+00:00",
+    "best_document": null,
+    "presented_date": "2026-10-12"
+  },
+  "BOA-0053-2026": {
+    "case_number": "BOA-0053-2026",
+    "case_type": "Variance / Special Use Permit / Appeal",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17834",
+        "text": "PLANDEV - BOA-0053-2026 - 2026-1035.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17835",
+        "text": "20261012PLANDEVBOA-0053-2026.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1cc54405-f129-4e50-967a-637176971e25&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-10-02T16:29:48.374810+00:00",
+    "address_guess": null,
+    "lat": null,
+    "lng": null,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1cc54405-f129-4e50-967a-637176971e25&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-10-02T16:29:48.374810+00:00",
+    "best_document": null,
+    "presented_date": "2026-10-12"
+  },
+  "BOA-0054-2026": {
+    "case_number": "BOA-0054-2026",
+    "case_type": "Variance / Special Use Permit / Appeal",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17830",
+        "text": "PLANDEV-BOA-0054-2026 - 2026-1019.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17831",
+        "text": "20261012PLANDEVBOA-0054-2026.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1cc54405-f129-4e50-967a-637176971e25&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-10-02T16:29:48.374810+00:00",
+    "address_guess": null,
+    "lat": null,
+    "lng": null,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1cc54405-f129-4e50-967a-637176971e25&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-10-02T16:29:48.374810+00:00",
+    "best_document": null,
+    "presented_date": "2026-10-12"
+  },
+  "BOA-0039-2026": {
+    "case_number": "BOA-0039-2026",
+    "case_type": "Variance / Special Use Permit / Appeal",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17832",
+        "text": "PLANDEV-BOA-0039-2026 - 2026-1034.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=17833",
+        "text": "20261012PLANDEVBOA-0039-2026.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1cc54405-f129-4e50-967a-637176971e25&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-10-02T16:29:48.374810+00:00",
+    "address_guess": null,
+    "lat": null,
+    "lng": null,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1cc54405-f129-4e50-967a-637176971e25&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-10-02T16:29:48.374810+00:00",
+    "best_document": null,
+    "presented_date": "2026-10-12"
   }
 }
