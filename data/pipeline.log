@@ -1838,3 +1838,28 @@
 [2026-10-08 17:44:58 UTC]   Found 22 meeting link(s) total, 0 new.
 [2026-10-08 17:44:58 UTC] === Run finished. 116 meeting(s) processed total, 173 case(s) in store, 0 new this run. ===
 
+[2026-10-09 17:19:58 UTC] === Run started. 116 meeting(s) already processed, 173 case(s) in store. ===
+[2026-10-09 17:19:59 UTC] Checking committee: City Council
+[2026-10-09 17:20:06 UTC]   Found 17 meeting link(s) total, 2 new.
+[2026-10-09 17:20:06 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=75f2fb47-8d2a-4617-8471-8d7406d43844&Agenda=Agenda&lang=English
+[2026-10-09 17:20:12 UTC]     Z-23-26: address_guess = None
+[2026-10-09 17:20:12 UTC]     Z-25-26: address_guess = None
+[2026-10-09 17:20:13 UTC]     Z-32-26: address_guess = None
+[2026-10-09 17:20:15 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=c7b756d5-4386-4553-8794-87c02bd0b94e&Agenda=Agenda&lang=English
+[2026-10-09 17:20:19 UTC]     No development cases found on this agenda.
+[2026-10-09 17:20:21 UTC] Checking committee: City Council
+[2026-10-09 17:20:28 UTC]   Found 17 meeting link(s) total, 0 new.
+[2026-10-09 17:20:28 UTC] Checking committee: Planning Commission
+[2026-10-09 17:20:34 UTC]   Found 33 meeting link(s) total, 0 new.
+[2026-10-09 17:20:34 UTC] Checking committee: Planning Commission
+[2026-10-09 17:20:40 UTC]   Found 26 meeting link(s) total, 0 new.
+[2026-10-09 17:20:40 UTC] Checking committee: Board of Adjustment
+[2026-10-09 17:20:46 UTC]   Found 27 meeting link(s) total, 0 new.
+[2026-10-09 17:20:46 UTC] Checking committee: Board of Adjustment
+[2026-10-09 17:20:52 UTC]   Found 20 meeting link(s) total, 0 new.
+[2026-10-09 17:20:52 UTC] Checking committee: Design Review Commission
+[2026-10-09 17:20:59 UTC]   Found 34 meeting link(s) total, 0 new.
+[2026-10-09 17:20:59 UTC] Checking committee: Design Review Commission
+[2026-10-09 17:21:05 UTC]   Found 21 meeting link(s) total, 0 new.
+[2026-10-09 17:21:05 UTC] === Run finished. 118 meeting(s) processed total, 176 case(s) in store, 3 new this run. ===
+

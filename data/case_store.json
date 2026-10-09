@@ -5853,5 +5853,97 @@
     "last_seen_at": "2026-10-02T16:29:48.374810+00:00",
     "best_document": null,
     "presented_date": "2026-10-12"
+  },
+  "Z-23-26": {
+    "case_number": "Z-23-26",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=18001",
+        "text": "PLANDEV \u2013 Z-23-26 \u2013 2026-1051.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=18002",
+        "text": "20261013PLANDEVNewBusinessZ-23-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=18005",
+        "text": "20261013PLANDEVRezoningStaffPresentationZ-23-26.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=75f2fb47-8d2a-4617-8471-8d7406d43844&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-10-09T17:19:58.658751+00:00",
+    "address_guess": null,
+    "lat": null,
+    "lng": null,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=75f2fb47-8d2a-4617-8471-8d7406d43844&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-10-09T17:19:58.658751+00:00",
+    "best_document": null,
+    "presented_date": "2026-10-13"
+  },
+  "Z-25-26": {
+    "case_number": "Z-25-26",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=18006",
+        "text": "PLANDEV \u2013 Z-25-26 \u2013 2026-1059.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=18007",
+        "text": "20261013PLANDEVNewBusinessZ-25-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=18008",
+        "text": "20261013PLANDEVEngagementReportZ-25-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=18012",
+        "text": "20261013PLANDEVRezoningStaffPresentationZ-25-26.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=75f2fb47-8d2a-4617-8471-8d7406d43844&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-10-09T17:19:58.658751+00:00",
+    "address_guess": null,
+    "lat": null,
+    "lng": null,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=75f2fb47-8d2a-4617-8471-8d7406d43844&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-10-09T17:19:58.658751+00:00",
+    "best_document": null,
+    "presented_date": "2026-10-13"
+  },
+  "Z-32-26": {
+    "case_number": "Z-32-26",
+    "case_type": "Rezoning",
+    "documents": [
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=18013",
+        "text": "PLANDEV - Z-32-26 - 2026-1066.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=18016",
+        "text": "20261013PLANDEVEngagementReportZ-32-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=18017",
+        "text": "20261013PLANDEVRezoningStaffPresentationZ-32-26.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=18018",
+        "text": "20261013PLANDEVNewBusinessZ-32-26.pdf"
+      }
+    ],
+    "committee": "City Council",
+    "first_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=75f2fb47-8d2a-4617-8471-8d7406d43844&Agenda=Agenda&lang=English",
+    "first_seen_at": "2026-10-09T17:19:58.658751+00:00",
+    "address_guess": null,
+    "lat": null,
+    "lng": null,
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=75f2fb47-8d2a-4617-8471-8d7406d43844&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-10-09T17:19:58.658751+00:00",
+    "best_document": null,
+    "presented_date": "2026-10-13"
   }
 }
