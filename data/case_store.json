@@ -5953,6 +5953,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=18548",
         "text": "PLANDEV - TC-3-26 - 2026-1109.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=18917",
+        "text": "PLANDEV - TC-3-26 - 2026-1150.pdf"
       }
     ],
     "committee": "City Council",
@@ -5961,8 +5965,8 @@
     "address_guess": null,
     "lat": null,
     "lng": null,
-    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=c6aa1fa3-4ef1-4cf9-9aae-5988cd8280da&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-10-16T15:12:58.520156+00:00",
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=9bca22fc-7b8d-4da4-89a1-2ed9c8f5302b&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-10-23T15:38:41.996742+00:00",
     "best_document": null
   },
   "TC-06-26": {
@@ -5972,6 +5976,10 @@
       {
         "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=18553",
         "text": "PLANDEV - TC-6-26 - 2026-1110.pdf"
+      },
+      {
+        "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=18922",
+        "text": "PLANDEV - TC-6-26 - 2026-1151.pdf"
       }
     ],
     "committee": "City Council",
@@ -5980,8 +5988,8 @@
     "address_guess": null,
     "lat": null,
     "lng": null,
-    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=c6aa1fa3-4ef1-4cf9-9aae-5988cd8280da&Agenda=Agenda&lang=English",
-    "last_seen_at": "2026-10-16T15:12:58.520156+00:00",
+    "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=9bca22fc-7b8d-4da4-89a1-2ed9c8f5302b&Agenda=Agenda&lang=English",
+    "last_seen_at": "2026-10-23T15:38:41.996742+00:00",
     "best_document": null
   }
 }

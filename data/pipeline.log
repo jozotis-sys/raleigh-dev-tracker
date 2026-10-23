@@ -2127,3 +2127,27 @@
 [2026-10-22 15:48:48 UTC]   Found 13 meeting link(s) total, 0 new.
 [2026-10-22 15:48:48 UTC] === Run finished. 126 meeting(s) processed total, 178 case(s) in store, 0 new this run. ===
 
+[2026-10-23 15:38:41 UTC] === Run started. 126 meeting(s) already processed, 178 case(s) in store. ===
+[2026-10-23 15:38:42 UTC] Checking committee: City Council
+[2026-10-23 15:38:48 UTC]   Found 10 meeting link(s) total, 2 new.
+[2026-10-23 15:38:48 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=9bca22fc-7b8d-4da4-89a1-2ed9c8f5302b&Agenda=Agenda&lang=English
+[2026-10-23 15:38:52 UTC]     TC-03-26: address_guess = None
+[2026-10-23 15:38:52 UTC]     TC-06-26: address_guess = None
+[2026-10-23 15:38:54 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=f9cf8685-ab3c-4fb4-87da-32b232dbd8d3&Agenda=Agenda&lang=English
+[2026-10-23 15:38:58 UTC]     No development cases found on this agenda.
+[2026-10-23 15:39:00 UTC] Checking committee: City Council
+[2026-10-23 15:39:06 UTC]   Found 10 meeting link(s) total, 0 new.
+[2026-10-23 15:39:06 UTC] Checking committee: Planning Commission
+[2026-10-23 15:39:11 UTC]   Found 27 meeting link(s) total, 0 new.
+[2026-10-23 15:39:11 UTC] Checking committee: Planning Commission
+[2026-10-23 15:39:17 UTC]   Found 19 meeting link(s) total, 0 new.
+[2026-10-23 15:39:17 UTC] Checking committee: Board of Adjustment
+[2026-10-23 15:39:22 UTC]   Found 21 meeting link(s) total, 0 new.
+[2026-10-23 15:39:22 UTC] Checking committee: Board of Adjustment
+[2026-10-23 15:39:28 UTC]   Found 13 meeting link(s) total, 0 new.
+[2026-10-23 15:39:28 UTC] Checking committee: Design Review Commission
+[2026-10-23 15:39:34 UTC]   Found 28 meeting link(s) total, 0 new.
+[2026-10-23 15:39:34 UTC] Checking committee: Design Review Commission
+[2026-10-23 15:39:39 UTC]   Found 14 meeting link(s) total, 0 new.
+[2026-10-23 15:39:39 UTC] === Run finished. 128 meeting(s) processed total, 178 case(s) in store, 0 new this run. ===
+
