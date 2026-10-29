@@ -2252,3 +2252,24 @@
 [2026-10-28 17:00:45 UTC]   Found 13 meeting link(s) total, 0 new.
 [2026-10-28 17:00:45 UTC] === Run finished. 131 meeting(s) processed total, 178 case(s) in store, 0 new this run. ===
 
+[2026-10-29 17:18:34 UTC] === Run started. 131 meeting(s) already processed, 178 case(s) in store. ===
+[2026-10-29 17:18:35 UTC] Checking committee: City Council
+[2026-10-29 17:18:41 UTC]   Found 9 meeting link(s) total, 1 new.
+[2026-10-29 17:18:41 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=8dc6928c-bd5a-4d42-a660-aa855cba3e23&Agenda=Agenda&lang=English
+[2026-10-29 17:18:45 UTC]     No development cases found on this agenda.
+[2026-10-29 17:18:47 UTC] Checking committee: City Council
+[2026-10-29 17:18:53 UTC]   Found 9 meeting link(s) total, 0 new.
+[2026-10-29 17:18:53 UTC] Checking committee: Planning Commission
+[2026-10-29 17:18:59 UTC]   Found 27 meeting link(s) total, 0 new.
+[2026-10-29 17:18:59 UTC] Checking committee: Planning Commission
+[2026-10-29 17:19:05 UTC]   Found 18 meeting link(s) total, 0 new.
+[2026-10-29 17:19:05 UTC] Checking committee: Board of Adjustment
+[2026-10-29 17:19:10 UTC]   Found 20 meeting link(s) total, 0 new.
+[2026-10-29 17:19:10 UTC] Checking committee: Board of Adjustment
+[2026-10-29 17:19:16 UTC]   Found 12 meeting link(s) total, 0 new.
+[2026-10-29 17:19:16 UTC] Checking committee: Design Review Commission
+[2026-10-29 17:19:22 UTC]   Found 27 meeting link(s) total, 0 new.
+[2026-10-29 17:19:22 UTC] Checking committee: Design Review Commission
+[2026-10-29 17:19:27 UTC]   Found 13 meeting link(s) total, 0 new.
+[2026-10-29 17:19:27 UTC] === Run finished. 132 meeting(s) processed total, 178 case(s) in store, 0 new this run. ===
+
