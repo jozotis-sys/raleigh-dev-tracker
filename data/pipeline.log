@@ -2420,3 +2420,363 @@
 [2026-11-05 18:41:13 UTC]   Found 16 meeting link(s) total, 0 new.
 [2026-11-05 18:41:13 UTC] === Run finished. 139 meeting(s) processed total, 178 case(s) in store, 0 new this run. ===
 
+[2026-11-05 19:02:13 UTC] === Run started. 0 meeting(s) already processed, 0 awaiting an agenda, 178 case(s) in store. ===
+[2026-11-05 19:02:13 UTC] Checking committee: City Council
+[2026-11-05 19:02:19 UTC]   Found 12 meeting link(s) total, 12 new, 0 recheck(s).
+[2026-11-05 19:02:19 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=f9dd4279-9ca5-417e-8659-6829c068fdcc&Agenda=Agenda&lang=English
+[2026-11-05 19:02:23 UTC]     No development cases found on this agenda (yet).
+[2026-11-05 19:02:25 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=014df22d-419f-4559-825c-fb3d6ce983c4&Agenda=Agenda&lang=English
+[2026-11-05 19:02:30 UTC]     No development cases found on this agenda (yet).
+[2026-11-05 19:02:32 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=508e04e9-4b58-46a7-a95c-ece88f650531&Agenda=Agenda&lang=English
+[2026-11-05 19:02:36 UTC]     No development cases found on this agenda (yet).
+[2026-11-05 19:02:38 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d28e4a66-7ab6-4216-a495-6897069d91ad&Agenda=Agenda&lang=English
+[2026-11-05 19:02:42 UTC]     DA-10-2026: address_guess = None
+[2026-11-05 19:02:42 UTC]     DA-12-2026: address_guess = None
+[2026-11-05 19:02:42 UTC]     DA-13-2026: address_guess = None
+[2026-11-05 19:02:44 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=37c47c70-f9b7-4d22-b6c8-0b1d6808441b&Agenda=Agenda&lang=English
+[2026-11-05 19:02:48 UTC]     No development cases found on this agenda (yet).
+[2026-11-05 19:02:50 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=a2807de2-82c4-4678-970e-d3e29e71ca56&Agenda=Agenda&lang=English
+[2026-11-05 19:02:55 UTC]     BOA-0050-2026: address_guess = '3211 Bramer Drive'
+[2026-11-05 19:02:55 UTC]     BOA-0053-2026: address_guess = None
+[2026-11-05 19:02:55 UTC]     BOA-0055-2026: address_guess = None
+[2026-11-05 19:02:55 UTC]     BOA-0056-2026: address_guess = None
+[2026-11-05 19:02:55 UTC]     BOA-0057-2026: address_guess = '2504 Kenmore Drive'
+[2026-11-05 19:02:55 UTC]     BOA-0058-2026: address_guess = None
+[2026-11-05 19:02:55 UTC]     BOA-0059-2026: address_guess = None
+[2026-11-05 19:02:56 UTC]     BOA-0060-2026: address_guess = None
+[2026-11-05 19:02:58 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=a43e14ca-fe40-47d2-801e-60e446e7a2da&Agenda=Agenda&lang=English
+[2026-11-05 19:03:02 UTC]     No development cases found on this agenda (yet).
+[2026-11-05 19:03:04 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2fb06420-9695-42b1-8fc1-71ac7615cabe&Agenda=Agenda&lang=English
+[2026-11-05 19:03:08 UTC]     No development cases found on this agenda (yet).
+[2026-11-05 19:03:10 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=0367982d-ebe0-4cb1-b782-8f000ccbaa09&Agenda=Agenda&lang=English
+[2026-11-05 19:03:14 UTC]     No development cases found on this agenda (yet).
+[2026-11-05 19:03:16 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=c61fab03-e48a-4dbc-9435-fa7d7228f1d1&Agenda=Agenda&lang=English
+[2026-11-05 19:03:20 UTC]     No development cases found on this agenda (yet).
+[2026-11-05 19:03:22 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=94af7ebc-66e5-4a8f-8774-bb9aa8729e5f&Agenda=Agenda&lang=English
+[2026-11-05 19:03:26 UTC]     No development cases found on this agenda (yet).
+[2026-11-05 19:03:28 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1b7c415c-1d85-4c82-a763-438904d74bde&Agenda=Agenda&lang=English
+[2026-11-05 19:03:32 UTC]     No development cases found on this agenda (yet).
+[2026-11-05 19:03:34 UTC] Checking committee: City Council
+[2026-11-05 19:03:39 UTC]   Found 12 meeting link(s) total, 0 new, 0 recheck(s).
+[2026-11-05 19:03:39 UTC] Checking committee: Planning Commission
+[2026-11-05 19:03:46 UTC]   Found 30 meeting link(s) total, 18 new, 0 recheck(s).
+[2026-11-05 19:03:46 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=9bca22fc-7b8d-4da4-89a1-2ed9c8f5302b&Agenda=Agenda&lang=English
+[2026-11-05 19:03:50 UTC]     TC-03-26: address_guess = None
+[2026-11-05 19:03:50 UTC]     TC-06-26: address_guess = None
+[2026-11-05 19:03:52 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=75f2fb47-8d2a-4617-8471-8d7406d43844&Agenda=Agenda&lang=English
+[2026-11-05 19:03:57 UTC]     Z-23-26: address_guess = None
+[2026-11-05 19:03:57 UTC]     Z-25-26: address_guess = None
+[2026-11-05 19:03:57 UTC]     Z-32-26: address_guess = None
+[2026-11-05 19:03:59 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=6b36dfab-92ce-4140-b646-5ed49a9167ac&Agenda=Agenda&lang=English
+[2026-11-05 19:04:11 UTC]     TC-05-26: address_guess = None
+[2026-11-05 19:04:12 UTC]     Z-28-26: address_guess = None
+[2026-11-05 19:04:12 UTC]     Z-30-26: address_guess = None
+[2026-11-05 19:04:12 UTC]     Z-13-26: address_guess = None
+[2026-11-05 19:04:12 UTC]     Z-04-26: address_guess = None
+[2026-11-05 19:04:14 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=3e185173-418d-4c7a-bb46-4256434e2284&Agenda=Agenda&lang=English
+[2026-11-05 19:04:18 UTC]     Z-21-26: address_guess = '2905 Hodge Road'
+[2026-11-05 19:04:20 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=b33bb996-f9c4-4591-8b24-024c4fe7439d&Agenda=Agenda&lang=English
+[2026-11-05 19:04:24 UTC]     TC-04-26: address_guess = None
+[2026-11-05 19:04:24 UTC]     Z-15-26: address_guess = '7600 Falls of Neuse Road'
+[2026-11-05 19:04:24 UTC]     Z-22-26: address_guess = '417 Bragg Street'
+[2026-11-05 19:04:26 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=ba277b00-7138-4bd3-9091-7d2602a925c7&Agenda=Agenda&lang=English
+[2026-11-05 19:04:39 UTC]     Z-43-25: address_guess = '6309 Litchford Road'
+[2026-11-05 19:04:39 UTC]     Z-50-25: address_guess = '2321 Capital Boulevard'
+[2026-11-05 19:04:39 UTC]     Z-56-25: address_guess = '4020 Carya Drive'
+[2026-11-05 19:04:39 UTC]     Z-07-26: address_guess = '3911 Western Boulevard'
+[2026-11-05 19:04:39 UTC]     Z-17-26: address_guess = '5511 Hillsborough Street'
+[2026-11-05 19:04:39 UTC]     Z-19-26: address_guess = '3717 Edwards Mill Road'
+[2026-11-05 19:04:39 UTC]     Z-21-26: address_guess = '2905 Hodge Road'
+[2026-11-05 19:04:41 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=e3394c15-4ac7-4fff-8bdc-cc7c18282718&Agenda=Agenda&lang=English
+[2026-11-05 19:04:45 UTC]     Z-54-25: address_guess = '7652 Leesville Road'
+[2026-11-05 19:04:45 UTC]     Z-08-26: address_guess = '5605 Rock Quarry Road'
+[2026-11-05 19:04:45 UTC]     Z-43-25: address_guess = '6309 Litchford Road'
+[2026-11-05 19:04:45 UTC]     CP-01-26: address_guess = '400 daily trips on Old Crews Road'
+[2026-11-05 19:04:45 UTC]     Z-18-26: address_guess = '6918 Poole Road'
+[2026-11-05 19:04:45 UTC]     Z-14-26: address_guess = '1132 Gorman Street'
+[2026-11-05 19:04:45 UTC]     Z-14-16: address_guess = None
+[2026-11-05 19:04:45 UTC]     Z-16-26: address_guess = '309 North Boylan Avenue'
+[2026-11-05 19:04:45 UTC]     Z-16-16: address_guess = '309 N Boylan Avenue'
+[2026-11-05 19:04:47 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=943dc3ee-8d74-417e-9c09-a0268b59f933&Agenda=Agenda&lang=English
+[2026-11-05 19:04:51 UTC]     TC-01-26: address_guess = None
+[2026-11-05 19:04:51 UTC]     Z-51-25: address_guess = '4808 Spring Forest Road'
+[2026-11-05 19:04:51 UTC]     Z-09-26: address_guess = '5925 Glenwood Avenue'
+[2026-11-05 19:04:51 UTC]     Z-19-25: address_guess = '416 Dorothea Drive'
+[2026-11-05 19:04:51 UTC]     Z-08-26: address_guess = '5605 Rock Quarry Road'
+[2026-11-05 19:04:51 UTC]     Z-12-26: address_guess = '6710 Rock Quarry Road'
+[2026-11-05 19:04:53 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=a2dfe2ad-c224-4c0a-9687-cafdf5b17368&Agenda=Agenda&lang=English
+[2026-11-05 19:04:57 UTC]     Z-08-26: address_guess = '5605 Rock Quarry Road'
+[2026-11-05 19:04:57 UTC]     Z-50-24: address_guess = '2245 Garner Road'
+[2026-11-05 19:04:57 UTC]     Z-51-25: address_guess = '4808 Spring Forest Road'
+[2026-11-05 19:04:57 UTC]     Z-54-25: address_guess = '7652 Leesville Road'
+[2026-11-05 19:04:59 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=aa08e6c9-1a85-478b-9fd8-5cf277a18a6d&Agenda=Agenda&lang=English
+[2026-11-05 19:05:04 UTC]     Z-48-25: address_guess = '2810 Blue Ridge Road'
+[2026-11-05 19:05:04 UTC]     Z-57-25: address_guess = '8020 Litchford Road'
+[2026-11-05 19:05:04 UTC]     Z-46-25: address_guess = '523 South West Street'
+[2026-11-05 19:05:04 UTC]     Z-09-26: address_guess = '5925 Glenwood Avenue'
+[2026-11-05 19:05:04 UTC]     Z-11-26: address_guess = '3901 Stratford Court'
+[2026-11-05 19:05:06 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=54ae14d3-9f5f-43f3-9654-7dff23f4a5da&Agenda=Agenda&lang=English
+[2026-11-05 19:05:10 UTC]     TC-01-26: address_guess = None
+[2026-11-05 19:05:10 UTC]     Z-48-25: address_guess = '2810 Blue Ridge Road'
+[2026-11-05 19:05:10 UTC]     Z-05-26: address_guess = '1401 NEW BERN AVE'
+[2026-11-05 19:05:10 UTC]     Z-03-26: address_guess = '617 West Jones Street and 117 Glenwood Avenue'
+[2026-11-05 19:05:10 UTC]     Z-57-25: address_guess = '8020 Litchford Road'
+[2026-11-05 19:05:12 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=e2bc234a-5ab4-4a3d-82a0-f8751ca4929d&Agenda=Agenda&lang=English
+[2026-11-05 19:05:19 UTC]     Z-43-25: address_guess = '6309 Litchford Road'
+[2026-11-05 19:05:19 UTC]     Z-05-26: address_guess = '1401 NEW BERN AVE'
+[2026-11-05 19:05:19 UTC]     Z-02-26: address_guess = '4601 Creedmoor Road'
+[2026-11-05 19:05:19 UTC]     Z-44-25: address_guess = '3904 Jones Ridge Trail'
+[2026-11-05 19:05:21 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=894c2311-821b-4ca9-aeab-b5bd7a9264b9&Agenda=Agenda&lang=English
+[2026-11-05 19:05:28 UTC]     Z-15-25: address_guess = '7800 Battle Bridge Road'
+[2026-11-05 19:05:28 UTC]     Z-39-25: address_guess = '319 Heck St'
+[2026-11-05 19:05:28 UTC]     Z-35-25: address_guess = '7929 Ligon Mill Road'
+[2026-11-05 19:05:28 UTC]     Z-53-25: address_guess = '5601 Six Forks Road'
+[2026-11-05 19:05:30 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=7daea1a5-361e-493f-bbe9-61bb5c956408&Agenda=Agenda&lang=English
+[2026-11-05 19:05:34 UTC]     Z-38-25: address_guess = '1100 Trailwood Drive'
+[2026-11-05 19:05:34 UTC]     Z-15-25: address_guess = '7800 Battle Bridge Road'
+[2026-11-05 19:05:34 UTC]     Z-39-25: address_guess = '319 Heck St'
+[2026-11-05 19:05:34 UTC]     Z-43-25: address_guess = '6309 Litchford Road'
+[2026-11-05 19:05:34 UTC]     Z-52-25: address_guess = '3470 Blue Ridge Road'
+[2026-11-05 19:05:34 UTC]     Z-01-26: address_guess = '307 W Martin Street'
+[2026-11-05 19:05:36 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=6b3443c3-ee2a-48da-a1e0-9df7cbba753c&Agenda=Agenda&lang=English
+[2026-11-05 19:05:40 UTC]     CP-01-25: address_guess = '4111 Macon Pond Road'
+[2026-11-05 19:05:40 UTC]     Z-49-25: address_guess = '319 S King Charles Rd'
+[2026-11-05 19:05:40 UTC]     Z-36-25: address_guess = '3703 Page Road'
+[2026-11-05 19:05:40 UTC]     Z-38-25: address_guess = '1100 Trailwood Drive'
+[2026-11-05 19:05:40 UTC]     Z-45-25: address_guess = '1507 Trailwood Drive'
+[2026-11-05 19:05:40 UTC]     Z-47-25: address_guess = '1523 Crest Road'
+[2026-11-05 19:05:42 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=da4c9981-aa82-4c2c-ab9c-d05671bf4965&Agenda=Agenda&lang=English
+[2026-11-05 19:05:46 UTC]     Z-14-25: address_guess = '2211, 2221, and 2231 S New Hope Rd'
+[2026-11-05 19:05:46 UTC]     Z-29-25: address_guess = '1116 and 1126 Trailwood Drive'
+[2026-11-05 19:05:46 UTC]     Z-31-25: address_guess = '516 North Blount Street'
+[2026-11-05 19:05:46 UTC]     Z-37-25: address_guess = 'Multiple addresses along Avent Ferry Road, Broadwell'
+[2026-11-05 19:05:46 UTC]     Z-40-25: address_guess = '831 Wake Forest Road'
+[2026-11-05 19:05:46 UTC]     CP-01-25: address_guess = '4111 Macon Pond Road'
+[2026-11-05 19:05:46 UTC]     Z-42-25: address_guess = '2936 Hodge Road'
+[2026-11-05 19:05:46 UTC]     Z-49-25: address_guess = '319 S King Charles Rd'
+[2026-11-05 19:05:48 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=74fc1a06-8253-41e1-bd3f-0d25f66871ce&Agenda=Agenda&lang=English
+[2026-11-05 19:05:52 UTC]     No development cases found on this agenda (yet).
+[2026-11-05 19:05:54 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=9952c46f-a432-4169-8b3b-b04754bdf069&Agenda=Agenda&lang=English
+[2026-11-05 19:05:58 UTC]     Z-29-25: address_guess = '1116 and 1126 Trailwood Drive'
+[2026-11-05 19:05:58 UTC]     Z-40-25: address_guess = '831 Wake Forest Road'
+[2026-11-05 19:05:58 UTC]     Z-14-25: address_guess = '2211, 2221, and 2231 S New Hope Rd'
+[2026-11-05 19:05:58 UTC]     Z-37-25: address_guess = 'Multiple addresses along Avent Ferry Road, Broadwell'
+[2026-11-05 19:06:00 UTC] Checking committee: Planning Commission
+[2026-11-05 19:06:06 UTC]   Found 21 meeting link(s) total, 9 new, 0 recheck(s).
+[2026-11-05 19:06:06 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=244eab6e-445b-4e5d-8027-d804c11ccb79&Agenda=Agenda&lang=English
+[2026-11-05 19:06:10 UTC]     Z-31-25: address_guess = '516 North Blount Street'
+[2026-11-05 19:06:10 UTC]     Z-14-25: address_guess = '2211, 2221, and 2231 S New Hope Rd'
+[2026-11-05 19:06:10 UTC]     Z-37-25: address_guess = 'Multiple addresses along Avent Ferry Road, Broadwell'
+[2026-11-05 19:06:10 UTC]     Z-27-25: address_guess = '725 Grove Ave'
+[2026-11-05 19:06:12 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1636f63e-f691-4991-99f4-4215b16cca8f&Agenda=Agenda&lang=English
+[2026-11-05 19:06:24 UTC]     Z-29-25: address_guess = '1116 and 1126 Trailwood Drive'
+[2026-11-05 19:06:26 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=36c2b5af-5327-412b-8dc1-809e5db969b8&Agenda=Agenda&lang=English
+[2026-11-05 19:06:33 UTC]     Z-26-25: address_guess = '12009 Leesville Road'
+[2026-11-05 19:06:34 UTC]     TC-01-25: address_guess = None
+[2026-11-05 19:06:34 UTC]     Z-33-25: address_guess = '2806 Gresham Lake Road'
+[2026-11-05 19:06:34 UTC]     Z-34-25: address_guess = '4220 Lassiter Mill Road'
+[2026-11-05 19:06:36 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=34cf3a07-a6c2-4e1d-85a4-07b21c23d8b2&Agenda=Agenda&lang=English
+[2026-11-05 19:06:43 UTC]     Z-20-25: address_guess = None
+[2026-11-05 19:06:44 UTC]     TC-03-24: address_guess = None
+[2026-11-05 19:06:44 UTC]     TC-01-25: address_guess = None
+[2026-11-05 19:06:44 UTC]     Z-31-25: address_guess = '516 North Blount Street'
+[2026-11-05 19:06:44 UTC]     Z-32-25: address_guess = None
+[2026-11-05 19:06:46 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=550dd1cd-9b14-455c-a89d-3fca19a3da60&Agenda=Agenda&lang=English
+[2026-11-05 19:06:53 UTC]     Z-26-25: address_guess = '12009 Leesville Road'
+[2026-11-05 19:06:53 UTC]     Z-27-25: address_guess = '725 Grove Ave'
+[2026-11-05 19:06:53 UTC]     Z-28-25: address_guess = '2126 Sanderford Road'
+[2026-11-05 19:06:53 UTC]     Z-30-25: address_guess = '2816 Hodge Road'
+[2026-11-05 19:06:55 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=9731c98a-050e-4b83-874d-40544800b030&Agenda=Agenda&lang=English
+[2026-11-05 19:07:07 UTC]     TC-03-24: address_guess = None
+[2026-11-05 19:07:07 UTC]     Z-09-25: address_guess = '4500 Western Boulevard'
+[2026-11-05 19:07:07 UTC]     Z-23-25: address_guess = '1602 Gorman Street'
+[2026-11-05 19:07:07 UTC]     Z-25-25: address_guess = '101 N. Bloodworth Street'
+[2026-11-05 19:07:07 UTC]     Z-25-2025: address_guess = '101 N. Bloodworth St'
+[2026-11-05 19:07:09 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=b438e04b-e91a-4092-ac26-d491f83f59e0&Agenda=Agenda&lang=English
+[2026-11-05 19:07:22 UTC]     TC-03-25: address_guess = None
+[2026-11-05 19:07:22 UTC]     Z-11-25: address_guess = '2230 South New Hope Road'
+[2026-11-05 19:07:22 UTC]     Z-18-25: address_guess = '5209 Kyle Drive'
+[2026-11-05 19:07:22 UTC]     Z-18-2025: address_guess = '5209 Kyle Drive'
+[2026-11-05 19:07:22 UTC]     Z-13-25: address_guess = '3219 Poole Road'
+[2026-11-05 19:07:22 UTC]     Z-17-25: address_guess = '5401 and 5419 Louisburg Road'
+[2026-11-05 19:07:24 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=c88c5123-57c0-49fe-99e1-d5b949fa29f2&Agenda=Agenda&lang=English
+[2026-11-05 19:07:31 UTC]     Z-08-25: address_guess = '1011 Cross Link Road'
+[2026-11-05 19:07:31 UTC]     Z-08-2025: address_guess = '1011 Cross Link Road'
+[2026-11-05 19:07:31 UTC]     Z-16-25: address_guess = '6100 Creedmoor Road'
+[2026-11-05 19:07:31 UTC]     Z-16-2025: address_guess = '6100 Creedmoor Road'
+[2026-11-05 19:07:31 UTC]     Z-22-25: address_guess = '3101 Watkins Town Road'
+[2026-11-05 19:07:31 UTC]     Z-22-2025: address_guess = '3101 Watkins Town Road'
+[2026-11-05 19:07:31 UTC]     Z-05-25: address_guess = '3027 Rock Quarry Rd'
+[2026-11-05 19:07:31 UTC]     Z-11-25: address_guess = '2230 South New Hope Road'
+[2026-11-05 19:07:31 UTC]     Z-13-25: address_guess = '3219 Poole Road'
+[2026-11-05 19:07:33 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2d1be3b2-1e5d-454a-b086-b2f4d00209d3&Agenda=Agenda&lang=English
+[2026-11-05 19:07:40 UTC]     Z-13-24: address_guess = '1811 S. New Hope Road'
+[2026-11-05 19:07:40 UTC]     Z-51-24: address_guess = '9308 Fairbanks Drive'
+[2026-11-05 19:07:40 UTC]     Z-10-25: address_guess = '8125 Leesville Rd'
+[2026-11-05 19:07:40 UTC]     Z-12-25: address_guess = None
+[2026-11-05 19:07:42 UTC] Checking committee: Board of Adjustment
+[2026-11-05 19:07:48 UTC]   Found 23 meeting link(s) total, 11 new, 0 recheck(s).
+[2026-11-05 19:07:48 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1cc54405-f129-4e50-967a-637176971e25&Agenda=Agenda&lang=English
+[2026-11-05 19:07:52 UTC]     BOA-0021-2026: address_guess = '3513 Garner Road'
+[2026-11-05 19:07:52 UTC]     BOA-0050-2026: address_guess = '3211 Bramer Drive'
+[2026-11-05 19:07:52 UTC]     BOA-0026-2026: address_guess = '2406 Fairview Road'
+[2026-11-05 19:07:52 UTC]     BOA-0032-2026: address_guess = None
+[2026-11-05 19:07:52 UTC]     BOA-0039-2026: address_guess = None
+[2026-11-05 19:07:53 UTC]     BOA-0051-2026: address_guess = None
+[2026-11-05 19:07:53 UTC]     BOA-0054-2026: address_guess = None
+[2026-11-05 19:07:55 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=86e13702-e783-4052-95c5-9292d6062c47&Agenda=Agenda&lang=English
+[2026-11-05 19:07:59 UTC]     BOA-0034-2026: address_guess = '4125 Windsor Place'
+[2026-11-05 19:07:59 UTC]     BOA-0041-2026: address_guess = '2010 Martin Luther King Jr. Boulevard'
+[2026-11-05 19:07:59 UTC]     BOA-0040-2026: address_guess = '2010 Martin Luther King Jr Blvd'
+[2026-11-05 19:07:59 UTC]     BOA-0046-2026: address_guess = '300 Polly Street'
+[2026-11-05 19:07:59 UTC]     BOA-0049-2026: address_guess = '7130 Blue Run Lane'
+[2026-11-05 19:07:59 UTC]     BOA-0047-2026: address_guess = '405 Ramblewood Drive'
+[2026-11-05 19:07:59 UTC]     BOA-0044-2026: address_guess = '8005 Capital Boulevard'
+[2026-11-05 19:08:01 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=982568d5-bd50-4623-8afa-683faf33bf95&Agenda=Agenda&lang=English
+[2026-11-05 19:08:05 UTC]     BOA-0002-2026: address_guess = '2716 Townedge Court'
+[2026-11-05 19:08:05 UTC]     BOA-0042-2026: address_guess = '1930 Wake Forest Road'
+[2026-11-05 19:08:05 UTC]     BOA-0050-2026: address_guess = '3211 Bramer Drive'
+[2026-11-05 19:08:05 UTC]     BOA-0036-2026: address_guess = '7800 Battle Bridge Road'
+[2026-11-05 19:08:05 UTC]     BOA-0037-2026: address_guess = '2504 Kenmore Drive'
+[2026-11-05 19:08:05 UTC]     BOA-0038-2026: address_guess = '2617 Avent Ferry Road'
+[2026-11-05 19:08:07 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d531cc22-a92d-4e08-bde1-db8564bc2c92&Agenda=Agenda&lang=English
+[2026-11-05 19:08:11 UTC]     BOA-0002-2026: address_guess = '2716 Townedge Court'
+[2026-11-05 19:08:11 UTC]     BOA-0034-2026: address_guess = '4125 Windsor Place'
+[2026-11-05 19:08:11 UTC]     BOA-0023-2026: address_guess = '328 Chavis Way'
+[2026-11-05 19:08:11 UTC]     BOA-0026-2026: address_guess = '2406 Fairview Road'
+[2026-11-05 19:08:11 UTC]     BOA-0029-2026: address_guess = '200 Diversity Way'
+[2026-11-05 19:08:11 UTC]     BOA-0030-2026: address_guess = '1501 Duplin Road'
+[2026-11-05 19:08:11 UTC]     BOA-0031-2026: address_guess = '724 Wilson Street'
+[2026-11-05 19:08:11 UTC]     BOA-0033-2026: address_guess = '4548 Dilford Drive'
+[2026-11-05 19:08:13 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=db283bb2-a195-4352-9442-9880e0abedab&Agenda=Agenda&lang=English
+[2026-11-05 19:08:17 UTC]     BOA-0039-2025: address_guess = '6809 Sandy Forks Road'
+[2026-11-05 19:08:17 UTC]     BOA-0002-2026: address_guess = '2716 Townedge Court'
+[2026-11-05 19:08:17 UTC]     BOA-0021-2026: address_guess = '3513 Garner Road'
+[2026-11-05 19:08:17 UTC]     BOA-0023-2026: address_guess = '328 Chavis Way'
+[2026-11-05 19:08:17 UTC]     BOA-0024-2026: address_guess = '1341 Courtland Drive'
+[2026-11-05 19:08:17 UTC]     BOA-0027-2026: address_guess = '1337 Courtland Drive'
+[2026-11-05 19:08:17 UTC]     BOA-0028-2026: address_guess = '1335 Courtland Drive'
+[2026-11-05 19:08:19 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=0609e990-a9b8-4ae0-a803-54a4334a7afc&Agenda=Agenda&lang=English
+[2026-11-05 19:08:23 UTC]     BOA-0002-2026: address_guess = '2716 Townedge Court'
+[2026-11-05 19:08:23 UTC]     BOA-0010-2026: address_guess = '3313 Dogwood Drive'
+[2026-11-05 19:08:23 UTC]     BOA-0015-2026: address_guess = '1110 Holmes Street'
+[2026-11-05 19:08:23 UTC]     BOA-0017-2026: address_guess = '1110 Holmes Street'
+[2026-11-05 19:08:23 UTC]     BOA-0016-2026: address_guess = '215 Lord Berkley Road'
+[2026-11-05 19:08:23 UTC]     BOA-0018-2026: address_guess = '1701 Oberlin Road'
+[2026-11-05 19:08:24 UTC]     BOA-0019-2026: address_guess = None
+[2026-11-05 19:08:24 UTC]     BOA-0022-2026: address_guess = None
+[2026-11-05 19:08:26 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=8af61b1a-a6e0-4cf6-a073-933fdb4ada92&Agenda=Agenda&lang=English
+[2026-11-05 19:08:30 UTC]     BOA-0039-2025: address_guess = '6809 Sandy Forks Road'
+[2026-11-05 19:08:30 UTC]     BOA-0002-2026: address_guess = '2716 Townedge Court'
+[2026-11-05 19:08:30 UTC]     BOA-0021-2026: address_guess = '3513 Garner Road'
+[2026-11-05 19:08:30 UTC]     BOA-0020-2026: address_guess = '1623 Canterbury Road'
+[2026-11-05 19:08:30 UTC]     BOA-0010-2026: address_guess = '3313 Dogwood Drive'
+[2026-11-05 19:08:30 UTC]     BOA-0011-2026: address_guess = '701 Edmund Street'
+[2026-11-05 19:08:30 UTC]     BOA-0013-2026: address_guess = '7000 Lone Oak Place'
+[2026-11-05 19:08:30 UTC]     BOA-0014-2026: address_guess = '935 Vance Street'
+[2026-11-05 19:08:30 UTC]     BOA-14-2026: address_guess = '935 Vance Street'
+[2026-11-05 19:08:32 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2132769c-2b68-45b9-80fd-4f7a9a91b872&Agenda=Agenda&lang=English
+[2026-11-05 19:08:36 UTC]     BOA-0057-2025: address_guess = '2504 Kenmore Drive'
+[2026-11-05 19:08:36 UTC]     BOA-0001-2026: address_guess = '2500 Oberlin Road'
+[2026-11-05 19:08:36 UTC]     BOA-0002-2026: address_guess = '2716 Townedge Court'
+[2026-11-05 19:08:36 UTC]     BOA-0003-2026: address_guess = '807 Halifax Street'
+[2026-11-05 19:08:36 UTC]     BOA-0004-2026: address_guess = '5410 Thayer Drive'
+[2026-11-05 19:08:36 UTC]     BOA-0005-2026: address_guess = '700 Lakestone Drive'
+[2026-11-05 19:08:36 UTC]     BOA-0006-2026: address_guess = '2611 Churchill Road'
+[2026-11-05 19:08:36 UTC]     BOA-0007-2026: address_guess = '602 E South Street'
+[2026-11-05 19:08:36 UTC]     BOA-0008-2026: address_guess = '321 Martin Luther King Jr. Boulevard'
+[2026-11-05 19:08:36 UTC]     BOA-0009-2026: address_guess = '3839 Jackson Street'
+[2026-11-05 19:08:38 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1c2b273f-637f-4717-aff4-b76fccdea1a1&Agenda=Agenda&lang=English
+[2026-11-05 19:08:42 UTC]     No development cases found on this agenda (yet).
+[2026-11-05 19:08:44 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d40da519-7b3c-46c4-98a1-ff1e0a38646f&Agenda=Agenda&lang=English
+[2026-11-05 19:08:48 UTC]     BOA-0039-2025: address_guess = '6809 Sandy Forks Road'
+[2026-11-05 19:08:48 UTC]     BOA-0055-2025: address_guess = '3323 Cheswick Drive'
+[2026-11-05 19:08:48 UTC]     BOA-0056-2025: address_guess = '2505 Kenmore Drive'
+[2026-11-05 19:08:48 UTC]     BOA-0057-2025: address_guess = '2504 Kenmore Drive'
+[2026-11-05 19:08:48 UTC]     BOA-0057-2026: address_guess = '2504 Kenmore Drive'
+[2026-11-05 19:08:48 UTC]     BOA-0058-2025: address_guess = '6711 Glenwood Avenue'
+[2026-11-05 19:08:48 UTC]     BOA-0059-2025: address_guess = '7900 Old Wake Forest Road'
+[2026-11-05 19:08:50 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=868f43b7-5801-4bc7-8678-733f6db420b2&Agenda=Agenda&lang=English
+[2026-11-05 19:08:54 UTC]     BOA-0039-2025: address_guess = '6809 Sandy Forks Road'
+[2026-11-05 19:08:54 UTC]     BOA-0049-2025: address_guess = '2510 Stafford Avenue'
+[2026-11-05 19:08:54 UTC]     BOA-0045-2025: address_guess = '4101 Reavis Road'
+[2026-11-05 19:08:54 UTC]     BOA-0053-2025: address_guess = '200 Duncan Street'
+[2026-11-05 19:08:54 UTC]     BOA-0054-2025: address_guess = '3425 Rock Quarry Road'
+[2026-11-05 19:08:56 UTC] Checking committee: Board of Adjustment
+[2026-11-05 19:09:01 UTC]   Found 15 meeting link(s) total, 3 new, 0 recheck(s).
+[2026-11-05 19:09:01 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=c20e2071-50d2-4513-8097-43c999600241&Agenda=Agenda&lang=English
+[2026-11-05 19:09:06 UTC]     No development cases found on this agenda (yet).
+[2026-11-05 19:09:08 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=de9d5e79-544e-40a9-9e8d-c7238b5efed6&Agenda=Agenda&lang=English
+[2026-11-05 19:09:12 UTC]     BOA-0037-2025: address_guess = '2713 Crestline Avenue'
+[2026-11-05 19:09:12 UTC]     BOA-0039-2025: address_guess = '6809 Sandy Forks Road'
+[2026-11-05 19:09:12 UTC]     BOA-0040-2025: address_guess = '2308 Grant Avenue and 1401 Chester Road'
+[2026-11-05 19:09:12 UTC]     BOA-0044-2025: address_guess = '1501 New Bern Avenue'
+[2026-11-05 19:09:12 UTC]     BOA-0043-2025: address_guess = '2724 Dahlgreen Road'
+[2026-11-05 19:09:12 UTC]     BOA-0048-2025: address_guess = '1041 Corporation Parkway'
+[2026-11-05 19:09:12 UTC]     BOA-0051-2025: address_guess = '1041 Corporation Parkway'
+[2026-11-05 19:09:12 UTC]     BOA-0049-2025: address_guess = '2510 Stafford Avenue'
+[2026-11-05 19:09:14 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2894656f-8aad-4be6-a898-35b0ea63a3bd&Agenda=Agenda&lang=English
+[2026-11-05 19:09:18 UTC]     BOA-0040-2025: address_guess = '2308 Grant Avenue and 1401 Chester Road'
+[2026-11-05 19:09:18 UTC]     BOA-0037-2025: address_guess = '2713 Crestline Avenue'
+[2026-11-05 19:09:18 UTC]     BOA-0039-2025: address_guess = '6809 Sandy Forks Road'
+[2026-11-05 19:09:18 UTC]     BOA-0050-2025: address_guess = '516 N Blount Street'
+[2026-11-05 19:09:18 UTC]     BOA-0044-2025: address_guess = '1501 New Bern Avenue'
+[2026-11-05 19:09:20 UTC] Checking committee: Design Review Commission
+[2026-11-05 19:09:25 UTC]   Found 29 meeting link(s) total, 17 new, 0 recheck(s).
+[2026-11-05 19:09:25 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=83f06108-b5d3-43d1-ab68-37f3754ba603&Agenda=Agenda&lang=English
+[2026-11-05 19:09:30 UTC]     DA-09-2026: address_guess = '0 Lassiter Mill Rd'
+[2026-11-05 19:09:30 UTC]     DA-11-2026: address_guess = None
+[2026-11-05 19:09:32 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=f1db78ef-f717-4137-a4e2-4359e7508933&Agenda=Agenda&lang=English
+[2026-11-05 19:09:36 UTC]     No development cases found on this agenda (yet).
+[2026-11-05 19:09:38 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=392b3b42-a3e7-40d4-bb7d-9bb3564bba6c&Agenda=Agenda&lang=English
+[2026-11-05 19:09:42 UTC]     No development cases found on this agenda (yet).
+[2026-11-05 19:09:44 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=3e06c2c9-0b51-4436-8e5f-fc0208137f69&Agenda=Agenda&lang=English
+[2026-11-05 19:09:48 UTC]     DA-09-2026: address_guess = '0 Lassiter Mill Rd'
+[2026-11-05 19:09:50 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=54b4a5e1-01eb-4a49-bde9-264a9afb5296&Agenda=Agenda&lang=English
+[2026-11-05 19:09:54 UTC]     No development cases found on this agenda (yet).
+[2026-11-05 19:09:56 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=82a56337-582a-4c8a-9132-e3bb45faa200&Agenda=Agenda&lang=English
+[2026-11-05 19:10:00 UTC]     DA-06-2026: address_guess = '406 Dorothea Drive'
+[2026-11-05 19:10:00 UTC]     DA-07-2026: address_guess = '500 Avian at North Hills Street'
+[2026-11-05 19:10:00 UTC]     DA-08-2026: address_guess = '910 Birch Ridge Road'
+[2026-11-05 19:10:02 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=10c76b60-0972-4b49-9459-25ef34e51ebc&Agenda=Agenda&lang=English
+[2026-11-05 19:10:06 UTC]     No development cases found on this agenda (yet).
+[2026-11-05 19:10:08 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=a373b688-bdef-4469-a13c-36a933233f9d&Agenda=Agenda&lang=English
+[2026-11-05 19:10:12 UTC]     DA-06-2026: address_guess = '406 Dorothea Drive'
+[2026-11-05 19:10:14 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=95575cc4-3cd0-425f-8c71-270f327a4596&Agenda=Agenda&lang=English
+[2026-11-05 19:10:18 UTC]     No development cases found on this agenda (yet).
+[2026-11-05 19:10:20 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=189e825f-2892-4ab4-a7aa-936ed08d8c3b&Agenda=Agenda&lang=English
+[2026-11-05 19:10:24 UTC]     DA-02-2026: address_guess = 'Northeast side of Glenwood Avenue'
+[2026-11-05 19:10:24 UTC]     DA-03-2026: address_guess = 'North of I-440, bisected by Navaho Drive'
+[2026-11-05 19:10:24 UTC]     DA-05-2026: address_guess = '150 foot required per Raleigh Street'
+[2026-11-05 19:10:26 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=3ea3c008-33ec-4a6d-8576-144f041353af&Agenda=Agenda&lang=English
+[2026-11-05 19:10:30 UTC]     No development cases found on this agenda (yet).
+[2026-11-05 19:10:32 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=87b0b3d2-bdbc-4185-a4ce-876153d6454e&Agenda=Agenda&lang=English
+[2026-11-05 19:10:36 UTC]     No development cases found on this agenda (yet).
+[2026-11-05 19:10:38 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=b30985ac-573a-47dc-b4e2-ef85970578db&Agenda=Agenda&lang=English
+[2026-11-05 19:10:42 UTC]     No development cases found on this agenda (yet).
+[2026-11-05 19:10:44 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=5ba87fbc-2e59-4a58-8535-35659133ebec&Agenda=Agenda&lang=English
+[2026-11-05 19:10:48 UTC]     DA-01-2026: address_guess = 'Southwest corner of Cabarrus Street and S McDowell Street'
+[2026-11-05 19:10:50 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1ad81101-faf3-4b04-bc2c-3e4dbb70b6e2&Agenda=Agenda&lang=English
+[2026-11-05 19:10:55 UTC]     No development cases found on this agenda (yet).
+[2026-11-05 19:10:57 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2c5e08d8-4662-4c96-b59e-a8cfb78c383b&Agenda=Agenda&lang=English
+[2026-11-05 19:11:01 UTC]     DA-14-2025: address_guess = 'East side of Hargrove Road, south of Spring Forest Road'
+[2026-11-05 19:11:01 UTC]     DA-15-2025: address_guess = 'West side of Birch Ridge Road, south of Poole Road'
+[2026-11-05 19:11:03 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=43a12b53-e07b-4c9d-a776-7fd6c8ea5dbd&Agenda=Agenda&lang=English
+[2026-11-05 19:11:07 UTC]     No development cases found on this agenda (yet).
+[2026-11-05 19:11:09 UTC] Checking committee: Design Review Commission
+[2026-11-05 19:11:14 UTC]   Found 16 meeting link(s) total, 4 new, 0 recheck(s).
+[2026-11-05 19:11:14 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1fcbb5be-d1d6-4f31-a544-6f2a8bb61209&Agenda=Agenda&lang=English
+[2026-11-05 19:11:18 UTC]     No development cases found on this agenda (yet).
+[2026-11-05 19:11:20 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=8a4af166-bb53-4957-bff5-0f62f3e09375&Agenda=Agenda&lang=English
+[2026-11-05 19:11:30 UTC]     DA-09-2025: address_guess = '2340 Compassionate Drive'
+[2026-11-05 19:11:30 UTC]     DA-11-2025: address_guess = '8415 Honeycutt Road'
+[2026-11-05 19:11:30 UTC]     DA-11-25: address_guess = None
+[2026-11-05 19:11:30 UTC]     DA-12-2025: address_guess = '10856 Globe Road'
+[2026-11-05 19:11:30 UTC]     DA-13-2025: address_guess = '10100 Lumley Road'
+[2026-11-05 19:11:32 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=80eb26b9-5bd8-4891-a024-856840d5b907&Agenda=Agenda&lang=English
+[2026-11-05 19:11:36 UTC]     DA-05-2025: address_guess = '2030 Comprehensive Plan. The street'
+[2026-11-05 19:11:38 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=b8cda209-88de-4a4b-8795-4583b62e0e06&Agenda=Agenda&lang=English
+[2026-11-05 19:11:45 UTC]     DA-08-2025: address_guess = '6011 Chapel Hill Rd'
+[2026-11-05 19:11:45 UTC]     DA-09-2025: address_guess = '2340 Compassionate Drive'
+[2026-11-05 19:11:47 UTC] === Run finished. 50 meeting(s) processed total, 24 awaiting an agenda, 186 case(s) in store, 8 new this run. ===
+
