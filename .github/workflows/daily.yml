@@ -2,14 +2,11 @@ name: Daily Raleigh scrape
 
 on:
   schedule:
-    # 11:00 UTC ≈ 6-7am Eastern depending on daylight saving. Cron doesn't
-    # follow DST, so this will drift by an hour twice a year -- not worth
-    # worrying about for a daily background job.
     - cron: '0 11 * * *'
-  workflow_dispatch: {}  # lets you trigger a run manually from the Actions tab
+  workflow_dispatch: {}
 
 permissions:
-  contents: write  # needed so the workflow can commit updated data back to the repo
+  contents: write
 
 jobs:
   scrape:
@@ -37,21 +34,34 @@ jobs:
           GEOAPIFY_API_KEY: ${{ secrets.GEOAPIFY_API_KEY }}
         run: python3 01_geocode_new.py
 
+      - name: Check official case status
+        continue-on-error: true
+        run: python3 04_check_status.py
+
       - name: Build map
         run: python3 02_build_map.py
 
       - name: Send email digest for new cases
-        continue-on-error: true  # don't let an email hiccup block the map from deploying
+        continue-on-error: true
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           DIGEST_TO_EMAIL: ${{ secrets.DIGEST_TO_EMAIL }}
           GEOAPIFY_API_KEY: ${{ secrets.GEOAPIFY_API_KEY }}
         run: python3 03_send_digest.py
 
+      - name: Notify public subscribers
+        continue-on-error: true
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          GEOAPIFY_API_KEY: ${{ secrets.GEOAPIFY_API_KEY }}
+          DIGEST_FROM_EMAIL: alerts@raleighdevelopmenttracker.com
+          UNSUBSCRIBE_MAILTO: ${{ secrets.DIGEST_TO_EMAIL }}
+        run: python3 05_notify_subscribers.py
+
       - name: Commit and push updated data
         run: |
           git config user.name "raleigh-scraper-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/*.json data/pipeline.log docs/
+          git add data/case_store.json data/meetings_seen.json data/geocode_cache.json data/new_this_run.json data/pipeline.log docs/
           git diff --quiet --cached || git commit -m "Automated update: $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
