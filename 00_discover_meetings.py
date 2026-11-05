@@ -2,8 +2,14 @@
 Stage 0: Discover new meetings across tracked committees, and merge any
 newly-found development cases into the persistent case store.
 
-Only processes meetings it hasn't seen before, and merges into
-data/case_store.json rather than overwriting it. Also writes
+A meeting is only marked "seen" (never looked at again) once it has
+actually yielded cases. A meeting that comes back empty is usually one
+whose agenda simply hasn't been published yet -- eSCRIBE lists meetings
+well before their agendas go up -- so those go on a "pending" list and
+are rechecked every few days for a couple of months before we give up
+on them.
+
+Merges into data/case_store.json rather than overwriting it. Also writes
 data/new_this_run.json -- the list of case numbers that were newly
 discovered in this run, which 03_send_digest.py uses to build the email.
 
@@ -21,7 +27,7 @@ Usage:
 
 import json
 import time
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
 from pathlib import Path
 
 from playwright.sync_api import sync_playwright
@@ -42,9 +48,17 @@ PDF_CACHE_DIR = DATA_DIR / "pdfs"
 PDF_CACHE_DIR.mkdir(exist_ok=True)
 
 SEEN_MEETINGS_PATH = DATA_DIR / "meetings_seen.json"
+PENDING_MEETINGS_PATH = DATA_DIR / "meetings_pending.json"
 CASE_STORE_PATH = DATA_DIR / "case_store.json"
 NEW_THIS_RUN_PATH = DATA_DIR / "new_this_run.json"
 LOG_PATH = DATA_DIR / "pipeline.log"
+
+# How long to keep rechecking a meeting that returned no cases, and how
+# often. Rechecking every run would mean re-rendering dozens of empty
+# agenda pages daily; every few days is plenty, since agendas are
+# typically posted days to a couple of weeks before the meeting.
+RECHECK_WINDOW_DAYS = 60
+RECHECK_INTERVAL_DAYS = 3
 
 COMMITTEES = [
     {
@@ -103,6 +117,27 @@ def save_json(path, data):
     path.write_text(json.dumps(data, indent=2), encoding="utf-8")
 
 
+def utc_today():
+    return datetime.now(timezone.utc).date()
+
+
+def should_check(href, seen_meetings, pending, today):
+    """True if this meeting needs to be (re)fetched this run."""
+    if href in seen_meetings:
+        return False
+    info = pending.get(href)
+    if info is None:
+        return True  # never looked at it before
+    try:
+        first = date.fromisoformat(info["first_checked"])
+        last = date.fromisoformat(info["last_checked"])
+    except (KeyError, ValueError):
+        return True  # malformed entry -- safest to just look again
+    if (today - first).days > RECHECK_WINDOW_DAYS:
+        return False  # gave it a fair chance; stop spending time on it
+    return (today - last).days >= RECHECK_INTERVAL_DAYS
+
+
 def merge_case(store, case_number, case_type, documents, committee, meeting_url, run_time, new_case_numbers):
     entry = store.get(case_number)
     if entry is None:
@@ -132,14 +167,16 @@ def merge_case(store, case_number, case_type, documents, committee, meeting_url,
 
 
 def process_meeting(playwright, committee_name, meeting_url, store, run_time, new_case_numbers):
+    """Fetches one meeting's agenda and merges any cases into the store.
+    Returns the number of cases found (0 if the agenda has none yet)."""
     log(f"  Fetching meeting: {meeting_url}")
     html = render_page(playwright, meeting_url)
     links = extract_pdf_links(html)
     cases = group_by_case(links)
 
     if not cases:
-        log(f"    No development cases found on this agenda.")
-        return
+        log(f"    No development cases found on this agenda (yet).")
+        return 0
 
     for case_number, data in cases.items():
         entry = merge_case(
@@ -152,14 +189,19 @@ def process_meeting(playwright, committee_name, meeting_url, store, run_time, ne
             entry["best_document"] = best_doc
         log(f"    {case_number}: address_guess = {entry.get('address_guess')!r}")
 
+    return len(cases)
+
 
 def main():
     seen_meetings = set(load_json(SEEN_MEETINGS_PATH, []))
+    pending = load_json(PENDING_MEETINGS_PATH, {})
     store = load_json(CASE_STORE_PATH, {})
     run_time = datetime.now(timezone.utc).isoformat()
+    today = utc_today()
     new_case_numbers = set()
 
-    log(f"=== Run started. {len(seen_meetings)} meeting(s) already processed, {len(store)} case(s) in store. ===")
+    log(f"=== Run started. {len(seen_meetings)} meeting(s) already processed, "
+        f"{len(pending)} awaiting an agenda, {len(store)} case(s) in store. ===")
 
     with sync_playwright() as playwright:
         for committee in COMMITTEES:
@@ -171,17 +213,29 @@ def main():
                 continue
 
             meeting_links = extract_meeting_links(listing_html)
-            new_meetings = [m for m in meeting_links if m["href"] not in seen_meetings]
-            log(f"  Found {len(meeting_links)} meeting link(s) total, {len(new_meetings)} new.")
+            to_check = [m for m in meeting_links if should_check(m["href"], seen_meetings, pending, today)]
+            rechecks = sum(1 for m in to_check if m["href"] in pending)
+            log(f"  Found {len(meeting_links)} meeting link(s) total, "
+                f"{len(to_check) - rechecks} new, {rechecks} recheck(s).")
 
-            for meeting in new_meetings:
+            for meeting in to_check:
+                href = meeting["href"]
                 try:
-                    process_meeting(playwright, committee["name"], meeting["href"], store, run_time, new_case_numbers)
+                    case_count = process_meeting(playwright, committee["name"], href, store, run_time, new_case_numbers)
                 except Exception as e:
-                    log(f"  ERROR processing {meeting['href']}: {e}")
-                    continue  # don't mark as seen -- retry next run
-                seen_meetings.add(meeting["href"])
+                    log(f"  ERROR processing {href}: {e}")
+                    continue  # leave state untouched -- retry next run
+
+                if case_count > 0:
+                    seen_meetings.add(href)
+                    pending.pop(href, None)
+                else:
+                    info = pending.get(href) or {"first_checked": today.isoformat()}
+                    info["last_checked"] = today.isoformat()
+                    pending[href] = info
+
                 save_json(SEEN_MEETINGS_PATH, sorted(seen_meetings))
+                save_json(PENDING_MEETINGS_PATH, pending)
                 save_json(CASE_STORE_PATH, store)
                 time.sleep(2)
 
@@ -194,10 +248,12 @@ def main():
             entry["presented_date"] = presented
 
     save_json(SEEN_MEETINGS_PATH, sorted(seen_meetings))
+    save_json(PENDING_MEETINGS_PATH, pending)
     save_json(CASE_STORE_PATH, store)
     save_json(NEW_THIS_RUN_PATH, sorted(new_case_numbers))
 
-    log(f"=== Run finished. {len(seen_meetings)} meeting(s) processed total, {len(store)} case(s) in store, "
+    log(f"=== Run finished. {len(seen_meetings)} meeting(s) processed total, "
+        f"{len(pending)} awaiting an agenda, {len(store)} case(s) in store, "
         f"{len(new_case_numbers)} new this run. ===\n")
 
 
