@@ -2780,3 +2780,29 @@
 [2026-11-05 19:11:45 UTC]     DA-09-2025: address_guess = '2340 Compassionate Drive'
 [2026-11-05 19:11:47 UTC] === Run finished. 50 meeting(s) processed total, 24 awaiting an agenda, 186 case(s) in store, 8 new this run. ===
 
+[2026-11-06 18:00:39 UTC] === Run started. 50 meeting(s) already processed, 24 awaiting an agenda, 186 case(s) in store. ===
+[2026-11-06 18:00:40 UTC] Checking committee: City Council
+[2026-11-06 18:00:45 UTC]   Found 11 meeting link(s) total, 3 new, 0 recheck(s).
+[2026-11-06 18:00:45 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=e06c4d85-f4a2-473b-80e0-08fdeb5d13c5&Agenda=Agenda&lang=English
+[2026-11-06 18:00:50 UTC]     Z-24-26: address_guess = None
+[2026-11-06 18:00:51 UTC]     Z-36-26: address_guess = None
+[2026-11-06 18:00:53 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d997e167-d9b3-4e8f-9934-062fcff5d2c3&Agenda=Agenda&lang=English
+[2026-11-06 18:00:57 UTC]     No development cases found on this agenda (yet).
+[2026-11-06 18:00:59 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=113c9ea8-85a3-475e-93d7-28906fc35dbc&Agenda=Agenda&lang=English
+[2026-11-06 18:01:03 UTC]     No development cases found on this agenda (yet).
+[2026-11-06 18:01:05 UTC] Checking committee: City Council
+[2026-11-06 18:01:10 UTC]   Found 11 meeting link(s) total, 0 new, 0 recheck(s).
+[2026-11-06 18:01:10 UTC] Checking committee: Planning Commission
+[2026-11-06 18:01:16 UTC]   Found 29 meeting link(s) total, 0 new, 0 recheck(s).
+[2026-11-06 18:01:16 UTC] Checking committee: Planning Commission
+[2026-11-06 18:01:21 UTC]   Found 20 meeting link(s) total, 0 new, 0 recheck(s).
+[2026-11-06 18:01:21 UTC] Checking committee: Board of Adjustment
+[2026-11-06 18:01:27 UTC]   Found 22 meeting link(s) total, 0 new, 0 recheck(s).
+[2026-11-06 18:01:27 UTC] Checking committee: Board of Adjustment
+[2026-11-06 18:01:32 UTC]   Found 14 meeting link(s) total, 0 new, 0 recheck(s).
+[2026-11-06 18:01:32 UTC] Checking committee: Design Review Commission
+[2026-11-06 18:01:38 UTC]   Found 29 meeting link(s) total, 0 new, 0 recheck(s).
+[2026-11-06 18:01:38 UTC] Checking committee: Design Review Commission
+[2026-11-06 18:01:43 UTC]   Found 15 meeting link(s) total, 0 new, 0 recheck(s).
+[2026-11-06 18:01:43 UTC] === Run finished. 51 meeting(s) processed total, 26 awaiting an agenda, 188 case(s) in store, 2 new this run. ===
+
