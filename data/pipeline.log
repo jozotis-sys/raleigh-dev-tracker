@@ -2911,3 +2911,26 @@
 [2026-11-09 21:18:39 UTC]   Found 16 meeting link(s) total, 0 new, 0 recheck(s).
 [2026-11-09 21:18:39 UTC] === Run finished. 51 meeting(s) processed total, 27 awaiting an agenda, 188 case(s) in store, 0 new this run. ===
 
+[2026-11-10 18:28:46 UTC] === Run started. 51 meeting(s) already processed, 27 awaiting an agenda, 188 case(s) in store. ===
+[2026-11-10 18:28:47 UTC] Checking committee: City Council
+[2026-11-10 18:28:55 UTC]   Found 11 meeting link(s) total, 1 new, 1 recheck(s).
+[2026-11-10 18:28:55 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=5d5339f6-e7ec-4471-b577-e7fcdf4fd30c&Agenda=Agenda&lang=English
+[2026-11-10 18:28:59 UTC]     No development cases found on this agenda (yet).
+[2026-11-10 18:29:01 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=ea1c6500-772f-468f-8445-e9485abf5f75&Agenda=Agenda&lang=English
+[2026-11-10 18:29:05 UTC]     No development cases found on this agenda (yet).
+[2026-11-10 18:29:07 UTC] Checking committee: City Council
+[2026-11-10 18:29:13 UTC]   Found 11 meeting link(s) total, 0 new, 0 recheck(s).
+[2026-11-10 18:29:13 UTC] Checking committee: Planning Commission
+[2026-11-10 18:29:19 UTC]   Found 29 meeting link(s) total, 0 new, 0 recheck(s).
+[2026-11-10 18:29:19 UTC] Checking committee: Planning Commission
+[2026-11-10 18:29:25 UTC]   Found 20 meeting link(s) total, 0 new, 0 recheck(s).
+[2026-11-10 18:29:25 UTC] Checking committee: Board of Adjustment
+[2026-11-10 18:29:31 UTC]   Found 23 meeting link(s) total, 0 new, 0 recheck(s).
+[2026-11-10 18:29:31 UTC] Checking committee: Board of Adjustment
+[2026-11-10 18:29:36 UTC]   Found 14 meeting link(s) total, 0 new, 0 recheck(s).
+[2026-11-10 18:29:36 UTC] Checking committee: Design Review Commission
+[2026-11-10 18:29:42 UTC]   Found 29 meeting link(s) total, 0 new, 0 recheck(s).
+[2026-11-10 18:29:42 UTC] Checking committee: Design Review Commission
+[2026-11-10 18:29:48 UTC]   Found 15 meeting link(s) total, 0 new, 0 recheck(s).
+[2026-11-10 18:29:48 UTC] === Run finished. 51 meeting(s) processed total, 28 awaiting an agenda, 188 case(s) in store, 0 new this run. ===
+
