@@ -20,10 +20,10 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=16599",
       "text": "PLANDEV - AX-17-26 - 2026-780.pdf"
     },
-    "official_status": "APPROVED",
-    "official_status_display": "Approved 09/15/26",
-    "official_status_date": "09/15/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-56-25": {
     "case_number": "Z-56-25",
@@ -75,10 +75,10 @@
       "text": "PLANDEV - Z-56-25 - 2026-875.pdf"
     },
     "formatted_address": "4020 Carya Drive, Raleigh, NC 27610, United States of America",
-    "official_status": "APPROVED",
-    "official_status_display": "Approved 10/20/26",
-    "official_status_date": "10/20/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-08-11"
   },
   "Z-43-25": {
@@ -171,10 +171,10 @@
       "text": "PLANDEV \u2013 Z-43-25 - 2026-877.pdf"
     },
     "formatted_address": "6309 Litchford Road, Raleigh, NC 27615, United States of America",
-    "official_status": "DENIED",
-    "official_status_display": "Denied 10/06/26",
-    "official_status_date": "10/06/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-03-10"
   },
   "Z-50-25": {
@@ -215,10 +215,10 @@
       "text": "PLANDEV \u2013 Z-50-25 - 2026-878.pdf"
     },
     "formatted_address": "2321 Capital Boulevard, Raleigh, NC 27604, United States of America",
-    "official_status": "APPROVED",
-    "official_status_display": "Approved 10/06/26",
-    "official_status_date": "10/06/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-08-11"
   },
   "Z-07-26": {
@@ -259,10 +259,10 @@
       "text": "PLANDEV - Z-07-26 - 2026-884.pdf"
     },
     "formatted_address": "3911 Western Boulevard, Raleigh, NC 27606, United States of America",
-    "official_status": "APPROVED",
-    "official_status_display": "Approved 10/06/26",
-    "official_status_date": "10/06/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-08-11"
   },
   "TC-04-26": {
@@ -287,10 +287,10 @@
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=b33bb996-f9c4-4591-8b24-024c4fe7439d&Agenda=Agenda&lang=English",
     "last_seen_at": "2026-11-05T19:02:13.519546+00:00",
     "best_document": null,
-    "official_status": "APPROVED",
-    "official_status_display": "Approved 9-15-26",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-08-26": {
     "case_number": "Z-08-26",
@@ -330,10 +330,10 @@
       "text": "PLANDEV - Z-08-26 - 2026-900.pdf"
     },
     "formatted_address": "5605 Rock Quarry Road, Raleigh, NC 27610, United States of America",
-    "official_status": "APPROVED",
-    "official_status_display": "(link is external) Approved 9/1/26",
-    "official_status_date": "9/1/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-09-01"
   },
   "Z-51-25": {
@@ -370,10 +370,10 @@
       "text": "PLANDEV - Z-51-25 - 2026-904.pdf"
     },
     "formatted_address": "4808 Spring Forest Road, Raleigh, NC 27616, United States of America",
-    "official_status": "APPROVED",
-    "official_status_display": "(link is external) Approved 9/1/26",
-    "official_status_date": "9/1/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-09-01"
   },
   "AX-06-26": {
@@ -402,10 +402,10 @@
       "text": "PLANDEV - AX-06-26 - 2026-900.pdf"
     },
     "formatted_address": "4424 Mitchell Mill Road, Raleigh, NC 20405, United States of America",
-    "official_status": "WITHDRAWN",
-    "official_status_display": "Withdrawn 09/01/26",
-    "official_status_date": "09/01/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-09-01"
   },
   "HLD-0001-2026": {
@@ -430,10 +430,10 @@
       "text": "PLANDEV-HLD-0001-2026 - 2026-885.pdf"
     },
     "formatted_address": "314 South Haywood Street, Raleigh, NC 27601, United States of America",
-    "official_status": "APPROVED",
-    "official_status_display": "Approved by City Council 09/01/26",
-    "official_status_date": "09/01/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-19-25": {
     "case_number": "Z-19-25",
@@ -465,10 +465,10 @@
       "text": "PLANDEV - Z-19-25 - 2026-895.pdf"
     },
     "formatted_address": "416 Dorothea Drive, Raleigh Housing Authority: Heritage Park, Raleigh, NC 27601, United States of America",
-    "official_status": "APPROVED",
-    "official_status_display": "(link is external) Approved 9/1/26",
-    "official_status_date": "9/1/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-09-01"
   },
   "Z-09-26": {
@@ -529,10 +529,10 @@
       "text": "PLANDEV \u2013 Z-9-26 - 2026-777.pdf"
     },
     "formatted_address": "5925 Glenwood Avenue, Raleigh, NC 27612, United States of America",
-    "official_status": "APPROVED",
-    "official_status_display": "(link is external) Approved 9/1/26",
-    "official_status_date": "9/1/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-05-12"
   },
   "Z-14-26": {
@@ -569,10 +569,10 @@
       "text": "PLANDEV - Z-14-26 - 2026-896.pdf"
     },
     "formatted_address": "1132 Gorman Street, Raleigh, NC 27606, United States of America",
-    "official_status": "APPROVED",
-    "official_status_display": "(link is external) Approved 9/1/26",
-    "official_status_date": "9/1/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-06-23"
   },
   "Z-18-26": {
@@ -609,10 +609,10 @@
       "text": "PLANDEV \u2013 Z-18-26 - 2026-778.pdf"
     },
     "formatted_address": "6918 Poole Road, Raleigh, NC 27610, United States of America",
-    "official_status": "APPROVED",
-    "official_status_display": "Approved 9/15/26",
-    "official_status_date": "9/15/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-06-23"
   },
   "Z-15-26": {
@@ -645,10 +645,10 @@
       "text": "PLANDEV - Z-15-26 - 2026-892.pdf"
     },
     "formatted_address": "7600 Falls of Neuse Road, Raleigh, NC 27615, United States of America",
-    "official_status": "APPROVED",
-    "official_status_display": "Approved 10/20/26",
-    "official_status_date": "10/20/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-08-25"
   },
   "Z-22-26": {
@@ -693,10 +693,10 @@
       "text": "PLANDEV - Z-22-26 - 2026-894.pdf"
     },
     "formatted_address": "417 Bragg Street, Raleigh, NC 27601, United States of America",
-    "official_status": "APPROVED",
-    "official_status_display": "Approved 11/04/26",
-    "official_status_date": "11/04/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-08-25"
   },
   "Z-17-26": {
@@ -741,10 +741,10 @@
       "text": "PLANDEV - Z-17-26 - 2026-826.pdf"
     },
     "formatted_address": "5511 Hillsborough Street, Raleigh, NC 27606, United States of America",
-    "official_status": "APPROVED",
-    "official_status_display": "Approved 9/15/26",
-    "official_status_date": "9/15/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-08-11"
   },
   "Z-19-26": {
@@ -787,7 +787,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-08-11",
     "formatted_address": "3717 Edwards Mill Road, Raleigh, NC 27612, United States of America"
   },
@@ -833,10 +833,10 @@
       "text": "PLANDEV - Z-21-26 - 2026-839.pdf"
     },
     "formatted_address": "2905 Hodge Road, Raleigh, NC 27545, United States of America",
-    "official_status": "APPROVED",
-    "official_status_display": "Approved 11/04/26",
-    "official_status_date": "11/04/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-08-11"
   },
   "Z-54-25": {
@@ -865,10 +865,10 @@
       "text": "PLANDEV - Z-54-25 - 2026-634.pdf"
     },
     "formatted_address": "7652 Leesville Road, Raleigh, NC 27613, United States of America",
-    "official_status": "APPROVED",
-    "official_status_display": "(link is external) Approved 8/18/26",
-    "official_status_date": "8/18/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "CP-01-26": {
     "case_number": "CP-01-26",
@@ -899,10 +899,10 @@
       "href": "https://pub-raleighnc.escribemeetings.com/FileStream.ashx?DocumentId=14440",
       "text": "20260623PLANDEVNewBusinessCP-1-26.pdf"
     },
-    "official_status": "ACTIVE",
-    "official_status_display": "Under review",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-06-23",
     "formatted_address": "Raleigh, NC, United States of America"
   },
@@ -932,10 +932,10 @@
       "text": "PLANDEV - Z-16-26 - 2026-710.pdf"
     },
     "formatted_address": "309 North Boylan Avenue, Raleigh, NC 27603, United States of America",
-    "official_status": "APPROVED",
-    "official_status_display": "(link is external) Approved 8/18/26",
-    "official_status_date": "8/18/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-06-23"
   },
   "TC-01-26": {
@@ -960,10 +960,10 @@
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=54ae14d3-9f5f-43f3-9654-7dff23f4a5da&Agenda=Agenda&lang=English",
     "last_seen_at": "2026-11-05T19:02:13.519546+00:00",
     "best_document": null,
-    "official_status": "APPROVED",
-    "official_status_display": "Approved 8-18-26",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-12-26": {
     "case_number": "Z-12-26",
@@ -995,10 +995,10 @@
       "text": "PLANDEV \u2013 Z-12-26 - 2026-618.pdf"
     },
     "formatted_address": "6710 Rock Quarry Road, Raleigh, NC 27610, United States of America",
-    "official_status": "APPROVED",
-    "official_status_display": "Approved 9/15/26",
-    "official_status_date": "9/15/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-06-09"
   },
   "Z-50-24": {
@@ -1037,7 +1037,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2025-05-26",
     "formatted_address": "2245 Garner Road, Caraleigh, Raleigh, NC 27610, United States of America"
   },
@@ -1078,7 +1078,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-04-23"
   },
   "Z-57-25": {
@@ -1134,7 +1134,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-04-28"
   },
   "Z-46-25": {
@@ -1162,7 +1162,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-11-26": {
     "case_number": "Z-11-26",
@@ -1201,7 +1201,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-05-12"
   },
   "Z-05-26": {
@@ -1257,7 +1257,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-04-14"
   },
   "Z-03-26": {
@@ -1293,7 +1293,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-04-28"
   },
   "Z-44-25": {
@@ -1329,7 +1329,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-04-07"
   },
   "Z-15-25": {
@@ -1361,7 +1361,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-39-25": {
     "case_number": "Z-39-25",
@@ -1425,10 +1425,10 @@
       "text": "PLANDEV - Z-39-25 - 2026-321.pdf"
     },
     "formatted_address": "319 Heck Street, Raleigh, NC 27601, United States of America",
-    "official_status": "DENIED",
-    "official_status_display": "(link is external) Denied 8/18/26",
-    "official_status_date": "8/18/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-03-10"
   },
   "Z-35-25": {
@@ -1468,7 +1468,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-03-24"
   },
   "Z-53-25": {
@@ -1496,7 +1496,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-38-25": {
     "case_number": "Z-38-25",
@@ -1551,7 +1551,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-02-24"
   },
   "Z-52-25": {
@@ -1599,7 +1599,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-03-10"
   },
   "Z-01-26": {
@@ -1647,7 +1647,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-03-10"
   },
   "CP-01-25": {
@@ -1679,7 +1679,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-49-25": {
     "case_number": "Z-49-25",
@@ -1734,7 +1734,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-02-10"
   },
   "Z-36-25": {
@@ -1770,7 +1770,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-02-24"
   },
   "Z-45-25": {
@@ -1806,7 +1806,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-02-24"
   },
   "Z-47-25": {
@@ -1842,7 +1842,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-02-24"
   },
   "Z-14-25": {
@@ -1889,7 +1889,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-02-10",
     "formatted_address": "2211 South New Hope Road, Raleigh, NC 27610, United States of America"
   },
@@ -1954,7 +1954,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2025-11-25"
   },
   "Z-31-25": {
@@ -2026,7 +2026,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2025-10-28"
   },
   "Z-37-25": {
@@ -2081,7 +2081,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2025-12-09",
     "formatted_address": "Raleigh, NC, United States of America"
   },
@@ -2138,7 +2138,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-01-06"
   },
   "Z-42-25": {
@@ -2174,7 +2174,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2026-02-10"
   },
   "Z-26-25": {
@@ -2206,7 +2206,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "TC-01-25": {
     "case_number": "TC-01-25",
@@ -2246,10 +2246,10 @@
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=34cf3a07-a6c2-4e1d-85a4-07b21c23d8b2&Agenda=Agenda&lang=English",
     "last_seen_at": "2026-11-05T19:02:13.519546+00:00",
     "best_document": null,
-    "official_status": "APPROVED",
-    "official_status_display": "Approved 1-6-26",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2025-10-28"
   },
   "Z-33-25": {
@@ -2285,7 +2285,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2025-11-12"
   },
   "Z-34-25": {
@@ -2313,7 +2313,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-20-25": {
     "case_number": "Z-20-25",
@@ -2336,7 +2336,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "TC-03-24": {
     "case_number": "TC-03-24",
@@ -2371,7 +2371,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2025-09-23"
   },
   "Z-27-25": {
@@ -2407,7 +2407,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2025-10-14"
   },
   "Z-30-25": {
@@ -2435,7 +2435,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-09-25": {
     "case_number": "Z-09-25",
@@ -2482,7 +2482,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2025-09-23"
   },
   "Z-23-25": {
@@ -2514,7 +2514,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2025-09-23"
   },
   "Z-25-25": {
@@ -2546,7 +2546,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2025-09-23"
   },
   "TC-03-25": {
@@ -2567,10 +2567,10 @@
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=b438e04b-e91a-4092-ac26-d491f83f59e0&Agenda=Agenda&lang=English",
     "last_seen_at": "2026-11-05T19:02:13.519546+00:00",
     "best_document": null,
-    "official_status": "APPROVED",
-    "official_status_display": "Approved 11-18-25",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-11-25": {
     "case_number": "Z-11-25",
@@ -2621,7 +2621,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2025-08-26"
   },
   "Z-18-25": {
@@ -2653,7 +2653,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-17-25": {
     "case_number": "Z-17-25",
@@ -2688,7 +2688,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2025-09-09"
   },
   "Z-08-25": {
@@ -2716,7 +2716,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-16-25": {
     "case_number": "Z-16-25",
@@ -2743,7 +2743,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-22-25": {
     "case_number": "Z-22-25",
@@ -2774,7 +2774,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2025-08-26"
   },
   "Z-05-25": {
@@ -2802,7 +2802,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-13-25": {
     "case_number": "Z-13-25",
@@ -2845,7 +2845,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00",
+    "status_checked_at": "2026-11-12T18:47:10+00:00",
     "presented_date": "2025-08-26"
   },
   "Z-13-24": {
@@ -2873,7 +2873,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-51-24": {
     "case_number": "Z-51-24",
@@ -2900,7 +2900,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-10-25": {
     "case_number": "Z-10-25",
@@ -2927,7 +2927,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-12-25": {
     "case_number": "Z-12-25",
@@ -2950,7 +2950,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0002-2026": {
     "case_number": "BOA-0002-2026",
@@ -3014,7 +3014,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0042-2026": {
     "case_number": "BOA-0042-2026",
@@ -3041,7 +3041,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0050-2026": {
     "case_number": "BOA-0050-2026",
@@ -3093,7 +3093,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0036-2026": {
     "case_number": "BOA-0036-2026",
@@ -3125,7 +3125,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0037-2026": {
     "case_number": "BOA-0037-2026",
@@ -3157,7 +3157,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0038-2026": {
     "case_number": "BOA-0038-2026",
@@ -3189,7 +3189,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0034-2026": {
     "case_number": "BOA-0034-2026",
@@ -3229,7 +3229,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0023-2026": {
     "case_number": "BOA-0023-2026",
@@ -3269,7 +3269,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0026-2026": {
     "case_number": "BOA-0026-2026",
@@ -3309,7 +3309,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0029-2026": {
     "case_number": "BOA-0029-2026",
@@ -3341,7 +3341,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0030-2026": {
     "case_number": "BOA-0030-2026",
@@ -3373,7 +3373,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0031-2026": {
     "case_number": "BOA-0031-2026",
@@ -3405,7 +3405,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0033-2026": {
     "case_number": "BOA-0033-2026",
@@ -3437,7 +3437,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0039-2025": {
     "case_number": "BOA-0039-2025",
@@ -3484,7 +3484,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0021-2026": {
     "case_number": "BOA-0021-2026",
@@ -3544,7 +3544,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0024-2026": {
     "case_number": "BOA-0024-2026",
@@ -3576,7 +3576,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0027-2026": {
     "case_number": "BOA-0027-2026",
@@ -3608,7 +3608,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0028-2026": {
     "case_number": "BOA-0028-2026",
@@ -3640,7 +3640,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0010-2026": {
     "case_number": "BOA-0010-2026",
@@ -3680,7 +3680,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0015-2026": {
     "case_number": "BOA-0015-2026",
@@ -3712,7 +3712,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0017-2026": {
     "case_number": "BOA-0017-2026",
@@ -3744,7 +3744,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0018-2026": {
     "case_number": "BOA-0018-2026",
@@ -3776,7 +3776,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0019-2026": {
     "case_number": "BOA-0019-2026",
@@ -3804,7 +3804,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0022-2026": {
     "case_number": "BOA-0022-2026",
@@ -3832,7 +3832,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0020-2026": {
     "case_number": "BOA-0020-2026",
@@ -3859,7 +3859,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0011-2026": {
     "case_number": "BOA-0011-2026",
@@ -3891,7 +3891,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0013-2026": {
     "case_number": "BOA-0013-2026",
@@ -3923,7 +3923,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0014-2026": {
     "case_number": "BOA-0014-2026",
@@ -3950,7 +3950,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0057-2025": {
     "case_number": "BOA-0057-2025",
@@ -3986,7 +3986,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0001-2026": {
     "case_number": "BOA-0001-2026",
@@ -4018,7 +4018,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0003-2026": {
     "case_number": "BOA-0003-2026",
@@ -4050,7 +4050,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0004-2026": {
     "case_number": "BOA-0004-2026",
@@ -4082,7 +4082,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0005-2026": {
     "case_number": "BOA-0005-2026",
@@ -4114,7 +4114,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0006-2026": {
     "case_number": "BOA-0006-2026",
@@ -4146,7 +4146,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0007-2026": {
     "case_number": "BOA-0007-2026",
@@ -4178,7 +4178,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0008-2026": {
     "case_number": "BOA-0008-2026",
@@ -4210,7 +4210,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0009-2026": {
     "case_number": "BOA-0009-2026",
@@ -4242,7 +4242,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0055-2025": {
     "case_number": "BOA-0055-2025",
@@ -4274,7 +4274,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0056-2025": {
     "case_number": "BOA-0056-2025",
@@ -4306,7 +4306,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0058-2025": {
     "case_number": "BOA-0058-2025",
@@ -4338,7 +4338,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0059-2025": {
     "case_number": "BOA-0059-2025",
@@ -4370,7 +4370,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0049-2025": {
     "case_number": "BOA-0049-2025",
@@ -4410,7 +4410,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0045-2025": {
     "case_number": "BOA-0045-2025",
@@ -4442,7 +4442,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0053-2025": {
     "case_number": "BOA-0053-2025",
@@ -4474,7 +4474,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0054-2025": {
     "case_number": "BOA-0054-2025",
@@ -4506,7 +4506,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0037-2025": {
     "case_number": "BOA-0037-2025",
@@ -4537,7 +4537,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0040-2025": {
     "case_number": "BOA-0040-2025",
@@ -4568,7 +4568,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0044-2025": {
     "case_number": "BOA-0044-2025",
@@ -4608,7 +4608,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0043-2025": {
     "case_number": "BOA-0043-2025",
@@ -4640,7 +4640,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0048-2025": {
     "case_number": "BOA-0048-2025",
@@ -4672,7 +4672,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0051-2025": {
     "case_number": "BOA-0051-2025",
@@ -4704,7 +4704,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0050-2025": {
     "case_number": "BOA-0050-2025",
@@ -4736,7 +4736,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "DA-09-2026": {
     "case_number": "DA-09-2026",
@@ -4783,7 +4783,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "DA-06-2026": {
     "case_number": "DA-06-2026",
@@ -4826,7 +4826,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "DA-07-2026": {
     "case_number": "DA-07-2026",
@@ -4861,7 +4861,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "DA-08-2026": {
     "case_number": "DA-08-2026",
@@ -4892,7 +4892,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "DA-02-2026": {
     "case_number": "DA-02-2026",
@@ -4923,7 +4923,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "DA-03-2026": {
     "case_number": "DA-03-2026",
@@ -4958,7 +4958,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "DA-05-2026": {
     "case_number": "DA-05-2026",
@@ -4989,7 +4989,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "DA-01-2026": {
     "case_number": "DA-01-2026",
@@ -5020,7 +5020,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "DA-14-2025": {
     "case_number": "DA-14-2025",
@@ -5051,7 +5051,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "DA-15-2025": {
     "case_number": "DA-15-2025",
@@ -5082,7 +5082,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "DA-09-2025": {
     "case_number": "DA-09-2025",
@@ -5126,7 +5126,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "DA-11-2025": {
     "case_number": "DA-11-2025",
@@ -5158,7 +5158,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "DA-11-25": {
     "case_number": "DA-11-25",
@@ -5181,7 +5181,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "DA-12-2025": {
     "case_number": "DA-12-2025",
@@ -5213,7 +5213,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "DA-13-2025": {
     "case_number": "DA-13-2025",
@@ -5245,7 +5245,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "DA-05-2025": {
     "case_number": "DA-05-2025",
@@ -5272,7 +5272,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "DA-08-2025": {
     "case_number": "DA-08-2025",
@@ -5304,7 +5304,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-14-16": {
     "case_number": "Z-14-16",
@@ -5328,7 +5328,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-16-16": {
     "case_number": "Z-16-16",
@@ -5356,7 +5356,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-02-26": {
     "case_number": "Z-02-26",
@@ -5392,7 +5392,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-32-25": {
     "case_number": "Z-32-25",
@@ -5428,7 +5428,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-28-25": {
     "case_number": "Z-28-25",
@@ -5455,7 +5455,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-25-2025": {
     "case_number": "Z-25-2025",
@@ -5491,7 +5491,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-18-2025": {
     "case_number": "Z-18-2025",
@@ -5539,7 +5539,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-08-2025": {
     "case_number": "Z-08-2025",
@@ -5575,7 +5575,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-16-2025": {
     "case_number": "Z-16-2025",
@@ -5611,7 +5611,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-22-2025": {
     "case_number": "Z-22-2025",
@@ -5643,7 +5643,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0016-2026": {
     "case_number": "BOA-0016-2026",
@@ -5675,7 +5675,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-14-2026": {
     "case_number": "BOA-14-2026",
@@ -5703,7 +5703,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0057-2026": {
     "case_number": "BOA-0057-2026",
@@ -5739,7 +5739,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0041-2026": {
     "case_number": "BOA-0041-2026",
@@ -5771,7 +5771,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0040-2026": {
     "case_number": "BOA-0040-2026",
@@ -5798,7 +5798,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0046-2026": {
     "case_number": "BOA-0046-2026",
@@ -5830,7 +5830,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0049-2026": {
     "case_number": "BOA-0049-2026",
@@ -5862,7 +5862,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0047-2026": {
     "case_number": "BOA-0047-2026",
@@ -5894,7 +5894,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0044-2026": {
     "case_number": "BOA-0044-2026",
@@ -5926,7 +5926,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "TC-05-26": {
     "case_number": "TC-05-26",
@@ -5950,10 +5950,10 @@
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=6b36dfab-92ce-4140-b646-5ed49a9167ac&Agenda=Agenda&lang=English",
     "last_seen_at": "2026-11-05T19:02:13.519546+00:00",
     "best_document": null,
-    "official_status": "APPROVED",
-    "official_status_display": "Approved 11-4-26",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-28-26": {
     "case_number": "Z-28-26",
@@ -5986,10 +5986,10 @@
     "last_seen_at": "2026-11-05T19:02:13.519546+00:00",
     "best_document": null,
     "presented_date": "2026-09-22",
-    "official_status": "ACTIVE",
-    "official_status_display": "Council Public Hearing 11/17/26",
-    "official_status_date": "11/17/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-30-26": {
     "case_number": "Z-30-26",
@@ -6022,10 +6022,10 @@
     "last_seen_at": "2026-11-05T19:02:13.519546+00:00",
     "best_document": null,
     "presented_date": "2026-09-22",
-    "official_status": "WITHDRAWN",
-    "official_status_display": "Withdrawn 11/04/26",
-    "official_status_date": "11/04/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-13-26": {
     "case_number": "Z-13-26",
@@ -6054,10 +6054,10 @@
     "last_seen_at": "2026-11-05T19:02:13.519546+00:00",
     "best_document": null,
     "presented_date": "2026-09-22",
-    "official_status": "ACTIVE",
-    "official_status_display": "Council Public Hearing 11/17/26",
-    "official_status_date": "11/17/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-04-26": {
     "case_number": "Z-04-26",
@@ -6086,10 +6086,10 @@
     "last_seen_at": "2026-11-05T19:02:13.519546+00:00",
     "best_document": null,
     "presented_date": "2026-09-22",
-    "official_status": "ACTIVE",
-    "official_status_display": "Council Public Hearing 11/17/26",
-    "official_status_date": "11/17/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "DA-11-2026": {
     "case_number": "DA-11-2026",
@@ -6124,7 +6124,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0032-2026": {
     "case_number": "BOA-0032-2026",
@@ -6160,7 +6160,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0051-2026": {
     "case_number": "BOA-0051-2026",
@@ -6196,7 +6196,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0053-2026": {
     "case_number": "BOA-0053-2026",
@@ -6232,7 +6232,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0054-2026": {
     "case_number": "BOA-0054-2026",
@@ -6268,7 +6268,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0039-2026": {
     "case_number": "BOA-0039-2026",
@@ -6304,7 +6304,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-23-26": {
     "case_number": "Z-23-26",
@@ -6333,10 +6333,10 @@
     "last_seen_at": "2026-11-05T19:02:13.519546+00:00",
     "best_document": null,
     "presented_date": "2026-10-13",
-    "official_status": "ACTIVE",
-    "official_status_display": "Council Public Hearing 11/17/26",
-    "official_status_date": "11/17/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-25-26": {
     "case_number": "Z-25-26",
@@ -6369,10 +6369,10 @@
     "last_seen_at": "2026-11-05T19:02:13.519546+00:00",
     "best_document": null,
     "presented_date": "2026-10-13",
-    "official_status": "ACTIVE",
-    "official_status_display": "Council Public Hearing 12/01/26",
-    "official_status_date": "12/01/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-32-26": {
     "case_number": "Z-32-26",
@@ -6405,10 +6405,10 @@
     "last_seen_at": "2026-11-05T19:02:13.519546+00:00",
     "best_document": null,
     "presented_date": "2026-10-13",
-    "official_status": "ACTIVE",
-    "official_status_display": "Council Public Hearing 12/01/26",
-    "official_status_date": "12/01/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "TC-03-26": {
     "case_number": "TC-03-26",
@@ -6432,10 +6432,10 @@
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=9bca22fc-7b8d-4da4-89a1-2ed9c8f5302b&Agenda=Agenda&lang=English",
     "last_seen_at": "2026-11-05T19:02:13.519546+00:00",
     "best_document": null,
-    "official_status": "ACTIVE",
-    "official_status_display": "City Council Report of PC 11/17",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "TC-06-26": {
     "case_number": "TC-06-26",
@@ -6459,10 +6459,10 @@
     "last_seen_meeting": "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=9bca22fc-7b8d-4da4-89a1-2ed9c8f5302b&Agenda=Agenda&lang=English",
     "last_seen_at": "2026-11-05T19:02:13.519546+00:00",
     "best_document": null,
-    "official_status": "ACTIVE",
-    "official_status_display": "City Council Report of PC 11/17",
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "DA-10-2026": {
     "case_number": "DA-10-2026",
@@ -6489,7 +6489,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "DA-12-2026": {
     "case_number": "DA-12-2026",
@@ -6516,7 +6516,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "DA-13-2026": {
     "case_number": "DA-13-2026",
@@ -6543,7 +6543,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0055-2026": {
     "case_number": "BOA-0055-2026",
@@ -6571,7 +6571,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0056-2026": {
     "case_number": "BOA-0056-2026",
@@ -6599,7 +6599,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0058-2026": {
     "case_number": "BOA-0058-2026",
@@ -6627,7 +6627,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0059-2026": {
     "case_number": "BOA-0059-2026",
@@ -6655,7 +6655,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "BOA-0060-2026": {
     "case_number": "BOA-0060-2026",
@@ -6683,7 +6683,7 @@
     "official_status": "NOT_LISTED",
     "official_status_display": "No longer listed by the city \u2014 status unknown",
     "official_status_date": null,
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-24-26": {
     "case_number": "Z-24-26",
@@ -6716,10 +6716,10 @@
     "last_seen_at": "2026-11-06T18:00:39.847313+00:00",
     "best_document": null,
     "presented_date": "2026-11-10",
-    "official_status": "ACTIVE",
-    "official_status_display": "Planning Commission 11/24/26",
-    "official_status_date": "11/24/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   },
   "Z-36-26": {
     "case_number": "Z-36-26",
@@ -6752,9 +6752,9 @@
     "last_seen_at": "2026-11-06T18:00:39.847313+00:00",
     "best_document": null,
     "presented_date": "2026-11-10",
-    "official_status": "ACTIVE",
-    "official_status_display": "Planning Commission 12/01/26",
-    "official_status_date": "12/01/26",
-    "status_checked_at": "2026-11-11T18:26:05+00:00"
+    "official_status": "NOT_LISTED",
+    "official_status_display": "No longer listed by the city \u2014 status unknown",
+    "official_status_date": null,
+    "status_checked_at": "2026-11-12T18:47:10+00:00"
   }
 }

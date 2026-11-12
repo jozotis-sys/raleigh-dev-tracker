@@ -97,11 +97,11 @@
   },
   "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=d997e167-d9b3-4e8f-9934-062fcff5d2c3&Agenda=Agenda&lang=English": {
     "first_checked": "2026-11-06",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-12"
   },
   "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=113c9ea8-85a3-475e-93d7-28906fc35dbc&Agenda=Agenda&lang=English": {
     "first_checked": "2026-11-06",
-    "last_checked": "2026-11-09"
+    "last_checked": "2026-11-12"
   },
   "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=5d5339f6-e7ec-4471-b577-e7fcdf4fd30c&Agenda=Agenda&lang=English": {
     "first_checked": "2026-11-07",
@@ -110,5 +110,9 @@
   "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=ea1c6500-772f-468f-8445-e9485abf5f75&Agenda=Agenda&lang=English": {
     "first_checked": "2026-11-10",
     "last_checked": "2026-11-10"
+  },
+  "https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=cdf9b52e-9f40-48f1-a754-ad0bbe8ace2e&Agenda=Agenda&lang=English": {
+    "first_checked": "2026-11-12",
+    "last_checked": "2026-11-12"
   }
 }
