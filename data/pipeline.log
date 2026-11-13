@@ -3012,3 +3012,32 @@
 [2026-11-12 18:43:24 UTC]   Found 12 meeting link(s) total, 0 new, 0 recheck(s).
 [2026-11-12 18:43:24 UTC] === Run finished. 51 meeting(s) processed total, 29 awaiting an agenda, 188 case(s) in store, 0 new this run. ===
 
+[2026-11-13 18:23:00 UTC] === Run started. 51 meeting(s) already processed, 29 awaiting an agenda, 188 case(s) in store. ===
+[2026-11-13 18:23:00 UTC] Checking committee: City Council
+[2026-11-13 18:23:06 UTC]   Found 8 meeting link(s) total, 4 new, 1 recheck(s).
+[2026-11-13 18:23:06 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=ea1c6500-772f-468f-8445-e9485abf5f75&Agenda=Agenda&lang=English
+[2026-11-13 18:23:11 UTC]     No development cases found on this agenda (yet).
+[2026-11-13 18:23:13 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=7cefaeac-306b-462e-b1ba-6f8c763c6836&Agenda=Agenda&lang=English
+[2026-11-13 18:23:17 UTC]     No development cases found on this agenda (yet).
+[2026-11-13 18:23:19 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2d345951-2b09-4a11-b68d-eb707097f5d8&Agenda=Agenda&lang=English
+[2026-11-13 18:23:23 UTC]     No development cases found on this agenda (yet).
+[2026-11-13 18:23:25 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=9ab38c98-d604-4e5d-964a-e5ff0312692f&Agenda=Agenda&lang=English
+[2026-11-13 18:23:29 UTC]     No development cases found on this agenda (yet).
+[2026-11-13 18:23:31 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=bb96d690-a16b-467b-8df8-ecda6eee7337&Agenda=Agenda&lang=English
+[2026-11-13 18:23:35 UTC]     No development cases found on this agenda (yet).
+[2026-11-13 18:23:37 UTC] Checking committee: City Council
+[2026-11-13 18:23:42 UTC]   Found 8 meeting link(s) total, 0 new, 0 recheck(s).
+[2026-11-13 18:23:42 UTC] Checking committee: Planning Commission
+[2026-11-13 18:23:48 UTC]   Found 27 meeting link(s) total, 0 new, 0 recheck(s).
+[2026-11-13 18:23:48 UTC] Checking committee: Planning Commission
+[2026-11-13 18:23:53 UTC]   Found 17 meeting link(s) total, 0 new, 0 recheck(s).
+[2026-11-13 18:23:53 UTC] Checking committee: Board of Adjustment
+[2026-11-13 18:23:58 UTC]   Found 20 meeting link(s) total, 0 new, 0 recheck(s).
+[2026-11-13 18:23:58 UTC] Checking committee: Board of Adjustment
+[2026-11-13 18:24:03 UTC]   Found 11 meeting link(s) total, 0 new, 0 recheck(s).
+[2026-11-13 18:24:03 UTC] Checking committee: Design Review Commission
+[2026-11-13 18:24:09 UTC]   Found 26 meeting link(s) total, 0 new, 0 recheck(s).
+[2026-11-13 18:24:09 UTC] Checking committee: Design Review Commission
+[2026-11-13 18:24:14 UTC]   Found 12 meeting link(s) total, 0 new, 0 recheck(s).
+[2026-11-13 18:24:14 UTC] === Run finished. 51 meeting(s) processed total, 33 awaiting an agenda, 188 case(s) in store, 0 new this run. ===
+
