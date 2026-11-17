@@ -3156,3 +3156,54 @@
 [2026-11-16 20:50:22 UTC]   Found 16 meeting link(s) total, 0 new, 0 recheck(s).
 [2026-11-16 20:50:22 UTC] === Run finished. 52 meeting(s) processed total, 36 awaiting an agenda, 189 case(s) in store, 0 new this run. ===
 
+[2026-11-17 19:37:31 UTC] === Run started. 52 meeting(s) already processed, 36 awaiting an agenda, 189 case(s) in store. ===
+[2026-11-17 19:37:31 UTC] Checking committee: City Council
+[2026-11-17 19:37:38 UTC]   Found 11 meeting link(s) total, 0 new, 2 recheck(s).
+[2026-11-17 19:37:38 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=2f60b7fa-b10b-4c5e-b185-4ffc4ddefee2&Agenda=Agenda&lang=English
+[2026-11-17 19:37:42 UTC]     No development cases found on this agenda (yet).
+[2026-11-17 19:37:44 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1b7c415c-1d85-4c82-a763-438904d74bde&Agenda=Agenda&lang=English
+[2026-11-17 19:37:48 UTC]     No development cases found on this agenda (yet).
+[2026-11-17 19:37:50 UTC] Checking committee: City Council
+[2026-11-17 19:37:55 UTC]   Found 11 meeting link(s) total, 0 new, 0 recheck(s).
+[2026-11-17 19:37:55 UTC] Checking committee: Planning Commission
+[2026-11-17 19:38:01 UTC]   Found 30 meeting link(s) total, 0 new, 1 recheck(s).
+[2026-11-17 19:38:01 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=74fc1a06-8253-41e1-bd3f-0d25f66871ce&Agenda=Agenda&lang=English
+[2026-11-17 19:38:05 UTC]     No development cases found on this agenda (yet).
+[2026-11-17 19:38:07 UTC] Checking committee: Planning Commission
+[2026-11-17 19:38:13 UTC]   Found 20 meeting link(s) total, 0 new, 0 recheck(s).
+[2026-11-17 19:38:13 UTC] Checking committee: Board of Adjustment
+[2026-11-17 19:38:18 UTC]   Found 23 meeting link(s) total, 0 new, 1 recheck(s).
+[2026-11-17 19:38:18 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1c2b273f-637f-4717-aff4-b76fccdea1a1&Agenda=Agenda&lang=English
+[2026-11-17 19:38:22 UTC]     No development cases found on this agenda (yet).
+[2026-11-17 19:38:24 UTC] Checking committee: Board of Adjustment
+[2026-11-17 19:38:29 UTC]   Found 14 meeting link(s) total, 0 new, 1 recheck(s).
+[2026-11-17 19:38:29 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=c20e2071-50d2-4513-8097-43c999600241&Agenda=Agenda&lang=English
+[2026-11-17 19:38:33 UTC]     No development cases found on this agenda (yet).
+[2026-11-17 19:38:35 UTC] Checking committee: Design Review Commission
+[2026-11-17 19:38:41 UTC]   Found 29 meeting link(s) total, 0 new, 10 recheck(s).
+[2026-11-17 19:38:41 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=f1db78ef-f717-4137-a4e2-4359e7508933&Agenda=Agenda&lang=English
+[2026-11-17 19:38:45 UTC]     No development cases found on this agenda (yet).
+[2026-11-17 19:38:47 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=392b3b42-a3e7-40d4-bb7d-9bb3564bba6c&Agenda=Agenda&lang=English
+[2026-11-17 19:38:52 UTC]     No development cases found on this agenda (yet).
+[2026-11-17 19:38:54 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=54b4a5e1-01eb-4a49-bde9-264a9afb5296&Agenda=Agenda&lang=English
+[2026-11-17 19:38:57 UTC]     No development cases found on this agenda (yet).
+[2026-11-17 19:38:59 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=10c76b60-0972-4b49-9459-25ef34e51ebc&Agenda=Agenda&lang=English
+[2026-11-17 19:39:04 UTC]     No development cases found on this agenda (yet).
+[2026-11-17 19:39:06 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=95575cc4-3cd0-425f-8c71-270f327a4596&Agenda=Agenda&lang=English
+[2026-11-17 19:39:10 UTC]     No development cases found on this agenda (yet).
+[2026-11-17 19:39:12 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=3ea3c008-33ec-4a6d-8576-144f041353af&Agenda=Agenda&lang=English
+[2026-11-17 19:39:16 UTC]     No development cases found on this agenda (yet).
+[2026-11-17 19:39:18 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=87b0b3d2-bdbc-4185-a4ce-876153d6454e&Agenda=Agenda&lang=English
+[2026-11-17 19:39:22 UTC]     No development cases found on this agenda (yet).
+[2026-11-17 19:39:24 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=b30985ac-573a-47dc-b4e2-ef85970578db&Agenda=Agenda&lang=English
+[2026-11-17 19:39:28 UTC]     No development cases found on this agenda (yet).
+[2026-11-17 19:39:30 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1ad81101-faf3-4b04-bc2c-3e4dbb70b6e2&Agenda=Agenda&lang=English
+[2026-11-17 19:39:35 UTC]     No development cases found on this agenda (yet).
+[2026-11-17 19:39:37 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=43a12b53-e07b-4c9d-a776-7fd6c8ea5dbd&Agenda=Agenda&lang=English
+[2026-11-17 19:39:40 UTC]     No development cases found on this agenda (yet).
+[2026-11-17 19:39:43 UTC] Checking committee: Design Review Commission
+[2026-11-17 19:39:48 UTC]   Found 15 meeting link(s) total, 0 new, 1 recheck(s).
+[2026-11-17 19:39:48 UTC]   Fetching meeting: https://pub-raleighnc.escribemeetings.com/Meeting.aspx?Id=1fcbb5be-d1d6-4f31-a544-6f2a8bb61209&Agenda=Agenda&lang=English
+[2026-11-17 19:39:52 UTC]     No development cases found on this agenda (yet).
+[2026-11-17 19:39:54 UTC] === Run finished. 52 meeting(s) processed total, 36 awaiting an agenda, 189 case(s) in store, 0 new this run. ===
+
